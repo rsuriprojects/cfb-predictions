@@ -113,6 +113,21 @@
   .tile.mvf .who.lead::after { content: " ▲"; color: var(--good); }
   .tile.mvf .split { border-left: 1px solid var(--line); padding-left: 20px; }
   .tile.mvf .split .v { font-size: 34px; }
+
+  /* ---------- your team ---------- */
+  .myteam { margin: 28px 0 0; display: flex; align-items: center; gap: 16px 24px; flex-wrap: wrap; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 20px; }
+  .myteam.set { border-color: rgba(255,176,0,.35); background: linear-gradient(135deg, rgba(255,176,0,.12), rgba(255,176,0,.02) 60%), var(--card); }
+  .myteam .info { flex: 1; min-width: 220px; display: flex; align-items: center; gap: 14px; }
+  .myteam .k { font: 600 11px/1 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-3); }
+  .myteam .nm { font-family: var(--display); font-size: 26px; text-transform: uppercase; line-height: 1.05; margin-top: 6px; }
+  .myteam .s { color: var(--ink-2); font-size: 13px; margin-top: 6px; }
+  .myteam .facts { display: flex; gap: 22px; flex-wrap: wrap; }
+  .myteam .facts span { display: block; font: 600 11px var(--mono); color: var(--ink-3); letter-spacing: .08em; text-transform: uppercase; }
+  .myteam .facts b { display: block; font: 700 17px var(--mono); margin-top: 4px; }
+  .myteam .ctl { display: flex; gap: 8px; flex-wrap: wrap; }
+  .myteam select { max-width: 220px; }
+  .game.mine { border-color: rgba(255,176,0,.6); box-shadow: inset 0 0 0 1px rgba(255,176,0,.35); }
+  .row.mine, .rank.mine { background: rgba(255,176,0,.09); }
   .streak-dots { display: flex; gap: 4px; margin-top: 12px; flex-wrap: wrap; }
   .streak-dots i { width: 10px; height: 10px; border-radius: 3px; background: var(--bad); opacity: .9; }
   .streak-dots i.w { background: var(--good); }
@@ -283,6 +298,8 @@
     .hero { padding-top: 32px; }
     .tile .v { font-size: 36px; }
     .tile.mvf { grid-template-columns: 1fr 1fr; }
+    .myteam { padding: 16px; }
+    .myteam .ctl, .myteam select { width: 100%; max-width: none; }
     .tile.mvf .split { grid-column: 1 / -1; border-left: 0; padding-left: 0; border-top: 1px solid var(--line); padding-top: 14px; }
     .tile.main .v { font-size: 54px; }
     .grid { grid-template-columns: 1fr; }
@@ -308,6 +325,15 @@
     <div class="eyebrow" id="season-label">College football</div>
     <h1><span class="outline">Every game.</span><br><span class="grad">Called weekly.</span></h1>
     <p class="lede">Elo ratings seeded from each roster's talent, returning production and recruiting pick every FBS game a week ahead, then grade themselves when the clock hits zero.</p>
+
+    <div class="myteam" id="myteam">
+      <div class="info" id="mt-info"></div>
+      <div class="facts" id="mt-facts"></div>
+      <div class="ctl">
+        <select class="chip" id="mt-sel" aria-label="Your team"><option value="">Pick your team…</option></select>
+        <button class="chip" id="mt-clear" hidden>Clear</button>
+      </div>
+    </div>
 
     <div class="stats">
       <div class="tile main">
@@ -475,7 +501,7 @@ function card(g, { result = null } = {}) {
     g.backfilled ? `<span class="tag bf" title="Logged after the game, computed only from data available before it">Backfilled</span>` : "",
   ].join(" ");
   const fav = g.fav ? `<div class="fav-line">Betting favorite: <b>${esc(g.fav)}</b> ${pct(+g.fav_prob)}${done && g.fav_correct !== null ? (g.fav_correct ? " ✓" : " ✗") : ""}</div>` : "";
-  return `<article class="game" style="--c-away:${color(g.away)};--c-home:${color(g.home)}">
+  return `<article class="game ${isMine(g) ? "mine" : ""}" style="--c-away:${color(g.away)};--c-home:${color(g.home)}">
     <div class="game-top"><span>${done ? "Final" : g.kickoff_utc ? kick(g) : relDay(g.game_date)}</span><span>${tags}</span></div>
     <div class="teams">${team(g.away, "away")}<div class="vs">${g.neutral ? "vs" : "@"}</div>${team(g.home, "home")}</div>
     ${probBar(g)}
@@ -491,7 +517,7 @@ function card(g, { result = null } = {}) {
 function row(g) {
   const conf = Math.max(g.p_home, 1 - g.p_home);
   const t = n => `<div class="t ${g.pick === n ? "p" : ""}">${badge(n, "mini")}<span>${esc(n)}</span></div>`;
-  return `<div class="row">
+  return `<div class="row ${isMine(g) ? "mine" : ""}">
     <div class="matchup">${t(g.away)}<span class="at">${g.neutral ? "vs" : "@"}</span>${t(g.home)}</div>
     <div class="prob-bar"><span style="width:${(1-g.p_home)*100}%;background:${color(g.away)}"></span><span style="width:${g.p_home*100}%;background:${color(g.home)}"></span></div>
     <div class="pct" title="Pick: ${esc(g.pick)}">${esc(code(g.pick))} ${pct(conf)}</div>
@@ -502,6 +528,52 @@ const groupBy = (rows, k) => rows.reduce((m, r) => ((m[typeof k === "function" ?
 // ---------------------------------------------------------------- state
 let RESULTS = [], UPCOMING = [], WEEK = [], wkFilter = "fbs", pastFilter = "fbs", upTeam = "", upShown = 7, pastShown = 1;
 const keep = (rows, f) => f === "all" ? rows : rows.filter(r => r.fbs_both);
+
+// ---------------------------------------------------------------- your team
+// Saved in this browser only, so each visitor picks their own; change or clear
+// it any time. If storage is blocked it just isn't remembered.
+let MINE = "", ELO = {};
+try { MINE = localStorage.getItem("cfb-team") || ""; } catch (e) {}
+const isMine = g => !!MINE && (g.home === MINE || g.away === MINE);
+const mineFirst = gs => [...gs].sort((a, b) => isMine(b) - isMine(a));
+
+function renderMyTeam() {
+  const box = document.getElementById("myteam"), info = document.getElementById("mt-info"), facts = document.getElementById("mt-facts");
+  if (MINE && !TEAMS[MINE]) MINE = "";
+  document.getElementById("mt-sel").value = MINE;
+  document.getElementById("mt-clear").hidden = !MINE;
+  box.classList.toggle("set", !!MINE);
+  if (!MINE) {
+    info.innerHTML = `<div><div class="k">Your team</div><div class="s">Pick a team to highlight its games and follow its picks. Saved in this browser; change it any time.</div></div>`;
+    facts.innerHTML = "";
+    return;
+  }
+  info.innerHTML = `${badge(MINE)}<div><div class="k">Your team · ${esc(TEAMS[MINE][2])}</div><div class="nm">${esc(MINE)}</div></div>`;
+  const played = RESULTS.filter(isMine);
+  const w = played.filter(r => r.winner === MINE).length, mc = played.filter(r => r.correct).length;
+  const rank = Object.keys(ELO).indexOf(MINE) + 1;
+  const done = new Set(played.map(r => r.home + r.away));
+  const next = [...WEEK, ...UPCOMING].filter(g => isMine(g) && !done.has(g.home + g.away))
+    .sort((a, b) => a.kickoff_utc.localeCompare(b.kickoff_utc))[0];
+  const f = (k, v, t = "") => `<div title="${esc(t)}"><span>${k}</span><b>${v}</b></div>`;
+  facts.innerHTML = [
+    f("Record", `${w}–${played.length - w}`),
+    rank ? f("Power rank", `#${rank}`, `of ${Object.keys(ELO).length} FBS teams`) : "",
+    played.length ? f("Model on their games", `${mc}/${played.length}`) : "",
+    next ? (() => {
+      const opp = next.home === MINE ? next.away : next.home, where = next.neutral ? "vs" : next.home === MINE ? "vs" : "at";
+      const p = next.home === MINE ? next.p_home : 1 - next.p_home;
+      return f(`Next: ${relDay(next.game_date)}`, `${where} ${esc(code(opp))} · ${pct(p)} to win`, `${where} ${opp}`);
+    })() : "",
+  ].join("");
+}
+function setMine(team) {
+  MINE = team;
+  try { team ? localStorage.setItem("cfb-team", team) : localStorage.removeItem("cfb-team"); } catch (e) {}
+  renderMyTeam(); renderWeek(); renderUpcoming(); renderPast(); renderRanks(ELO);
+}
+document.getElementById("mt-sel").onchange = e => setMine(e.target.value);
+document.getElementById("mt-clear").onclick = () => setMine("");
 
 // ---------------------------------------------------------------- this week
 function renderWeek() {
@@ -519,7 +591,7 @@ function renderWeek() {
     const w = fin.filter(r => r.correct).length;
     return `<div class="day">
       <div class="day-head"><span class="d">${relDay(d)}</span><span class="n">${fmtDay(d, { month: "short", day: "numeric" })} · ${gs.length} game${gs.length > 1 ? "s" : ""}</span>${fin.length ? `<span class="rec">${w}/${fin.length} correct</span>` : ""}</div>
-      <div class="grid">${gs.map(g => { const r = graded[g.game_date + g.home + g.away];
+      <div class="grid">${mineFirst(gs).map(g => { const r = graded[g.game_date + g.home + g.away];
         return r ? card({ ...g, ...r, fav: g.fav, fav_prob: g.fav_prob }, { result: true }) : card(g); }).join("")}</div>
     </div>`;
   }).join("");
@@ -687,7 +759,7 @@ function renderRanks(elo) {
   if (!rows.length) { el.innerHTML = `<div class="empty">Ratings appear after the next morning run.</div>`; return; }
   const lo = Math.min(...rows.map(r => r[1])) - 20, hi = Math.max(...rows.map(r => r[1]));
   el.innerHTML = `<div class="ranks">${rows.slice(0, ranksShown).map(([t, v], i) => `
-    <div class="rank" style="--c:${color(t)}">
+    <div class="rank ${t === MINE ? "mine" : ""}" style="--c:${color(t)}">
       <span class="n">${i + 1}</span>${badge(t, "mini")}
       <span class="nm" title="${esc(TEAMS[t]?.[2] || "")}">${esc(t)}</span>
       <div class="bar"><span style="width:${((v - lo) / (hi - lo) * 100).toFixed(1)}%"></span></div>
@@ -703,7 +775,11 @@ Promise.allSettled([getText("results.csv").then(parseCSV), getJSON("upcoming.jso
   const U = up.status === "fulfilled" ? up.value : null;
   TEAMS = U?.teams || {};
   UPCOMING = U ? U.games : [];
-  Object.keys(TEAMS).sort().forEach(t => teamSel.insertAdjacentHTML("beforeend", `<option>${esc(t)}</option>`));
+  Object.keys(TEAMS).sort().forEach(t => {
+    teamSel.insertAdjacentHTML("beforeend", `<option>${esc(t)}</option>`);
+    document.getElementById("mt-sel").insertAdjacentHTML("beforeend", `<option>${esc(t)}</option>`);
+  });
+  ELO = U?.elo || {};
   if (U?.generated_at_utc) {
     const t = new Date(U.generated_at_utc);
     document.getElementById("updated").textContent = "Updated " + t.toLocaleString("en-US", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
@@ -718,7 +794,7 @@ Promise.allSettled([getText("results.csv").then(parseCSV), getJSON("upcoming.jso
     document.getElementById("week-h").textContent = weekName(g);
     try { WEEK = await getJSON(`predictions/${weekKey(g)}.json`); } catch (e) { WEEK = []; }
   }
-  renderStats(); renderWeek(); renderUpcoming(); renderPast(); renderRanks(U?.elo);
+  renderMyTeam(); renderStats(); renderWeek(); renderUpcoming(); renderPast(); renderRanks(ELO);
   try {
     const t = localStorage.getItem("cfb-tab"), b = document.querySelector(`[data-tab="${t}"]`);
     if (b) b.click();
