@@ -1,0 +1,5166 @@
+{
+ "talent": [
+  {
+   "year": 2026,
+   "team": "Georgia",
+   "talent": 1003.67
+  },
+  {
+   "year": 2026,
+   "team": "Texas",
+   "talent": 985.17
+  },
+  {
+   "year": 2026,
+   "team": "Oregon",
+   "talent": 984.33
+  },
+  {
+   "year": 2026,
+   "team": "Alabama",
+   "talent": 973.53
+  },
+  {
+   "year": 2026,
+   "team": "Ohio State",
+   "talent": 964.27
+  },
+  {
+   "year": 2026,
+   "team": "Notre Dame",
+   "talent": 953.03
+  },
+  {
+   "year": 2026,
+   "team": "Texas A&M",
+   "talent": 933
+  },
+  {
+   "year": 2026,
+   "team": "LSU",
+   "talent": 931.76
+  },
+  {
+   "year": 2026,
+   "team": "USC",
+   "talent": 899
+  },
+  {
+   "year": 2026,
+   "team": "Florida",
+   "talent": 891.07
+  },
+  {
+   "year": 2026,
+   "team": "Michigan",
+   "talent": 890.02
+  },
+  {
+   "year": 2026,
+   "team": "Miami",
+   "talent": 885.94
+  },
+  {
+   "year": 2026,
+   "team": "Tennessee",
+   "talent": 885.9
+  },
+  {
+   "year": 2026,
+   "team": "Ole Miss",
+   "talent": 885.72
+  },
+  {
+   "year": 2026,
+   "team": "South Carolina",
+   "talent": 862.87
+  },
+  {
+   "year": 2026,
+   "team": "Clemson",
+   "talent": 862.85
+  },
+  {
+   "year": 2026,
+   "team": "Oklahoma",
+   "talent": 851.14
+  },
+  {
+   "year": 2026,
+   "team": "Auburn",
+   "talent": 828.19
+  },
+  {
+   "year": 2026,
+   "team": "Missouri",
+   "talent": 808.36
+  },
+  {
+   "year": 2026,
+   "team": "Mississippi State",
+   "talent": 804.53
+  },
+  {
+   "year": 2026,
+   "team": "Florida State",
+   "talent": 800.2
+  },
+  {
+   "year": 2026,
+   "team": "Nebraska",
+   "talent": 787.45
+  },
+  {
+   "year": 2026,
+   "team": "Kentucky",
+   "talent": 786.65
+  },
+  {
+   "year": 2026,
+   "team": "Washington",
+   "talent": 777.63
+  },
+  {
+   "year": 2026,
+   "team": "UCLA",
+   "talent": 774.45
+  },
+  {
+   "year": 2026,
+   "team": "Penn State",
+   "talent": 774.04
+  },
+  {
+   "year": 2026,
+   "team": "Virginia Tech",
+   "talent": 769.12
+  },
+  {
+   "year": 2026,
+   "team": "North Carolina",
+   "talent": 767.89
+  },
+  {
+   "year": 2026,
+   "team": "Texas Tech",
+   "talent": 767.89
+  },
+  {
+   "year": 2026,
+   "team": "Wisconsin",
+   "talent": 767.68
+  },
+  {
+   "year": 2026,
+   "team": "SMU",
+   "talent": 764.5
+  },
+  {
+   "year": 2026,
+   "team": "NC State",
+   "talent": 757.14
+  },
+  {
+   "year": 2026,
+   "team": "California",
+   "talent": 751.92
+  },
+  {
+   "year": 2026,
+   "team": "Georgia Tech",
+   "talent": 751.65
+  },
+  {
+   "year": 2026,
+   "team": "Syracuse",
+   "talent": 745.61
+  },
+  {
+   "year": 2026,
+   "team": "Arkansas",
+   "talent": 745.48
+  },
+  {
+   "year": 2026,
+   "team": "Louisville",
+   "talent": 739.97
+  },
+  {
+   "year": 2026,
+   "team": "Indiana",
+   "talent": 735.26
+  },
+  {
+   "year": 2026,
+   "team": "Colorado",
+   "talent": 731.62
+  },
+  {
+   "year": 2026,
+   "team": "TCU",
+   "talent": 730.79
+  },
+  {
+   "year": 2026,
+   "team": "Minnesota",
+   "talent": 728.79
+  },
+  {
+   "year": 2026,
+   "team": "Vanderbilt",
+   "talent": 727.39
+  },
+  {
+   "year": 2026,
+   "team": "Baylor",
+   "talent": 723.28
+  },
+  {
+   "year": 2026,
+   "team": "Iowa",
+   "talent": 722.73
+  },
+  {
+   "year": 2026,
+   "team": "Arizona State",
+   "talent": 722
+  },
+  {
+   "year": 2026,
+   "team": "Maryland",
+   "talent": 719.64
+  },
+  {
+   "year": 2026,
+   "team": "Kansas State",
+   "talent": 718.67
+  },
+  {
+   "year": 2026,
+   "team": "Rutgers",
+   "talent": 709.04
+  },
+  {
+   "year": 2026,
+   "team": "West Virginia",
+   "talent": 707.6
+  },
+  {
+   "year": 2026,
+   "team": "Stanford",
+   "talent": 705.81
+  },
+  {
+   "year": 2026,
+   "team": "Illinois",
+   "talent": 704.01
+  },
+  {
+   "year": 2026,
+   "team": "South Florida",
+   "talent": 703.81
+  },
+  {
+   "year": 2026,
+   "team": "Virginia",
+   "talent": 700.18
+  },
+  {
+   "year": 2026,
+   "team": "Arizona",
+   "talent": 699.59
+  },
+  {
+   "year": 2026,
+   "team": "Purdue",
+   "talent": 698.33
+  },
+  {
+   "year": 2026,
+   "team": "UNLV",
+   "talent": 696.03
+  },
+  {
+   "year": 2026,
+   "team": "Houston",
+   "talent": 695.93
+  },
+  {
+   "year": 2026,
+   "team": "Utah",
+   "talent": 695.72
+  },
+  {
+   "year": 2026,
+   "team": "BYU",
+   "talent": 689.42
+  },
+  {
+   "year": 2026,
+   "team": "Northwestern",
+   "talent": 688.32
+  },
+  {
+   "year": 2026,
+   "team": "Michigan State",
+   "talent": 685.02
+  },
+  {
+   "year": 2026,
+   "team": "Kansas",
+   "talent": 684.51
+  },
+  {
+   "year": 2026,
+   "team": "Wake Forest",
+   "talent": 680.87
+  },
+  {
+   "year": 2026,
+   "team": "Pittsburgh",
+   "talent": 675.02
+  },
+  {
+   "year": 2026,
+   "team": "Oklahoma State",
+   "talent": 672.69
+  },
+  {
+   "year": 2026,
+   "team": "UCF",
+   "talent": 672.14
+  },
+  {
+   "year": 2026,
+   "team": "Memphis",
+   "talent": 670.31
+  },
+  {
+   "year": 2026,
+   "team": "Iowa State",
+   "talent": 669.55
+  },
+  {
+   "year": 2026,
+   "team": "Duke",
+   "talent": 668.47
+  },
+  {
+   "year": 2026,
+   "team": "Tulane",
+   "talent": 665.11
+  },
+  {
+   "year": 2026,
+   "team": "Boston College",
+   "talent": 660
+  },
+  {
+   "year": 2026,
+   "team": "UTSA",
+   "talent": 655.82
+  },
+  {
+   "year": 2026,
+   "team": "UConn",
+   "talent": 652.56
+  },
+  {
+   "year": 2026,
+   "team": "Boise State",
+   "talent": 641.17
+  },
+  {
+   "year": 2026,
+   "team": "Colorado State",
+   "talent": 640.31
+  },
+  {
+   "year": 2026,
+   "team": "Oregon State",
+   "talent": 635.79
+  },
+  {
+   "year": 2026,
+   "team": "Cincinnati",
+   "talent": 634.28
+  },
+  {
+   "year": 2026,
+   "team": "Georgia Southern",
+   "talent": 634.19
+  },
+  {
+   "year": 2026,
+   "team": "Liberty",
+   "talent": 633.35
+  },
+  {
+   "year": 2026,
+   "team": "Temple",
+   "talent": 631.07
+  },
+  {
+   "year": 2026,
+   "team": "Washington State",
+   "talent": 630.29
+  },
+  {
+   "year": 2026,
+   "team": "Texas State",
+   "talent": 624.81
+  },
+  {
+   "year": 2026,
+   "team": "East Carolina",
+   "talent": 623.79
+  },
+  {
+   "year": 2026,
+   "team": "Tulsa",
+   "talent": 622.84
+  },
+  {
+   "year": 2026,
+   "team": "App State",
+   "talent": 621.61
+  },
+  {
+   "year": 2026,
+   "team": "Miami (OH)",
+   "talent": 621.37
+  },
+  {
+   "year": 2026,
+   "team": "Western Kentucky",
+   "talent": 611.52
+  },
+  {
+   "year": 2026,
+   "team": "Fresno State",
+   "talent": 609.75
+  },
+  {
+   "year": 2026,
+   "team": "San Diego State",
+   "talent": 609.22
+  },
+  {
+   "year": 2026,
+   "team": "Florida International",
+   "talent": 607.56
+  },
+  {
+   "year": 2026,
+   "team": "Arkansas State",
+   "talent": 606.22
+  },
+  {
+   "year": 2026,
+   "team": "UAB",
+   "talent": 606.18
+  },
+  {
+   "year": 2026,
+   "team": "Jacksonville State",
+   "talent": 602.83
+  },
+  {
+   "year": 2026,
+   "team": "Southern Miss",
+   "talent": 602.63
+  },
+  {
+   "year": 2026,
+   "team": "North Texas",
+   "talent": 602.08
+  },
+  {
+   "year": 2026,
+   "team": "Troy",
+   "talent": 596.19
+  },
+  {
+   "year": 2026,
+   "team": "Marshall",
+   "talent": 594.71
+  },
+  {
+   "year": 2026,
+   "team": "Florida Atlantic",
+   "talent": 593.36
+  },
+  {
+   "year": 2026,
+   "team": "Louisiana",
+   "talent": 590.94
+  },
+  {
+   "year": 2026,
+   "team": "Rice",
+   "talent": 589.89
+  },
+  {
+   "year": 2026,
+   "team": "James Madison",
+   "talent": 588.31
+  },
+  {
+   "year": 2026,
+   "team": "UTEP",
+   "talent": 585.76
+  },
+  {
+   "year": 2026,
+   "team": "Eastern Michigan",
+   "talent": 580.64
+  },
+  {
+   "year": 2026,
+   "team": "Charlotte",
+   "talent": 576.77
+  },
+  {
+   "year": 2026,
+   "team": "Coastal Carolina",
+   "talent": 573.96
+  },
+  {
+   "year": 2026,
+   "team": "Georgia State",
+   "talent": 573.83
+  },
+  {
+   "year": 2026,
+   "team": "South Alabama",
+   "talent": 573.38
+  },
+  {
+   "year": 2026,
+   "team": "Western Michigan",
+   "talent": 572.2
+  },
+  {
+   "year": 2026,
+   "team": "Middle Tennessee",
+   "talent": 571.5
+  },
+  {
+   "year": 2026,
+   "team": "San Jos\u00e9 State",
+   "talent": 569.25
+  },
+  {
+   "year": 2026,
+   "team": "Bowling Green",
+   "talent": 568.33
+  },
+  {
+   "year": 2026,
+   "team": "New Mexico",
+   "talent": 568.19
+  },
+  {
+   "year": 2026,
+   "team": "Ball State",
+   "talent": 563.88
+  },
+  {
+   "year": 2026,
+   "team": "Sacramento State",
+   "talent": 561.42
+  },
+  {
+   "year": 2026,
+   "team": "Hawai'i",
+   "talent": 556.82
+  },
+  {
+   "year": 2026,
+   "team": "Toledo",
+   "talent": 556.26
+  },
+  {
+   "year": 2026,
+   "team": "Sam Houston",
+   "talent": 554.47
+  },
+  {
+   "year": 2026,
+   "team": "Nevada",
+   "talent": 549.99
+  },
+  {
+   "year": 2026,
+   "team": "Missouri State",
+   "talent": 549.92
+  },
+  {
+   "year": 2026,
+   "team": "Buffalo",
+   "talent": 549.31
+  },
+  {
+   "year": 2026,
+   "team": "Akron",
+   "talent": 546.84
+  },
+  {
+   "year": 2026,
+   "team": "Old Dominion",
+   "talent": 544.25
+  },
+  {
+   "year": 2026,
+   "team": "Utah State",
+   "talent": 543.98
+  },
+  {
+   "year": 2026,
+   "team": "Louisiana Tech",
+   "talent": 543.02
+  },
+  {
+   "year": 2026,
+   "team": "Central Michigan",
+   "talent": 540.01
+  },
+  {
+   "year": 2026,
+   "team": "Northern Illinois",
+   "talent": 536.58
+  },
+  {
+   "year": 2026,
+   "team": "Wyoming",
+   "talent": 528.29
+  },
+  {
+   "year": 2026,
+   "team": "Massachusetts",
+   "talent": 525.94
+  },
+  {
+   "year": 2026,
+   "team": "Ohio",
+   "talent": 522.84
+  },
+  {
+   "year": 2026,
+   "team": "Kent State",
+   "talent": 522.83
+  },
+  {
+   "year": 2026,
+   "team": "North Dakota State",
+   "talent": 515.59
+  },
+  {
+   "year": 2026,
+   "team": "UL Monroe",
+   "talent": 505.49
+  },
+  {
+   "year": 2026,
+   "team": "Kennesaw State",
+   "talent": 502.86
+  },
+  {
+   "year": 2026,
+   "team": "Delaware",
+   "talent": 483.48
+  },
+  {
+   "year": 2026,
+   "team": "New Mexico State",
+   "talent": 460.38
+  },
+  {
+   "year": 2026,
+   "team": "Army",
+   "talent": 303.83
+  },
+  {
+   "year": 2026,
+   "team": "Air Force",
+   "talent": 272.35
+  },
+  {
+   "year": 2026,
+   "team": "Navy",
+   "talent": 195.68
+  }
+ ],
+ "returning": [
+  {
+   "season": 2026,
+   "team": "Air Force",
+   "conference": "Mountain West",
+   "totalPPA": 185.9,
+   "totalPassingPPA": 78.9,
+   "totalReceivingPPA": 14.5,
+   "totalRushingPPA": 92.4,
+   "percentPPA": 0.574,
+   "percentPassingPPA": 1.017,
+   "percentReceivingPPA": 0.127,
+   "percentRushingPPA": 0.697,
+   "usage": 0.625,
+   "passingUsage": 0.994,
+   "receivingUsage": 0.143,
+   "rushingUsage": 0.636
+  },
+  {
+   "season": 2026,
+   "team": "Akron",
+   "conference": "Mid-American",
+   "totalPPA": 158.8,
+   "totalPassingPPA": 38.2,
+   "totalReceivingPPA": 101.7,
+   "totalRushingPPA": 18.9,
+   "percentPPA": 0.918,
+   "percentPassingPPA": 0.874,
+   "percentReceivingPPA": 0.92,
+   "percentRushingPPA": 1.022,
+   "usage": 0.943,
+   "passingUsage": 0.995,
+   "receivingUsage": 0.825,
+   "rushingUsage": 0.997
+  },
+  {
+   "season": 2026,
+   "team": "Alabama",
+   "conference": "SEC",
+   "totalPPA": 120.2,
+   "totalPassingPPA": 22.2,
+   "totalReceivingPPA": 107,
+   "totalRushingPPA": -9.1,
+   "percentPPA": 0.264,
+   "percentPassingPPA": 0.123,
+   "percentReceivingPPA": 0.41,
+   "percentRushingPPA": -0.669,
+   "usage": 0.301,
+   "passingUsage": 0.092,
+   "receivingUsage": 0.466,
+   "rushingUsage": 0.389
+  },
+  {
+   "season": 2026,
+   "team": "App State",
+   "conference": "Sun Belt",
+   "totalPPA": 107.7,
+   "totalPassingPPA": -22.1,
+   "totalReceivingPPA": 105.5,
+   "totalRushingPPA": 24.3,
+   "percentPPA": 0.379,
+   "percentPassingPPA": -0.309,
+   "percentReceivingPPA": 0.575,
+   "percentRushingPPA": 0.85,
+   "usage": 0.523,
+   "passingUsage": 0.142,
+   "receivingUsage": 0.665,
+   "rushingUsage": 0.882
+  },
+  {
+   "season": 2026,
+   "team": "Arizona",
+   "conference": "Big 12",
+   "totalPPA": 202.4,
+   "totalPassingPPA": 84.9,
+   "totalReceivingPPA": 74.6,
+   "totalRushingPPA": 42.9,
+   "percentPPA": 0.649,
+   "percentPassingPPA": 1.199,
+   "percentReceivingPPA": 0.438,
+   "percentRushingPPA": 0.603,
+   "usage": 0.686,
+   "passingUsage": 0.961,
+   "receivingUsage": 0.401,
+   "rushingUsage": 0.65
+  },
+  {
+   "season": 2026,
+   "team": "Arizona State",
+   "conference": "Big 12",
+   "totalPPA": 37.6,
+   "totalPassingPPA": 3.4,
+   "totalReceivingPPA": 37,
+   "totalRushingPPA": -2.8,
+   "percentPPA": 0.155,
+   "percentPassingPPA": 0.054,
+   "percentReceivingPPA": 0.305,
+   "percentRushingPPA": -0.048,
+   "usage": 0.135,
+   "passingUsage": 0.002,
+   "receivingUsage": 0.279,
+   "rushingUsage": 0.147
+  },
+  {
+   "season": 2026,
+   "team": "Arkansas",
+   "conference": "SEC",
+   "totalPPA": 65.7,
+   "totalPassingPPA": 25,
+   "totalReceivingPPA": 24.7,
+   "totalRushingPPA": 15.9,
+   "percentPPA": 0.145,
+   "percentPassingPPA": 0.187,
+   "percentReceivingPPA": 0.117,
+   "percentRushingPPA": 0.145,
+   "usage": 0.196,
+   "passingUsage": 0.136,
+   "receivingUsage": 0.272,
+   "rushingUsage": 0.189
+  },
+  {
+   "season": 2026,
+   "team": "Arkansas State",
+   "conference": "Sun Belt",
+   "totalPPA": 73.9,
+   "totalPassingPPA": 6,
+   "totalReceivingPPA": 84.5,
+   "totalRushingPPA": -16.5,
+   "percentPPA": 0.3,
+   "percentPassingPPA": 0.072,
+   "percentReceivingPPA": 0.542,
+   "percentRushingPPA": -2.463,
+   "usage": 0.389,
+   "passingUsage": 0.007,
+   "receivingUsage": 0.628,
+   "rushingUsage": 0.609
+  },
+  {
+   "season": 2026,
+   "team": "Army",
+   "conference": "American Athletic",
+   "totalPPA": 168.5,
+   "totalPassingPPA": 31.5,
+   "totalReceivingPPA": 64.8,
+   "totalRushingPPA": 72.1,
+   "percentPPA": 0.802,
+   "percentPassingPPA": 0.626,
+   "percentReceivingPPA": 0.831,
+   "percentRushingPPA": 0.886,
+   "usage": 0.586,
+   "passingUsage": 0.667,
+   "receivingUsage": 0.467,
+   "rushingUsage": 0.587
+  },
+  {
+   "season": 2026,
+   "team": "Auburn",
+   "conference": "SEC",
+   "totalPPA": 35.8,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 9.2,
+   "totalRushingPPA": 26.7,
+   "percentPPA": 0.144,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0.088,
+   "percentRushingPPA": 0.263,
+   "usage": 0.196,
+   "passingUsage": 0,
+   "receivingUsage": 0.087,
+   "rushingUsage": 0.48
+  },
+  {
+   "season": 2026,
+   "team": "Ball State",
+   "conference": "Mid-American",
+   "totalPPA": 5.6,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 28.9,
+   "totalRushingPPA": -23.3,
+   "percentPPA": 0.057,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0.319,
+   "percentRushingPPA": -1.036,
+   "usage": 0.173,
+   "passingUsage": 0,
+   "receivingUsage": 0.293,
+   "rushingUsage": 0.243
+  },
+  {
+   "season": 2026,
+   "team": "Baylor",
+   "conference": "Big 12",
+   "totalPPA": 212.6,
+   "totalPassingPPA": 90.4,
+   "totalReceivingPPA": 86,
+   "totalRushingPPA": 36.2,
+   "percentPPA": 0.602,
+   "percentPassingPPA": 0.777,
+   "percentReceivingPPA": 0.469,
+   "percentRushingPPA": 0.677,
+   "usage": 0.651,
+   "passingUsage": 0.984,
+   "receivingUsage": 0.325,
+   "rushingUsage": 0.598
+  },
+  {
+   "season": 2026,
+   "team": "Boise State",
+   "conference": "Mountain West",
+   "totalPPA": 234.2,
+   "totalPassingPPA": 92.8,
+   "totalReceivingPPA": 74.4,
+   "totalRushingPPA": 67,
+   "percentPPA": 0.663,
+   "percentPassingPPA": 0.943,
+   "percentReceivingPPA": 0.396,
+   "percentRushingPPA": 1.004,
+   "usage": 0.734,
+   "passingUsage": 0.996,
+   "receivingUsage": 0.348,
+   "rushingUsage": 0.807
+  },
+  {
+   "season": 2026,
+   "team": "Boston College",
+   "conference": "ACC",
+   "totalPPA": 45.8,
+   "totalPassingPPA": 8.6,
+   "totalReceivingPPA": 41.9,
+   "totalRushingPPA": -4.8,
+   "percentPPA": 0.156,
+   "percentPassingPPA": 0.083,
+   "percentReceivingPPA": 0.232,
+   "percentRushingPPA": -0.623,
+   "usage": 0.095,
+   "passingUsage": 0.006,
+   "receivingUsage": 0.213,
+   "rushingUsage": 0.078
+  },
+  {
+   "season": 2026,
+   "team": "Bowling Green",
+   "conference": "Mid-American",
+   "totalPPA": -7.1,
+   "totalPassingPPA": -9.4,
+   "totalReceivingPPA": 2.2,
+   "totalRushingPPA": 0,
+   "percentPPA": -0.062,
+   "percentPassingPPA": 9.4,
+   "percentReceivingPPA": 0.025,
+   "percentRushingPPA": 0,
+   "usage": 0.226,
+   "passingUsage": 0.23,
+   "receivingUsage": 0.106,
+   "rushingUsage": 0.293
+  },
+  {
+   "season": 2026,
+   "team": "Buffalo",
+   "conference": "Mid-American",
+   "totalPPA": -1.6,
+   "totalPassingPPA": 5.8,
+   "totalReceivingPPA": -8.4,
+   "totalRushingPPA": 1,
+   "percentPPA": -0.008,
+   "percentPassingPPA": 0.094,
+   "percentReceivingPPA": -0.071,
+   "percentRushingPPA": 0.09,
+   "usage": 0.146,
+   "passingUsage": 0.007,
+   "receivingUsage": 0.341,
+   "rushingUsage": 0.111
+  },
+  {
+   "season": 2026,
+   "team": "BYU",
+   "conference": "Big 12",
+   "totalPPA": 284.3,
+   "totalPassingPPA": 114.6,
+   "totalReceivingPPA": 78.6,
+   "totalRushingPPA": 91,
+   "percentPPA": 0.785,
+   "percentPassingPPA": 1,
+   "percentReceivingPPA": 0.513,
+   "percentRushingPPA": 0.965,
+   "usage": 0.882,
+   "passingUsage": 1,
+   "receivingUsage": 0.602,
+   "rushingUsage": 0.998
+  },
+  {
+   "season": 2026,
+   "team": "California",
+   "conference": "ACC",
+   "totalPPA": 188.8,
+   "totalPassingPPA": 104.3,
+   "totalReceivingPPA": 88.9,
+   "totalRushingPPA": -4.4,
+   "percentPPA": 0.583,
+   "percentPassingPPA": 0.887,
+   "percentReceivingPPA": 0.43,
+   "percentRushingPPA": 0,
+   "usage": 0.53,
+   "passingUsage": 0.972,
+   "receivingUsage": 0.311,
+   "rushingUsage": 0.142
+  },
+  {
+   "season": 2026,
+   "team": "Central Michigan",
+   "conference": "Mid-American",
+   "totalPPA": 134.9,
+   "totalPassingPPA": 7.8,
+   "totalReceivingPPA": 84,
+   "totalRushingPPA": 43.1,
+   "percentPPA": 0.54,
+   "percentPassingPPA": 0.092,
+   "percentReceivingPPA": 0.646,
+   "percentRushingPPA": 1.228,
+   "usage": 0.422,
+   "passingUsage": 0.18,
+   "receivingUsage": 0.615,
+   "rushingUsage": 0.468
+  },
+  {
+   "season": 2026,
+   "team": "Charlotte",
+   "conference": "American Athletic",
+   "totalPPA": 53.6,
+   "totalPassingPPA": 41.8,
+   "totalReceivingPPA": 19,
+   "totalRushingPPA": -7.2,
+   "percentPPA": 0.409,
+   "percentPassingPPA": 1.13,
+   "percentReceivingPPA": 0.158,
+   "percentRushingPPA": 0.268,
+   "usage": 0.478,
+   "passingUsage": 0.887,
+   "receivingUsage": 0.145,
+   "rushingUsage": 0.308
+  },
+  {
+   "season": 2026,
+   "team": "Cincinnati",
+   "conference": "Big 12",
+   "totalPPA": 34.8,
+   "totalPassingPPA": 5.2,
+   "totalReceivingPPA": 25.3,
+   "totalRushingPPA": 4.4,
+   "percentPPA": 0.083,
+   "percentPassingPPA": 0.035,
+   "percentReceivingPPA": 0.153,
+   "percentRushingPPA": 0.041,
+   "usage": 0.071,
+   "passingUsage": 0.019,
+   "receivingUsage": 0.086,
+   "rushingUsage": 0.107
+  },
+  {
+   "season": 2026,
+   "team": "Clemson",
+   "conference": "ACC",
+   "totalPPA": 124.3,
+   "totalPassingPPA": 14.1,
+   "totalReceivingPPA": 121.4,
+   "totalRushingPPA": -11.2,
+   "percentPPA": 0.414,
+   "percentPassingPPA": 0.141,
+   "percentReceivingPPA": 0.712,
+   "percentRushingPPA": -0.377,
+   "usage": 0.373,
+   "passingUsage": 0.175,
+   "receivingUsage": 0.658,
+   "rushingUsage": 0.304
+  },
+  {
+   "season": 2026,
+   "team": "Coastal Carolina",
+   "conference": "Sun Belt",
+   "totalPPA": 28.4,
+   "totalPassingPPA": 5.8,
+   "totalReceivingPPA": 17,
+   "totalRushingPPA": 5.6,
+   "percentPPA": 0.154,
+   "percentPassingPPA": 0.115,
+   "percentReceivingPPA": 0.17,
+   "percentRushingPPA": 0.161,
+   "usage": 0.226,
+   "passingUsage": 0.005,
+   "receivingUsage": 0.336,
+   "rushingUsage": 0.346
+  },
+  {
+   "season": 2026,
+   "team": "Colorado",
+   "conference": "Big 12",
+   "totalPPA": 26.4,
+   "totalPassingPPA": -13.2,
+   "totalReceivingPPA": 47.2,
+   "totalRushingPPA": -7.6,
+   "percentPPA": 0.137,
+   "percentPassingPPA": -0.261,
+   "percentReceivingPPA": 0.386,
+   "percentRushingPPA": -0.371,
+   "usage": 0.36,
+   "passingUsage": 0.267,
+   "receivingUsage": 0.494,
+   "rushingUsage": 0.34
+  },
+  {
+   "season": 2026,
+   "team": "Colorado State",
+   "conference": "Mountain West",
+   "totalPPA": 79.6,
+   "totalPassingPPA": 12.4,
+   "totalReceivingPPA": 73.2,
+   "totalRushingPPA": -6,
+   "percentPPA": 0.396,
+   "percentPassingPPA": 0.23,
+   "percentReceivingPPA": 0.584,
+   "percentRushingPPA": -0.28,
+   "usage": 0.306,
+   "passingUsage": 0.269,
+   "receivingUsage": 0.5,
+   "rushingUsage": 0.139
+  },
+  {
+   "season": 2026,
+   "team": "Delaware",
+   "conference": "Conference USA",
+   "totalPPA": 299.8,
+   "totalPassingPPA": 126.1,
+   "totalReceivingPPA": 150.2,
+   "totalRushingPPA": 23.6,
+   "percentPPA": 0.849,
+   "percentPassingPPA": 0.963,
+   "percentReceivingPPA": 0.771,
+   "percentRushingPPA": 0.877,
+   "usage": 0.917,
+   "passingUsage": 0.98,
+   "receivingUsage": 0.796,
+   "rushingUsage": 0.986
+  },
+  {
+   "season": 2026,
+   "team": "Duke",
+   "conference": "ACC",
+   "totalPPA": 75.6,
+   "totalPassingPPA": 6.7,
+   "totalReceivingPPA": 45,
+   "totalRushingPPA": 23.9,
+   "percentPPA": 0.171,
+   "percentPassingPPA": 0.041,
+   "percentReceivingPPA": 0.203,
+   "percentRushingPPA": 0.432,
+   "usage": 0.22,
+   "passingUsage": 0.004,
+   "receivingUsage": 0.227,
+   "rushingUsage": 0.488
+  },
+  {
+   "season": 2026,
+   "team": "East Carolina",
+   "conference": "American Athletic",
+   "totalPPA": 50.6,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 37.5,
+   "totalRushingPPA": 13.1,
+   "percentPPA": 0.136,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0.195,
+   "percentRushingPPA": 0.268,
+   "usage": 0.136,
+   "passingUsage": 0,
+   "receivingUsage": 0.262,
+   "rushingUsage": 0.158
+  },
+  {
+   "season": 2026,
+   "team": "Eastern Michigan",
+   "conference": "Mid-American",
+   "totalPPA": 228.5,
+   "totalPassingPPA": 100.3,
+   "totalReceivingPPA": 104.3,
+   "totalRushingPPA": 23.9,
+   "percentPPA": 0.721,
+   "percentPassingPPA": 0.974,
+   "percentReceivingPPA": 0.635,
+   "percentRushingPPA": 0.486,
+   "usage": 0.587,
+   "passingUsage": 0.995,
+   "receivingUsage": 0.501,
+   "rushingUsage": 0.223
+  },
+  {
+   "season": 2026,
+   "team": "Florida",
+   "conference": "SEC",
+   "totalPPA": 143,
+   "totalPassingPPA": 44.7,
+   "totalReceivingPPA": 60.8,
+   "totalRushingPPA": 37.5,
+   "percentPPA": 0.691,
+   "percentPassingPPA": 0.943,
+   "percentReceivingPPA": 0.515,
+   "percentRushingPPA": 0.893,
+   "usage": 0.79,
+   "passingUsage": 0.997,
+   "receivingUsage": 0.497,
+   "rushingUsage": 0.834
+  },
+  {
+   "season": 2026,
+   "team": "Florida Atlantic",
+   "conference": "American Athletic",
+   "totalPPA": 266.8,
+   "totalPassingPPA": 125.1,
+   "totalReceivingPPA": 105.7,
+   "totalRushingPPA": 36,
+   "percentPPA": 0.684,
+   "percentPassingPPA": 0.934,
+   "percentReceivingPPA": 0.475,
+   "percentRushingPPA": 1.068,
+   "usage": 0.65,
+   "passingUsage": 0.908,
+   "receivingUsage": 0.459,
+   "rushingUsage": 0.494
+  },
+  {
+   "season": 2026,
+   "team": "Florida International",
+   "conference": "Conference USA",
+   "totalPPA": 75.2,
+   "totalPassingPPA": -0.3,
+   "totalReceivingPPA": 66.6,
+   "totalRushingPPA": 8.9,
+   "percentPPA": 0.316,
+   "percentPassingPPA": -0.006,
+   "percentReceivingPPA": 0.489,
+   "percentRushingPPA": 0.164,
+   "usage": 0.263,
+   "passingUsage": 0.002,
+   "receivingUsage": 0.494,
+   "rushingUsage": 0.339
+  },
+  {
+   "season": 2026,
+   "team": "Florida State",
+   "conference": "ACC",
+   "totalPPA": 162.9,
+   "totalPassingPPA": 13.2,
+   "totalReceivingPPA": 114.2,
+   "totalRushingPPA": 35.5,
+   "percentPPA": 0.401,
+   "percentPassingPPA": 0.125,
+   "percentReceivingPPA": 0.652,
+   "percentRushingPPA": 0.282,
+   "usage": 0.305,
+   "passingUsage": 0.06,
+   "receivingUsage": 0.548,
+   "rushingUsage": 0.333
+  },
+  {
+   "season": 2026,
+   "team": "Fresno State",
+   "conference": "Mountain West",
+   "totalPPA": 104.6,
+   "totalPassingPPA": 7.4,
+   "totalReceivingPPA": 90.3,
+   "totalRushingPPA": 6.9,
+   "percentPPA": 0.383,
+   "percentPassingPPA": 0.073,
+   "percentReceivingPPA": 0.695,
+   "percentRushingPPA": 0.166,
+   "usage": 0.491,
+   "passingUsage": 0.005,
+   "receivingUsage": 0.746,
+   "rushingUsage": 0.712
+  },
+  {
+   "season": 2026,
+   "team": "Georgia",
+   "conference": "SEC",
+   "totalPPA": 248.1,
+   "totalPassingPPA": 120.2,
+   "totalReceivingPPA": 59.4,
+   "totalRushingPPA": 68.5,
+   "percentPPA": 0.687,
+   "percentPassingPPA": 0.997,
+   "percentReceivingPPA": 0.347,
+   "percentRushingPPA": 0.993,
+   "usage": 0.742,
+   "passingUsage": 0.991,
+   "receivingUsage": 0.327,
+   "rushingUsage": 0.826
+  },
+  {
+   "season": 2026,
+   "team": "Georgia Southern",
+   "conference": "Sun Belt",
+   "totalPPA": 19.4,
+   "totalPassingPPA": -2.9,
+   "totalReceivingPPA": 17.1,
+   "totalRushingPPA": 5.2,
+   "percentPPA": 0.058,
+   "percentPassingPPA": -0.04,
+   "percentReceivingPPA": 0.093,
+   "percentRushingPPA": 0.066,
+   "usage": 0.212,
+   "passingUsage": 0.071,
+   "receivingUsage": 0.202,
+   "rushingUsage": 0.376
+  },
+  {
+   "season": 2026,
+   "team": "Georgia State",
+   "conference": "Sun Belt",
+   "totalPPA": 131.7,
+   "totalPassingPPA": 62,
+   "totalReceivingPPA": 46.5,
+   "totalRushingPPA": 23.2,
+   "percentPPA": 0.465,
+   "percentPassingPPA": 0.642,
+   "percentReceivingPPA": 0.276,
+   "percentRushingPPA": 1.268,
+   "usage": 0.286,
+   "passingUsage": 0.403,
+   "receivingUsage": 0.232,
+   "rushingUsage": 0.188
+  },
+  {
+   "season": 2026,
+   "team": "Georgia Tech",
+   "conference": "ACC",
+   "totalPPA": 47.7,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 19,
+   "totalRushingPPA": 28.7,
+   "percentPPA": 0.126,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0.113,
+   "percentRushingPPA": 0.348,
+   "usage": 0.145,
+   "passingUsage": 0,
+   "receivingUsage": 0.137,
+   "rushingUsage": 0.275
+  },
+  {
+   "season": 2026,
+   "team": "Hawai'i",
+   "conference": "Mountain West",
+   "totalPPA": 234.7,
+   "totalPassingPPA": 123.6,
+   "totalReceivingPPA": 105.5,
+   "totalRushingPPA": 5.6,
+   "percentPPA": 0.645,
+   "percentPassingPPA": 0.912,
+   "percentReceivingPPA": 0.523,
+   "percentRushingPPA": 0.211,
+   "usage": 0.578,
+   "passingUsage": 0.786,
+   "receivingUsage": 0.449,
+   "rushingUsage": 0.425
+  },
+  {
+   "season": 2026,
+   "team": "Houston",
+   "conference": "Big 12",
+   "totalPPA": 242.7,
+   "totalPassingPPA": 106.5,
+   "totalReceivingPPA": 108.5,
+   "totalRushingPPA": 27.7,
+   "percentPPA": 0.812,
+   "percentPassingPPA": 0.915,
+   "percentReceivingPPA": 0.613,
+   "percentRushingPPA": 5.226,
+   "usage": 0.6,
+   "passingUsage": 0.929,
+   "receivingUsage": 0.494,
+   "rushingUsage": 0.429
+  },
+  {
+   "season": 2026,
+   "team": "Illinois",
+   "conference": "Big Ten",
+   "totalPPA": 83.5,
+   "totalPassingPPA": 4.8,
+   "totalReceivingPPA": 63,
+   "totalRushingPPA": 15.7,
+   "percentPPA": 0.211,
+   "percentPassingPPA": 0.032,
+   "percentReceivingPPA": 0.313,
+   "percentRushingPPA": 0.342,
+   "usage": 0.435,
+   "passingUsage": 0.005,
+   "receivingUsage": 0.462,
+   "rushingUsage": 0.833
+  },
+  {
+   "season": 2026,
+   "team": "Indiana",
+   "conference": "Big Ten",
+   "totalPPA": 97.9,
+   "totalPassingPPA": 3.7,
+   "totalReceivingPPA": 63,
+   "totalRushingPPA": 31.2,
+   "percentPPA": 0.166,
+   "percentPassingPPA": 0.019,
+   "percentReceivingPPA": 0.241,
+   "percentRushingPPA": 0.245,
+   "usage": 0.118,
+   "passingUsage": 0.005,
+   "receivingUsage": 0.154,
+   "rushingUsage": 0.175
+  },
+  {
+   "season": 2026,
+   "team": "Iowa",
+   "conference": "Big Ten",
+   "totalPPA": 80.4,
+   "totalPassingPPA": 8.1,
+   "totalReceivingPPA": 55,
+   "totalRushingPPA": 17.2,
+   "percentPPA": 0.342,
+   "percentPassingPPA": 0.163,
+   "percentReceivingPPA": 0.559,
+   "percentRushingPPA": 0.197,
+   "usage": 0.404,
+   "passingUsage": 0.087,
+   "receivingUsage": 0.498,
+   "rushingUsage": 0.556
+  },
+  {
+   "season": 2026,
+   "team": "Iowa State",
+   "conference": "Big 12",
+   "totalPPA": 4.7,
+   "totalPassingPPA": 2.2,
+   "totalReceivingPPA": -0.3,
+   "totalRushingPPA": 2.7,
+   "percentPPA": 0.017,
+   "percentPassingPPA": 0.03,
+   "percentReceivingPPA": -0.002,
+   "percentRushingPPA": 0.045,
+   "usage": 0.029,
+   "passingUsage": 0.006,
+   "receivingUsage": 0.057,
+   "rushingUsage": 0.028
+  },
+  {
+   "season": 2026,
+   "team": "Jacksonville State",
+   "conference": "Conference USA",
+   "totalPPA": 133.7,
+   "totalPassingPPA": 31.1,
+   "totalReceivingPPA": 49.2,
+   "totalRushingPPA": 53.4,
+   "percentPPA": 0.495,
+   "percentPassingPPA": 0.76,
+   "percentReceivingPPA": 0.49,
+   "percentRushingPPA": 0.416,
+   "usage": 0.466,
+   "passingUsage": 0.66,
+   "receivingUsage": 0.293,
+   "rushingUsage": 0.438
+  },
+  {
+   "season": 2026,
+   "team": "James Madison",
+   "conference": "Sun Belt",
+   "totalPPA": 31,
+   "totalPassingPPA": 6.1,
+   "totalReceivingPPA": 15.8,
+   "totalRushingPPA": 9.1,
+   "percentPPA": 0.08,
+   "percentPassingPPA": 0.093,
+   "percentReceivingPPA": 0.086,
+   "percentRushingPPA": 0.066,
+   "usage": 0.079,
+   "passingUsage": 0.01,
+   "receivingUsage": 0.176,
+   "rushingUsage": 0.083
+  },
+  {
+   "season": 2026,
+   "team": "Kansas",
+   "conference": "Big 12",
+   "totalPPA": 59.5,
+   "totalPassingPPA": -1.5,
+   "totalReceivingPPA": 49.7,
+   "totalRushingPPA": 11.2,
+   "percentPPA": 0.181,
+   "percentPassingPPA": -0.015,
+   "percentReceivingPPA": 0.331,
+   "percentRushingPPA": 0.145,
+   "usage": 0.162,
+   "passingUsage": 0.071,
+   "receivingUsage": 0.344,
+   "rushingUsage": 0.098
+  },
+  {
+   "season": 2026,
+   "team": "Kansas State",
+   "conference": "Big 12",
+   "totalPPA": 167.8,
+   "totalPassingPPA": 74.7,
+   "totalReceivingPPA": 71.7,
+   "totalRushingPPA": 21.5,
+   "percentPPA": 0.714,
+   "percentPassingPPA": 1,
+   "percentReceivingPPA": 0.573,
+   "percentRushingPPA": 0.606,
+   "usage": 0.795,
+   "passingUsage": 1,
+   "receivingUsage": 0.633,
+   "rushingUsage": 0.736
+  },
+  {
+   "season": 2026,
+   "team": "Kennesaw State",
+   "conference": "Conference USA",
+   "totalPPA": 23.1,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 26.2,
+   "totalRushingPPA": -3.1,
+   "percentPPA": 0.061,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0.132,
+   "percentRushingPPA": -0.038,
+   "usage": 0.052,
+   "passingUsage": 0,
+   "receivingUsage": 0.181,
+   "rushingUsage": 0.008
+  },
+  {
+   "season": 2026,
+   "team": "Kent State",
+   "conference": "Mid-American",
+   "totalPPA": 108.3,
+   "totalPassingPPA": 60.7,
+   "totalReceivingPPA": 52.6,
+   "totalRushingPPA": -5,
+   "percentPPA": 0.641,
+   "percentPassingPPA": 1.032,
+   "percentReceivingPPA": 0.452,
+   "percentRushingPPA": 0.758,
+   "usage": 0.516,
+   "passingUsage": 0.85,
+   "receivingUsage": 0.514,
+   "rushingUsage": 0.229
+  },
+  {
+   "season": 2026,
+   "team": "Kentucky",
+   "conference": "SEC",
+   "totalPPA": 43.8,
+   "totalPassingPPA": -1.6,
+   "totalReceivingPPA": 48.3,
+   "totalRushingPPA": -2.9,
+   "percentPPA": 0.193,
+   "percentPassingPPA": -0.029,
+   "percentReceivingPPA": 0.345,
+   "percentRushingPPA": -0.093,
+   "usage": 0.18,
+   "passingUsage": 0.016,
+   "receivingUsage": 0.406,
+   "rushingUsage": 0.158
+  },
+  {
+   "season": 2026,
+   "team": "Liberty",
+   "conference": "Conference USA",
+   "totalPPA": 86.9,
+   "totalPassingPPA": 34.3,
+   "totalReceivingPPA": 25.6,
+   "totalRushingPPA": 26.9,
+   "percentPPA": 0.383,
+   "percentPassingPPA": 0.746,
+   "percentReceivingPPA": 0.211,
+   "percentRushingPPA": 0.45,
+   "usage": 0.425,
+   "passingUsage": 0.828,
+   "receivingUsage": 0.284,
+   "rushingUsage": 0.221
+  },
+  {
+   "season": 2026,
+   "team": "Louisiana",
+   "conference": "Sun Belt",
+   "totalPPA": 189.3,
+   "totalPassingPPA": 46.5,
+   "totalReceivingPPA": 102.1,
+   "totalRushingPPA": 40.7,
+   "percentPPA": 0.919,
+   "percentPassingPPA": 1.011,
+   "percentReceivingPPA": 0.924,
+   "percentRushingPPA": 0.824,
+   "usage": 0.661,
+   "passingUsage": 0.9,
+   "receivingUsage": 0.867,
+   "rushingUsage": 0.361
+  },
+  {
+   "season": 2026,
+   "team": "Louisiana Tech",
+   "conference": "Conference USA",
+   "totalPPA": 138.6,
+   "totalPassingPPA": 53.2,
+   "totalReceivingPPA": 54.7,
+   "totalRushingPPA": 30.7,
+   "percentPPA": 0.639,
+   "percentPassingPPA": 0.991,
+   "percentReceivingPPA": 0.439,
+   "percentRushingPPA": 0.785,
+   "usage": 0.489,
+   "passingUsage": 0.829,
+   "receivingUsage": 0.385,
+   "rushingUsage": 0.312
+  },
+  {
+   "season": 2026,
+   "team": "Louisville",
+   "conference": "ACC",
+   "totalPPA": 92.3,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 25.9,
+   "totalRushingPPA": 66.4,
+   "percentPPA": 0.348,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0.182,
+   "percentRushingPPA": 0.846,
+   "usage": 0.268,
+   "passingUsage": 0,
+   "receivingUsage": 0.236,
+   "rushingUsage": 0.608
+  },
+  {
+   "season": 2026,
+   "team": "LSU",
+   "conference": "SEC",
+   "totalPPA": 42.9,
+   "totalPassingPPA": 5.8,
+   "totalReceivingPPA": 26.9,
+   "totalRushingPPA": 10.2,
+   "percentPPA": 0.212,
+   "percentPassingPPA": 0.132,
+   "percentReceivingPPA": 0.203,
+   "percentRushingPPA": 0.402,
+   "usage": 0.269,
+   "passingUsage": 0.005,
+   "receivingUsage": 0.16,
+   "rushingUsage": 0.702
+  },
+  {
+   "season": 2026,
+   "team": "Marshall",
+   "conference": "Sun Belt",
+   "totalPPA": 284.6,
+   "totalPassingPPA": 101.3,
+   "totalReceivingPPA": 161,
+   "totalRushingPPA": 22.3,
+   "percentPPA": 0.988,
+   "percentPassingPPA": 1.002,
+   "percentReceivingPPA": 0.914,
+   "percentRushingPPA": 2.104,
+   "usage": 0.752,
+   "passingUsage": 0.935,
+   "receivingUsage": 0.893,
+   "rushingUsage": 0.551
+  },
+  {
+   "season": 2026,
+   "team": "Maryland",
+   "conference": "Big Ten",
+   "totalPPA": 112.3,
+   "totalPassingPPA": 71.3,
+   "totalReceivingPPA": 31.5,
+   "totalRushingPPA": 9.5,
+   "percentPPA": 0.54,
+   "percentPassingPPA": 0.866,
+   "percentReceivingPPA": 0.264,
+   "percentRushingPPA": 1.418,
+   "usage": 0.705,
+   "passingUsage": 0.953,
+   "receivingUsage": 0.418,
+   "rushingUsage": 0.73
+  },
+  {
+   "season": 2026,
+   "team": "Massachusetts",
+   "conference": "Mid-American",
+   "totalPPA": -3.4,
+   "totalPassingPPA": 10.4,
+   "totalReceivingPPA": -4.3,
+   "totalRushingPPA": -9.5,
+   "percentPPA": -0.567,
+   "percentPassingPPA": -0.365,
+   "percentReceivingPPA": -0.11,
+   "percentRushingPPA": 2.209,
+   "usage": 0.135,
+   "passingUsage": 0.005,
+   "receivingUsage": 0.276,
+   "rushingUsage": 0.148
+  },
+  {
+   "season": 2026,
+   "team": "Memphis",
+   "conference": "American Athletic",
+   "totalPPA": 20.7,
+   "totalPassingPPA": 1.2,
+   "totalReceivingPPA": 19.5,
+   "totalRushingPPA": 0,
+   "percentPPA": 0.056,
+   "percentPassingPPA": 0.017,
+   "percentReceivingPPA": 0.111,
+   "percentRushingPPA": 0,
+   "usage": 0.031,
+   "passingUsage": 0.002,
+   "receivingUsage": 0.107,
+   "rushingUsage": 0
+  },
+  {
+   "season": 2026,
+   "team": "Miami",
+   "conference": "ACC",
+   "totalPPA": 167.9,
+   "totalPassingPPA": 9,
+   "totalReceivingPPA": 103.6,
+   "totalRushingPPA": 55.3,
+   "percentPPA": 0.369,
+   "percentPassingPPA": 0.055,
+   "percentReceivingPPA": 0.449,
+   "percentRushingPPA": 0.914,
+   "usage": 0.491,
+   "passingUsage": 0.02,
+   "receivingUsage": 0.528,
+   "rushingUsage": 0.904
+  },
+  {
+   "season": 2026,
+   "team": "Miami (OH)",
+   "conference": "Mid-American",
+   "totalPPA": 31.9,
+   "totalPassingPPA": -1.2,
+   "totalReceivingPPA": 17.1,
+   "totalRushingPPA": 16.1,
+   "percentPPA": 0.139,
+   "percentPassingPPA": -0.024,
+   "percentReceivingPPA": 0.13,
+   "percentRushingPPA": 0.333,
+   "usage": 0.287,
+   "passingUsage": 0.236,
+   "receivingUsage": 0.311,
+   "rushingUsage": 0.315
+  },
+  {
+   "season": 2026,
+   "team": "Michigan",
+   "conference": "Big Ten",
+   "totalPPA": 212.5,
+   "totalPassingPPA": 69.8,
+   "totalReceivingPPA": 74.3,
+   "totalRushingPPA": 68.4,
+   "percentPPA": 0.692,
+   "percentPassingPPA": 1.037,
+   "percentReceivingPPA": 0.601,
+   "percentRushingPPA": 0.589,
+   "usage": 0.711,
+   "passingUsage": 0.986,
+   "receivingUsage": 0.46,
+   "rushingUsage": 0.668
+  },
+  {
+   "season": 2026,
+   "team": "Michigan State",
+   "conference": "Big Ten",
+   "totalPPA": 52.9,
+   "totalPassingPPA": 13,
+   "totalReceivingPPA": 33.4,
+   "totalRushingPPA": 6.5,
+   "percentPPA": 0.209,
+   "percentPassingPPA": 0.162,
+   "percentReceivingPPA": 0.244,
+   "percentRushingPPA": 0.185,
+   "usage": 0.304,
+   "passingUsage": 0.449,
+   "receivingUsage": 0.183,
+   "rushingUsage": 0.257
+  },
+  {
+   "season": 2026,
+   "team": "Middle Tennessee",
+   "conference": "Conference USA",
+   "totalPPA": 70.8,
+   "totalPassingPPA": 23.4,
+   "totalReceivingPPA": 36.8,
+   "totalRushingPPA": 10.7,
+   "percentPPA": 0.325,
+   "percentPassingPPA": 0.392,
+   "percentReceivingPPA": 0.262,
+   "percentRushingPPA": 0.601,
+   "usage": 0.287,
+   "passingUsage": 0.292,
+   "receivingUsage": 0.332,
+   "rushingUsage": 0.211
+  },
+  {
+   "season": 2026,
+   "team": "Minnesota",
+   "conference": "Big Ten",
+   "totalPPA": 113.5,
+   "totalPassingPPA": 61.3,
+   "totalReceivingPPA": 50.3,
+   "totalRushingPPA": 2,
+   "percentPPA": 0.649,
+   "percentPassingPPA": 0.971,
+   "percentReceivingPPA": 0.451,
+   "percentRushingPPA": 10,
+   "usage": 0.679,
+   "passingUsage": 0.992,
+   "receivingUsage": 0.43,
+   "rushingUsage": 0.559
+  },
+  {
+   "season": 2026,
+   "team": "Mississippi State",
+   "conference": "SEC",
+   "totalPPA": 109.5,
+   "totalPassingPPA": -0.2,
+   "totalReceivingPPA": 47.4,
+   "totalRushingPPA": 62.3,
+   "percentPPA": 0.339,
+   "percentPassingPPA": -0.002,
+   "percentReceivingPPA": 0.279,
+   "percentRushingPPA": 0.873,
+   "usage": 0.398,
+   "passingUsage": 0.195,
+   "receivingUsage": 0.483,
+   "rushingUsage": 0.514
+  },
+  {
+   "season": 2026,
+   "team": "Missouri",
+   "conference": "SEC",
+   "totalPPA": 132.8,
+   "totalPassingPPA": -1.5,
+   "totalReceivingPPA": 43.3,
+   "totalRushingPPA": 91.1,
+   "percentPPA": 0.42,
+   "percentPassingPPA": -0.023,
+   "percentReceivingPPA": 0.329,
+   "percentRushingPPA": 0.775,
+   "usage": 0.502,
+   "passingUsage": 0.238,
+   "receivingUsage": 0.429,
+   "rushingUsage": 0.752
+  },
+  {
+   "season": 2026,
+   "team": "Missouri State",
+   "conference": "Conference USA",
+   "totalPPA": 98.9,
+   "totalPassingPPA": 5.4,
+   "totalReceivingPPA": 94,
+   "totalRushingPPA": -0.5,
+   "percentPPA": 0.313,
+   "percentPassingPPA": 0.053,
+   "percentReceivingPPA": 0.474,
+   "percentRushingPPA": -0.032,
+   "usage": 0.192,
+   "passingUsage": 0.004,
+   "receivingUsage": 0.421,
+   "rushingUsage": 0.185
+  },
+  {
+   "season": 2026,
+   "team": "Navy",
+   "conference": "American Athletic",
+   "totalPPA": 46.7,
+   "totalPassingPPA": -2,
+   "totalReceivingPPA": 14.4,
+   "totalRushingPPA": 34.3,
+   "percentPPA": 0.138,
+   "percentPassingPPA": -0.031,
+   "percentReceivingPPA": 0.146,
+   "percentRushingPPA": 0.194,
+   "usage": 0.136,
+   "passingUsage": 0.13,
+   "receivingUsage": 0.125,
+   "rushingUsage": 0.14
+  },
+  {
+   "season": 2026,
+   "team": "NC State",
+   "conference": "ACC",
+   "totalPPA": 233.7,
+   "totalPassingPPA": 127.4,
+   "totalReceivingPPA": 51.8,
+   "totalRushingPPA": 54.5,
+   "percentPPA": 0.599,
+   "percentPassingPPA": 0.931,
+   "percentReceivingPPA": 0.26,
+   "percentRushingPPA": 1.015,
+   "usage": 0.622,
+   "passingUsage": 0.974,
+   "receivingUsage": 0.285,
+   "rushingUsage": 0.549
+  },
+  {
+   "season": 2026,
+   "team": "Nebraska",
+   "conference": "Big Ten",
+   "totalPPA": 146.2,
+   "totalPassingPPA": 4.1,
+   "totalReceivingPPA": 119.6,
+   "totalRushingPPA": 22.6,
+   "percentPPA": 0.463,
+   "percentPassingPPA": 0.052,
+   "percentReceivingPPA": 0.741,
+   "percentRushingPPA": 0.295,
+   "usage": 0.392,
+   "passingUsage": 0.307,
+   "receivingUsage": 0.612,
+   "rushingUsage": 0.288
+  },
+  {
+   "season": 2026,
+   "team": "Nevada",
+   "conference": "Mountain West",
+   "totalPPA": 32.3,
+   "totalPassingPPA": 11.7,
+   "totalReceivingPPA": 25.2,
+   "totalRushingPPA": -4.6,
+   "percentPPA": 0.355,
+   "percentPassingPPA": -1.3,
+   "percentReceivingPPA": 0.412,
+   "percentRushingPPA": -0.118,
+   "usage": 0.444,
+   "passingUsage": 0.706,
+   "receivingUsage": 0.203,
+   "rushingUsage": 0.39
+  },
+  {
+   "season": 2026,
+   "team": "New Mexico",
+   "conference": "Mountain West",
+   "totalPPA": 174.1,
+   "totalPassingPPA": 65.9,
+   "totalReceivingPPA": 64.3,
+   "totalRushingPPA": 44,
+   "percentPPA": 0.582,
+   "percentPassingPPA": 0.74,
+   "percentReceivingPPA": 0.432,
+   "percentRushingPPA": 0.714,
+   "usage": 0.573,
+   "passingUsage": 0.968,
+   "receivingUsage": 0.269,
+   "rushingUsage": 0.454
+  },
+  {
+   "season": 2026,
+   "team": "New Mexico State",
+   "conference": "Conference USA",
+   "totalPPA": 34.2,
+   "totalPassingPPA": 14.2,
+   "totalReceivingPPA": 38.7,
+   "totalRushingPPA": -18.8,
+   "percentPPA": 0.244,
+   "percentPassingPPA": 0.401,
+   "percentReceivingPPA": 0.303,
+   "percentRushingPPA": 0.807,
+   "usage": 0.301,
+   "passingUsage": 0.227,
+   "receivingUsage": 0.303,
+   "rushingUsage": 0.418
+  },
+  {
+   "season": 2026,
+   "team": "North Carolina",
+   "conference": "ACC",
+   "totalPPA": 46.9,
+   "totalPassingPPA": 4.8,
+   "totalReceivingPPA": 34,
+   "totalRushingPPA": 8.1,
+   "percentPPA": 0.278,
+   "percentPassingPPA": 0.095,
+   "percentReceivingPPA": 0.328,
+   "percentRushingPPA": 0.536,
+   "usage": 0.316,
+   "passingUsage": 0.027,
+   "receivingUsage": 0.439,
+   "rushingUsage": 0.53
+  },
+  {
+   "season": 2026,
+   "team": "Northern Illinois",
+   "conference": "Mid-American",
+   "totalPPA": 35.8,
+   "totalPassingPPA": -21.2,
+   "totalReceivingPPA": 41.6,
+   "totalRushingPPA": 15.3,
+   "percentPPA": 0.437,
+   "percentPassingPPA": 1.377,
+   "percentReceivingPPA": 0.929,
+   "percentRushingPPA": 0.289,
+   "usage": 0.473,
+   "passingUsage": 0.435,
+   "receivingUsage": 0.698,
+   "rushingUsage": 0.4
+  },
+  {
+   "season": 2026,
+   "team": "North Texas",
+   "conference": "American Athletic",
+   "totalPPA": 13.8,
+   "totalPassingPPA": 4.4,
+   "totalReceivingPPA": 6.1,
+   "totalRushingPPA": 3.3,
+   "percentPPA": 0.025,
+   "percentPassingPPA": 0.024,
+   "percentReceivingPPA": 0.024,
+   "percentRushingPPA": 0.028,
+   "usage": 0.017,
+   "passingUsage": 0.004,
+   "receivingUsage": 0.036,
+   "rushingUsage": 0.013
+  },
+  {
+   "season": 2026,
+   "team": "Northwestern",
+   "conference": "Big Ten",
+   "totalPPA": 198.2,
+   "totalPassingPPA": 44.9,
+   "totalReceivingPPA": 95.5,
+   "totalRushingPPA": 57.9,
+   "percentPPA": 0.885,
+   "percentPassingPPA": 0.939,
+   "percentReceivingPPA": 0.863,
+   "percentRushingPPA": 0.88,
+   "usage": 0.948,
+   "passingUsage": 0.997,
+   "receivingUsage": 0.89,
+   "rushingUsage": 0.948
+  },
+  {
+   "season": 2026,
+   "team": "Notre Dame",
+   "conference": "FBS Independents",
+   "totalPPA": 175.6,
+   "totalPassingPPA": 105.8,
+   "totalReceivingPPA": 62.4,
+   "totalRushingPPA": 7.4,
+   "percentPPA": 0.512,
+   "percentPassingPPA": 0.907,
+   "percentReceivingPPA": 0.376,
+   "percentRushingPPA": 0.123,
+   "usage": 0.461,
+   "passingUsage": 0.922,
+   "receivingUsage": 0.336,
+   "rushingUsage": 0.167
+  },
+  {
+   "season": 2026,
+   "team": "Ohio",
+   "conference": "Mid-American",
+   "totalPPA": 205.6,
+   "totalPassingPPA": 72.9,
+   "totalReceivingPPA": 24.1,
+   "totalRushingPPA": 108.5,
+   "percentPPA": 0.625,
+   "percentPassingPPA": 0.937,
+   "percentReceivingPPA": 0.168,
+   "percentRushingPPA": 1.004,
+   "usage": 0.833,
+   "passingUsage": 0.997,
+   "receivingUsage": 0.336,
+   "rushingUsage": 0.998
+  },
+  {
+   "season": 2026,
+   "team": "Ohio State",
+   "conference": "Big Ten",
+   "totalPPA": 355.9,
+   "totalPassingPPA": 196.6,
+   "totalReceivingPPA": 131.9,
+   "totalRushingPPA": 27.5,
+   "percentPPA": 0.683,
+   "percentPassingPPA": 0.94,
+   "percentReceivingPPA": 0.503,
+   "percentRushingPPA": 0.549,
+   "usage": 0.709,
+   "passingUsage": 0.964,
+   "receivingUsage": 0.489,
+   "rushingUsage": 0.651
+  },
+  {
+   "season": 2026,
+   "team": "Oklahoma",
+   "conference": "SEC",
+   "totalPPA": 181.3,
+   "totalPassingPPA": 83,
+   "totalReceivingPPA": 73.4,
+   "totalRushingPPA": 24.8,
+   "percentPPA": 0.632,
+   "percentPassingPPA": 0.921,
+   "percentReceivingPPA": 0.416,
+   "percentRushingPPA": 1.216,
+   "usage": 0.746,
+   "passingUsage": 0.933,
+   "receivingUsage": 0.412,
+   "rushingUsage": 0.849
+  },
+  {
+   "season": 2026,
+   "team": "Oklahoma State",
+   "conference": "Big 12",
+   "totalPPA": 0,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 0,
+   "totalRushingPPA": 0,
+   "percentPPA": 0,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0,
+   "percentRushingPPA": 0,
+   "usage": 0,
+   "passingUsage": 0,
+   "receivingUsage": 0,
+   "rushingUsage": 0
+  },
+  {
+   "season": 2026,
+   "team": "Old Dominion",
+   "conference": "Sun Belt",
+   "totalPPA": 32.8,
+   "totalPassingPPA": -2.5,
+   "totalReceivingPPA": 28.5,
+   "totalRushingPPA": 6.8,
+   "percentPPA": 0.092,
+   "percentPassingPPA": -0.019,
+   "percentReceivingPPA": 0.18,
+   "percentRushingPPA": 0.098,
+   "usage": 0.306,
+   "passingUsage": 0.125,
+   "receivingUsage": 0.127,
+   "rushingUsage": 0.526
+  },
+  {
+   "season": 2026,
+   "team": "Ole Miss",
+   "conference": "SEC",
+   "totalPPA": 279.4,
+   "totalPassingPPA": 167.4,
+   "totalReceivingPPA": 53.1,
+   "totalRushingPPA": 58.9,
+   "percentPPA": 0.503,
+   "percentPassingPPA": 0.791,
+   "percentReceivingPPA": 0.194,
+   "percentRushingPPA": 0.838,
+   "usage": 0.679,
+   "passingUsage": 0.853,
+   "receivingUsage": 0.29,
+   "rushingUsage": 0.839
+  },
+  {
+   "season": 2026,
+   "team": "Oregon",
+   "conference": "Big Ten",
+   "totalPPA": 373.3,
+   "totalPassingPPA": 162.3,
+   "totalReceivingPPA": 141.6,
+   "totalRushingPPA": 69.4,
+   "percentPPA": 0.753,
+   "percentPassingPPA": 0.945,
+   "percentReceivingPPA": 0.635,
+   "percentRushingPPA": 0.683,
+   "usage": 0.67,
+   "passingUsage": 0.98,
+   "receivingUsage": 0.534,
+   "rushingUsage": 0.485
+  },
+  {
+   "season": 2026,
+   "team": "Oregon State",
+   "conference": "Pac-12",
+   "totalPPA": 97.3,
+   "totalPassingPPA": 33,
+   "totalReceivingPPA": 49.5,
+   "totalRushingPPA": 14.8,
+   "percentPPA": 0.579,
+   "percentPassingPPA": 0.897,
+   "percentReceivingPPA": 0.409,
+   "percentRushingPPA": 1.437,
+   "usage": 0.503,
+   "passingUsage": 0.868,
+   "receivingUsage": 0.313,
+   "rushingUsage": 0.264
+  },
+  {
+   "season": 2026,
+   "team": "Penn State",
+   "conference": "Big Ten",
+   "totalPPA": 21.5,
+   "totalPassingPPA": 2.5,
+   "totalReceivingPPA": 20.1,
+   "totalRushingPPA": -1.1,
+   "percentPPA": 0.076,
+   "percentPassingPPA": 0.033,
+   "percentReceivingPPA": 0.145,
+   "percentRushingPPA": -0.016,
+   "usage": 0.035,
+   "passingUsage": 0.003,
+   "receivingUsage": 0.106,
+   "rushingUsage": 0.015
+  },
+  {
+   "season": 2026,
+   "team": "Pittsburgh",
+   "conference": "ACC",
+   "totalPPA": 149.9,
+   "totalPassingPPA": 74.5,
+   "totalReceivingPPA": 51.9,
+   "totalRushingPPA": 23.4,
+   "percentPPA": 0.397,
+   "percentPassingPPA": 0.586,
+   "percentReceivingPPA": 0.24,
+   "percentRushingPPA": 0.672,
+   "usage": 0.505,
+   "passingUsage": 0.684,
+   "receivingUsage": 0.262,
+   "rushingUsage": 0.534
+  },
+  {
+   "season": 2026,
+   "team": "Purdue",
+   "conference": "Big Ten",
+   "totalPPA": 111.7,
+   "totalPassingPPA": 55.6,
+   "totalReceivingPPA": 28.6,
+   "totalRushingPPA": 27.5,
+   "percentPPA": 0.475,
+   "percentPassingPPA": 0.97,
+   "percentReceivingPPA": 0.216,
+   "percentRushingPPA": 0.606,
+   "usage": 0.49,
+   "passingUsage": 0.837,
+   "receivingUsage": 0.231,
+   "rushingUsage": 0.338
+  },
+  {
+   "season": 2026,
+   "team": "Rice",
+   "conference": "American Athletic",
+   "totalPPA": 32.7,
+   "totalPassingPPA": -16.8,
+   "totalReceivingPPA": 25.3,
+   "totalRushingPPA": 24.2,
+   "percentPPA": 0.394,
+   "percentPassingPPA": -3.17,
+   "percentReceivingPPA": 0.539,
+   "percentRushingPPA": 0.773,
+   "usage": 0.318,
+   "passingUsage": 0.149,
+   "receivingUsage": 0.141,
+   "rushingUsage": 0.452
+  },
+  {
+   "season": 2026,
+   "team": "Rutgers",
+   "conference": "Big Ten",
+   "totalPPA": 165,
+   "totalPassingPPA": 12.7,
+   "totalReceivingPPA": 104.4,
+   "totalRushingPPA": 47.8,
+   "percentPPA": 0.444,
+   "percentPassingPPA": 0.099,
+   "percentReceivingPPA": 0.545,
+   "percentRushingPPA": 0.926,
+   "usage": 0.407,
+   "passingUsage": 0.031,
+   "receivingUsage": 0.407,
+   "rushingUsage": 0.792
+  },
+  {
+   "season": 2026,
+   "team": "Sam Houston",
+   "conference": "Conference USA",
+   "totalPPA": 38.1,
+   "totalPassingPPA": 4.2,
+   "totalReceivingPPA": 34.5,
+   "totalRushingPPA": -0.6,
+   "percentPPA": 0.577,
+   "percentPassingPPA": -0.311,
+   "percentReceivingPPA": 0.568,
+   "percentRushingPPA": -0.032,
+   "usage": 0.521,
+   "passingUsage": 0.375,
+   "receivingUsage": 0.658,
+   "rushingUsage": 0.565
+  },
+  {
+   "season": 2026,
+   "team": "San Diego State",
+   "conference": "Mountain West",
+   "totalPPA": 182.6,
+   "totalPassingPPA": 20.4,
+   "totalReceivingPPA": 82.8,
+   "totalRushingPPA": 79.5,
+   "percentPPA": 0.987,
+   "percentPassingPPA": 1,
+   "percentReceivingPPA": 0.973,
+   "percentRushingPPA": 1,
+   "usage": 0.998,
+   "passingUsage": 1,
+   "receivingUsage": 0.992,
+   "rushingUsage": 1
+  },
+  {
+   "season": 2026,
+   "team": "San Jos\u00e9 State",
+   "conference": "Mountain West",
+   "totalPPA": 11.2,
+   "totalPassingPPA": -7.6,
+   "totalReceivingPPA": 4,
+   "totalRushingPPA": 14.8,
+   "percentPPA": 0.038,
+   "percentPassingPPA": -0.076,
+   "percentReceivingPPA": 0.027,
+   "percentRushingPPA": 0.355,
+   "usage": 0.137,
+   "passingUsage": 0.133,
+   "receivingUsage": 0.059,
+   "rushingUsage": 0.26
+  },
+  {
+   "season": 2026,
+   "team": "SMU",
+   "conference": "ACC",
+   "totalPPA": 219.8,
+   "totalPassingPPA": 144.4,
+   "totalReceivingPPA": 75.1,
+   "totalRushingPPA": 0.3,
+   "percentPPA": 0.569,
+   "percentPassingPPA": 0.966,
+   "percentReceivingPPA": 0.372,
+   "percentRushingPPA": 0.009,
+   "usage": 0.578,
+   "passingUsage": 0.993,
+   "receivingUsage": 0.345,
+   "rushingUsage": 0.303
+  },
+  {
+   "season": 2026,
+   "team": "South Alabama",
+   "conference": "Sun Belt",
+   "totalPPA": 180.8,
+   "totalPassingPPA": 58.7,
+   "totalReceivingPPA": 80,
+   "totalRushingPPA": 42.1,
+   "percentPPA": 0.786,
+   "percentPassingPPA": 0.951,
+   "percentReceivingPPA": 0.802,
+   "percentRushingPPA": 0.617,
+   "usage": 0.759,
+   "passingUsage": 0.997,
+   "receivingUsage": 0.806,
+   "rushingUsage": 0.571
+  },
+  {
+   "season": 2026,
+   "team": "South Carolina",
+   "conference": "SEC",
+   "totalPPA": 148.3,
+   "totalPassingPPA": 28.3,
+   "totalReceivingPPA": 93,
+   "totalRushingPPA": 27,
+   "percentPPA": 0.69,
+   "percentPassingPPA": 0.654,
+   "percentReceivingPPA": 0.672,
+   "percentRushingPPA": 0.801,
+   "usage": 0.676,
+   "passingUsage": 0.907,
+   "receivingUsage": 0.511,
+   "rushingUsage": 0.567
+  },
+  {
+   "season": 2026,
+   "team": "Southern Miss",
+   "conference": "Sun Belt",
+   "totalPPA": 289.4,
+   "totalPassingPPA": 97.7,
+   "totalReceivingPPA": 137.3,
+   "totalRushingPPA": 54.4,
+   "percentPPA": 0.902,
+   "percentPassingPPA": 0.974,
+   "percentReceivingPPA": 0.819,
+   "percentRushingPPA": 1.019,
+   "usage": 0.921,
+   "passingUsage": 0.998,
+   "receivingUsage": 0.847,
+   "rushingUsage": 0.908
+  },
+  {
+   "season": 2026,
+   "team": "South Florida",
+   "conference": "American Athletic",
+   "totalPPA": 55,
+   "totalPassingPPA": 8.8,
+   "totalReceivingPPA": 46.8,
+   "totalRushingPPA": -0.6,
+   "percentPPA": 0.126,
+   "percentPassingPPA": 0.058,
+   "percentReceivingPPA": 0.238,
+   "percentRushingPPA": -0.007,
+   "usage": 0.161,
+   "passingUsage": 0.005,
+   "receivingUsage": 0.311,
+   "rushingUsage": 0.18
+  },
+  {
+   "season": 2026,
+   "team": "Stanford",
+   "conference": "ACC",
+   "totalPPA": 47.9,
+   "totalPassingPPA": -0.9,
+   "totalReceivingPPA": 45.2,
+   "totalRushingPPA": 3.5,
+   "percentPPA": 0.213,
+   "percentPassingPPA": -0.012,
+   "percentReceivingPPA": 0.312,
+   "percentRushingPPA": 1.346,
+   "usage": 0.298,
+   "passingUsage": 0.01,
+   "receivingUsage": 0.317,
+   "rushingUsage": 0.626
+  },
+  {
+   "season": 2026,
+   "team": "Syracuse",
+   "conference": "ACC",
+   "totalPPA": 80.1,
+   "totalPassingPPA": 56.2,
+   "totalReceivingPPA": 27.9,
+   "totalRushingPPA": -4.1,
+   "percentPPA": 0.35,
+   "percentPassingPPA": 0.834,
+   "percentReceivingPPA": 0.2,
+   "percentRushingPPA": -0.186,
+   "usage": 0.29,
+   "passingUsage": 0.526,
+   "receivingUsage": 0.106,
+   "rushingUsage": 0.195
+  },
+  {
+   "season": 2026,
+   "team": "TCU",
+   "conference": "Big 12",
+   "totalPPA": 94.3,
+   "totalPassingPPA": 17.4,
+   "totalReceivingPPA": 68.1,
+   "totalRushingPPA": 8.7,
+   "percentPPA": 0.224,
+   "percentPassingPPA": 0.11,
+   "percentReceivingPPA": 0.291,
+   "percentRushingPPA": 0.313,
+   "usage": 0.251,
+   "passingUsage": 0.008,
+   "receivingUsage": 0.381,
+   "rushingUsage": 0.4
+  },
+  {
+   "season": 2026,
+   "team": "Temple",
+   "conference": "American Athletic",
+   "totalPPA": 96.1,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 90.6,
+   "totalRushingPPA": 5.4,
+   "percentPPA": 0.37,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0.691,
+   "percentRushingPPA": 0.229,
+   "usage": 0.292,
+   "passingUsage": 0,
+   "receivingUsage": 0.629,
+   "rushingUsage": 0.276
+  },
+  {
+   "season": 2026,
+   "team": "Tennessee",
+   "conference": "SEC",
+   "totalPPA": 186.2,
+   "totalPassingPPA": 12,
+   "totalReceivingPPA": 121.5,
+   "totalRushingPPA": 52.7,
+   "percentPPA": 0.353,
+   "percentPassingPPA": 0.066,
+   "percentReceivingPPA": 0.515,
+   "percentRushingPPA": 0.48,
+   "usage": 0.367,
+   "passingUsage": 0.022,
+   "receivingUsage": 0.598,
+   "rushingUsage": 0.502
+  },
+  {
+   "season": 2026,
+   "team": "Texas",
+   "conference": "SEC",
+   "totalPPA": 187.5,
+   "totalPassingPPA": 73.6,
+   "totalReceivingPPA": 81.3,
+   "totalRushingPPA": 32.6,
+   "percentPPA": 0.721,
+   "percentPassingPPA": 0.854,
+   "percentReceivingPPA": 0.55,
+   "percentRushingPPA": 1.264,
+   "usage": 0.58,
+   "passingUsage": 0.979,
+   "receivingUsage": 0.423,
+   "rushingUsage": 0.278
+  },
+  {
+   "season": 2026,
+   "team": "Texas A&M",
+   "conference": "SEC",
+   "totalPPA": 266.6,
+   "totalPassingPPA": 102.5,
+   "totalReceivingPPA": 107.1,
+   "totalRushingPPA": 56.9,
+   "percentPPA": 0.728,
+   "percentPassingPPA": 0.972,
+   "percentReceivingPPA": 0.605,
+   "percentRushingPPA": 0.681,
+   "usage": 0.702,
+   "passingUsage": 0.942,
+   "receivingUsage": 0.55,
+   "rushingUsage": 0.604
+  },
+  {
+   "season": 2026,
+   "team": "Texas State",
+   "conference": "Sun Belt",
+   "totalPPA": 306.4,
+   "totalPassingPPA": 121.2,
+   "totalReceivingPPA": 127.9,
+   "totalRushingPPA": 57.4,
+   "percentPPA": 0.76,
+   "percentPassingPPA": 0.998,
+   "percentReceivingPPA": 0.791,
+   "percentRushingPPA": 0.48,
+   "usage": 0.667,
+   "passingUsage": 0.99,
+   "receivingUsage": 0.739,
+   "rushingUsage": 0.392
+  },
+  {
+   "season": 2026,
+   "team": "Texas Tech",
+   "conference": "Big 12",
+   "totalPPA": 231.6,
+   "totalPassingPPA": 41.4,
+   "totalReceivingPPA": 118.1,
+   "totalRushingPPA": 72.1,
+   "percentPPA": 0.534,
+   "percentPassingPPA": 0.268,
+   "percentReceivingPPA": 0.57,
+   "percentRushingPPA": 0.988,
+   "usage": 0.567,
+   "passingUsage": 0.233,
+   "receivingUsage": 0.532,
+   "rushingUsage": 0.934
+  },
+  {
+   "season": 2026,
+   "team": "Toledo",
+   "conference": "Mid-American",
+   "totalPPA": 224.9,
+   "totalPassingPPA": 107.1,
+   "totalReceivingPPA": 103.9,
+   "totalRushingPPA": 13.8,
+   "percentPPA": 0.663,
+   "percentPassingPPA": 0.985,
+   "percentReceivingPPA": 0.584,
+   "percentRushingPPA": 0.263,
+   "usage": 0.564,
+   "passingUsage": 0.856,
+   "receivingUsage": 0.61,
+   "rushingUsage": 0.257
+  },
+  {
+   "season": 2026,
+   "team": "Troy",
+   "conference": "Sun Belt",
+   "totalPPA": 75.1,
+   "totalPassingPPA": 47,
+   "totalReceivingPPA": 18.5,
+   "totalRushingPPA": 9.5,
+   "percentPPA": 0.353,
+   "percentPassingPPA": 1.028,
+   "percentReceivingPPA": 0.116,
+   "percentRushingPPA": 1.357,
+   "usage": 0.568,
+   "passingUsage": 0.964,
+   "receivingUsage": 0.107,
+   "rushingUsage": 0.522
+  },
+  {
+   "season": 2026,
+   "team": "Tulane",
+   "conference": "American Athletic",
+   "totalPPA": 72.5,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 52.7,
+   "totalRushingPPA": 19.8,
+   "percentPPA": 0.21,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0.283,
+   "percentRushingPPA": 0.595,
+   "usage": 0.185,
+   "passingUsage": 0,
+   "receivingUsage": 0.325,
+   "rushingUsage": 0.239
+  },
+  {
+   "season": 2026,
+   "team": "Tulsa",
+   "conference": "American Athletic",
+   "totalPPA": 89.6,
+   "totalPassingPPA": 35.7,
+   "totalReceivingPPA": 48.5,
+   "totalRushingPPA": 5.5,
+   "percentPPA": 0.413,
+   "percentPassingPPA": 0.693,
+   "percentReceivingPPA": 0.42,
+   "percentRushingPPA": 0.109,
+   "usage": 0.4,
+   "passingUsage": 0.778,
+   "receivingUsage": 0.237,
+   "rushingUsage": 0.178
+  },
+  {
+   "season": 2026,
+   "team": "UAB",
+   "conference": "American Athletic",
+   "totalPPA": 245.1,
+   "totalPassingPPA": 90.2,
+   "totalReceivingPPA": 124,
+   "totalRushingPPA": 30.9,
+   "percentPPA": 0.796,
+   "percentPassingPPA": 1,
+   "percentReceivingPPA": 0.735,
+   "percentRushingPPA": 0.633,
+   "usage": 0.855,
+   "passingUsage": 1,
+   "receivingUsage": 0.69,
+   "rushingUsage": 0.852
+  },
+  {
+   "season": 2026,
+   "team": "UCF",
+   "conference": "Big 12",
+   "totalPPA": 62.3,
+   "totalPassingPPA": 2.6,
+   "totalReceivingPPA": 70.3,
+   "totalRushingPPA": -10.6,
+   "percentPPA": 0.248,
+   "percentPassingPPA": 0.039,
+   "percentReceivingPPA": 0.58,
+   "percentRushingPPA": -0.168,
+   "usage": 0.196,
+   "passingUsage": 0.005,
+   "receivingUsage": 0.525,
+   "rushingUsage": 0.085
+  },
+  {
+   "season": 2026,
+   "team": "UCLA",
+   "conference": "Big Ten",
+   "totalPPA": 108.3,
+   "totalPassingPPA": 17.5,
+   "totalReceivingPPA": 29.3,
+   "totalRushingPPA": 61.5,
+   "percentPPA": 0.57,
+   "percentPassingPPA": 0.547,
+   "percentReceivingPPA": 0.338,
+   "percentRushingPPA": 0.861,
+   "usage": 0.635,
+   "passingUsage": 0.907,
+   "receivingUsage": 0.274,
+   "rushingUsage": 0.69
+  },
+  {
+   "season": 2026,
+   "team": "UConn",
+   "conference": "FBS Independents",
+   "totalPPA": 11.4,
+   "totalPassingPPA": 6.1,
+   "totalReceivingPPA": 5.3,
+   "totalRushingPPA": -0.1,
+   "percentPPA": 0.023,
+   "percentPassingPPA": 0.032,
+   "percentReceivingPPA": 0.024,
+   "percentRushingPPA": -0.001,
+   "usage": 0.027,
+   "passingUsage": 0.009,
+   "receivingUsage": 0.066,
+   "rushingUsage": 0.005
+  },
+  {
+   "season": 2026,
+   "team": "UL Monroe",
+   "conference": "Sun Belt",
+   "totalPPA": 63.5,
+   "totalPassingPPA": 34,
+   "totalReceivingPPA": 26.8,
+   "totalRushingPPA": 2.7,
+   "percentPPA": 0.387,
+   "percentPassingPPA": 0.782,
+   "percentReceivingPPA": 0.259,
+   "percentRushingPPA": 0.157,
+   "usage": 0.458,
+   "passingUsage": 0.965,
+   "receivingUsage": 0.341,
+   "rushingUsage": 0.136
+  },
+  {
+   "season": 2026,
+   "team": "UNLV",
+   "conference": "Mountain West",
+   "totalPPA": 66.1,
+   "totalPassingPPA": 4.6,
+   "totalReceivingPPA": 29.4,
+   "totalRushingPPA": 32.1,
+   "percentPPA": 0.154,
+   "percentPassingPPA": 0.038,
+   "percentReceivingPPA": 0.143,
+   "percentRushingPPA": 0.311,
+   "usage": 0.271,
+   "passingUsage": 0.012,
+   "receivingUsage": 0.288,
+   "rushingUsage": 0.513
+  },
+  {
+   "season": 2026,
+   "team": "USC",
+   "conference": "Big Ten",
+   "totalPPA": 305.5,
+   "totalPassingPPA": 178.7,
+   "totalReceivingPPA": 64.3,
+   "totalRushingPPA": 62.6,
+   "percentPPA": 0.592,
+   "percentPassingPPA": 0.909,
+   "percentReceivingPPA": 0.269,
+   "percentRushingPPA": 0.78,
+   "usage": 0.657,
+   "passingUsage": 0.956,
+   "receivingUsage": 0.253,
+   "rushingUsage": 0.732
+  },
+  {
+   "season": 2026,
+   "team": "Utah",
+   "conference": "Big 12",
+   "totalPPA": 278.5,
+   "totalPassingPPA": 107,
+   "totalReceivingPPA": 40.4,
+   "totalRushingPPA": 131.1,
+   "percentPPA": 0.679,
+   "percentPassingPPA": 0.974,
+   "percentReceivingPPA": 0.286,
+   "percentRushingPPA": 0.827,
+   "usage": 0.715,
+   "passingUsage": 0.992,
+   "receivingUsage": 0.328,
+   "rushingUsage": 0.766
+  },
+  {
+   "season": 2026,
+   "team": "Utah State",
+   "conference": "Mountain West",
+   "totalPPA": 215,
+   "totalPassingPPA": 83,
+   "totalReceivingPPA": 79.4,
+   "totalRushingPPA": 52.6,
+   "percentPPA": 0.652,
+   "percentPassingPPA": 0.866,
+   "percentReceivingPPA": 0.486,
+   "percentRushingPPA": 0.744,
+   "usage": 0.708,
+   "passingUsage": 0.993,
+   "receivingUsage": 0.421,
+   "rushingUsage": 0.659
+  },
+  {
+   "season": 2026,
+   "team": "UTEP",
+   "conference": "Conference USA",
+   "totalPPA": -0.9,
+   "totalPassingPPA": -3.1,
+   "totalReceivingPPA": 10.9,
+   "totalRushingPPA": -8.7,
+   "percentPPA": -0.011,
+   "percentPassingPPA": 0.181,
+   "percentReceivingPPA": 0.153,
+   "percentRushingPPA": -0.309,
+   "usage": 0.098,
+   "passingUsage": 0.025,
+   "receivingUsage": 0.145,
+   "rushingUsage": 0.144
+  },
+  {
+   "season": 2026,
+   "team": "UTSA",
+   "conference": "American Athletic",
+   "totalPPA": 234.1,
+   "totalPassingPPA": 110.4,
+   "totalReceivingPPA": 100.3,
+   "totalRushingPPA": 23.5,
+   "percentPPA": 0.669,
+   "percentPassingPPA": 0.927,
+   "percentReceivingPPA": 0.606,
+   "percentRushingPPA": 0.358,
+   "usage": 0.7,
+   "passingUsage": 0.993,
+   "receivingUsage": 0.504,
+   "rushingUsage": 0.57
+  },
+  {
+   "season": 2026,
+   "team": "Vanderbilt",
+   "conference": "SEC",
+   "totalPPA": 203.3,
+   "totalPassingPPA": 17.8,
+   "totalReceivingPPA": 126.2,
+   "totalRushingPPA": 59.3,
+   "percentPPA": 0.354,
+   "percentPassingPPA": 0.087,
+   "percentReceivingPPA": 0.501,
+   "percentRushingPPA": 0.501,
+   "usage": 0.326,
+   "passingUsage": 0.061,
+   "receivingUsage": 0.449,
+   "rushingUsage": 0.501
+  },
+  {
+   "season": 2026,
+   "team": "Virginia",
+   "conference": "ACC",
+   "totalPPA": 34.9,
+   "totalPassingPPA": 1.2,
+   "totalReceivingPPA": 14.3,
+   "totalRushingPPA": 19.3,
+   "percentPPA": 0.095,
+   "percentPassingPPA": 0.011,
+   "percentReceivingPPA": 0.087,
+   "percentRushingPPA": 0.21,
+   "usage": 0.136,
+   "passingUsage": 0.004,
+   "receivingUsage": 0.205,
+   "rushingUsage": 0.205
+  },
+  {
+   "season": 2026,
+   "team": "Virginia Tech",
+   "conference": "ACC",
+   "totalPPA": 94.3,
+   "totalPassingPPA": 0,
+   "totalReceivingPPA": 67.9,
+   "totalRushingPPA": 26.4,
+   "percentPPA": 0.367,
+   "percentPassingPPA": 0,
+   "percentReceivingPPA": 0.541,
+   "percentRushingPPA": 0.308,
+   "usage": 0.277,
+   "passingUsage": 0,
+   "receivingUsage": 0.583,
+   "rushingUsage": 0.32
+  },
+  {
+   "season": 2026,
+   "team": "Wake Forest",
+   "conference": "ACC",
+   "totalPPA": 44.1,
+   "totalPassingPPA": 21.1,
+   "totalReceivingPPA": 20,
+   "totalRushingPPA": 3,
+   "percentPPA": 0.142,
+   "percentPassingPPA": 0.229,
+   "percentReceivingPPA": 0.131,
+   "percentRushingPPA": 0.046,
+   "usage": 0.121,
+   "passingUsage": 0.012,
+   "receivingUsage": 0.276,
+   "rushingUsage": 0.102
+  },
+  {
+   "season": 2026,
+   "team": "Washington",
+   "conference": "Big Ten",
+   "totalPPA": 228.1,
+   "totalPassingPPA": 102.1,
+   "totalReceivingPPA": 68.6,
+   "totalRushingPPA": 57.4,
+   "percentPPA": 0.544,
+   "percentPassingPPA": 0.942,
+   "percentReceivingPPA": 0.342,
+   "percentRushingPPA": 0.519,
+   "usage": 0.571,
+   "passingUsage": 0.943,
+   "receivingUsage": 0.38,
+   "rushingUsage": 0.355
+  },
+  {
+   "season": 2026,
+   "team": "Washington State",
+   "conference": "Pac-12",
+   "totalPPA": 228.3,
+   "totalPassingPPA": 78.7,
+   "totalReceivingPPA": 120.8,
+   "totalRushingPPA": 28.8,
+   "percentPPA": 0.913,
+   "percentPassingPPA": 1,
+   "percentReceivingPPA": 0.847,
+   "percentRushingPPA": 1,
+   "usage": 0.975,
+   "passingUsage": 1,
+   "receivingUsage": 0.917,
+   "rushingUsage": 1
+  },
+  {
+   "season": 2026,
+   "team": "Western Kentucky",
+   "conference": "Conference USA",
+   "totalPPA": 312.2,
+   "totalPassingPPA": 99.1,
+   "totalReceivingPPA": 185.2,
+   "totalRushingPPA": 27.9,
+   "percentPPA": 0.837,
+   "percentPassingPPA": 0.951,
+   "percentReceivingPPA": 0.848,
+   "percentRushingPPA": 0.547,
+   "usage": 0.784,
+   "passingUsage": 0.994,
+   "receivingUsage": 0.78,
+   "rushingUsage": 0.493
+  },
+  {
+   "season": 2026,
+   "team": "Western Michigan",
+   "conference": "Mid-American",
+   "totalPPA": 155.5,
+   "totalPassingPPA": 27.1,
+   "totalReceivingPPA": 83.3,
+   "totalRushingPPA": 45.2,
+   "percentPPA": 0.997,
+   "percentPassingPPA": 1,
+   "percentReceivingPPA": 1,
+   "percentRushingPPA": 1,
+   "usage": 1,
+   "passingUsage": 1,
+   "receivingUsage": 1,
+   "rushingUsage": 1
+  },
+  {
+   "season": 2026,
+   "team": "West Virginia",
+   "conference": "Big 12",
+   "totalPPA": 21.1,
+   "totalPassingPPA": 11.1,
+   "totalReceivingPPA": 10.6,
+   "totalRushingPPA": -0.7,
+   "percentPPA": 0.14,
+   "percentPassingPPA": 0.624,
+   "percentReceivingPPA": 0.094,
+   "percentRushingPPA": -0.035,
+   "usage": 0.262,
+   "passingUsage": 0.546,
+   "receivingUsage": 0.056,
+   "rushingUsage": 0.153
+  },
+  {
+   "season": 2026,
+   "team": "Wisconsin",
+   "conference": "Big Ten",
+   "totalPPA": 29.8,
+   "totalPassingPPA": -2,
+   "totalReceivingPPA": 24.6,
+   "totalRushingPPA": 7.1,
+   "percentPPA": 0.31,
+   "percentPassingPPA": -5,
+   "percentReceivingPPA": 0.337,
+   "percentRushingPPA": 0.318,
+   "usage": 0.468,
+   "passingUsage": 0.519,
+   "receivingUsage": 0.227,
+   "rushingUsage": 0.576
+  },
+  {
+   "season": 2026,
+   "team": "Wyoming",
+   "conference": "Mountain West",
+   "totalPPA": 36.8,
+   "totalPassingPPA": 1.1,
+   "totalReceivingPPA": 21.8,
+   "totalRushingPPA": 13.8,
+   "percentPPA": 0.23,
+   "percentPassingPPA": 0.032,
+   "percentReceivingPPA": 0.201,
+   "percentRushingPPA": 0.807,
+   "usage": 0.281,
+   "passingUsage": 0.124,
+   "receivingUsage": 0.355,
+   "rushingUsage": 0.387
+  }
+ ],
+ "recruiting": [
+  {
+   "year": 2026,
+   "team": "USC",
+   "rank": 1,
+   "points": 310.67
+  },
+  {
+   "year": 2026,
+   "team": "Alabama",
+   "rank": 2,
+   "points": 303.79
+  },
+  {
+   "year": 2026,
+   "team": "Oregon",
+   "rank": 3,
+   "points": 303.22
+  },
+  {
+   "year": 2026,
+   "team": "Ohio State",
+   "rank": 4,
+   "points": 301.23
+  },
+  {
+   "year": 2026,
+   "team": "Notre Dame",
+   "rank": 5,
+   "points": 299.28
+  },
+  {
+   "year": 2026,
+   "team": "Georgia",
+   "rank": 6,
+   "points": 291.98
+  },
+  {
+   "year": 2026,
+   "team": "Texas",
+   "rank": 7,
+   "points": 291.18
+  },
+  {
+   "year": 2026,
+   "team": "Tennessee",
+   "rank": 8,
+   "points": 290.71
+  },
+  {
+   "year": 2026,
+   "team": "Miami",
+   "rank": 9,
+   "points": 284.61
+  },
+  {
+   "year": 2026,
+   "team": "Texas A&M",
+   "rank": 10,
+   "points": 283.13
+  },
+  {
+   "year": 2026,
+   "team": "LSU",
+   "rank": 11,
+   "points": 272.69
+  },
+  {
+   "year": 2026,
+   "team": "Michigan",
+   "rank": 12,
+   "points": 270.12
+  },
+  {
+   "year": 2026,
+   "team": "Washington",
+   "rank": 13,
+   "points": 262.32
+  },
+  {
+   "year": 2026,
+   "team": "South Carolina",
+   "rank": 14,
+   "points": 256.43
+  },
+  {
+   "year": 2026,
+   "team": "Oklahoma",
+   "rank": 15,
+   "points": 252.55
+  },
+  {
+   "year": 2026,
+   "team": "Florida State",
+   "rank": 16,
+   "points": 251.54
+  },
+  {
+   "year": 2026,
+   "team": "Florida",
+   "rank": 17,
+   "points": 250.98
+  },
+  {
+   "year": 2026,
+   "team": "Texas Tech",
+   "rank": 18,
+   "points": 250.26
+  },
+  {
+   "year": 2026,
+   "team": "North Carolina",
+   "rank": 19,
+   "points": 247.7
+  },
+  {
+   "year": 2026,
+   "team": "Clemson",
+   "rank": 20,
+   "points": 243.28
+  },
+  {
+   "year": 2026,
+   "team": "BYU",
+   "rank": 21,
+   "points": 237.33
+  },
+  {
+   "year": 2026,
+   "team": "Ole Miss",
+   "rank": 22,
+   "points": 236.72
+  },
+  {
+   "year": 2026,
+   "team": "Mississippi State",
+   "rank": 23,
+   "points": 230.56
+  },
+  {
+   "year": 2026,
+   "team": "Illinois",
+   "rank": 24,
+   "points": 230.18
+  },
+  {
+   "year": 2026,
+   "team": "West Virginia",
+   "rank": 25,
+   "points": 229.51
+  },
+  {
+   "year": 2026,
+   "team": "Iowa",
+   "rank": 26,
+   "points": 228.57
+  },
+  {
+   "year": 2026,
+   "team": "Utah",
+   "rank": 27,
+   "points": 226.89
+  },
+  {
+   "year": 2026,
+   "team": "Minnesota",
+   "rank": 28,
+   "points": 226.67
+  },
+  {
+   "year": 2026,
+   "team": "Indiana",
+   "rank": 29,
+   "points": 226.46
+  },
+  {
+   "year": 2026,
+   "team": "Virginia Tech",
+   "rank": 30,
+   "points": 226.24
+  },
+  {
+   "year": 2026,
+   "team": "Auburn",
+   "rank": 31,
+   "points": 225.99
+  },
+  {
+   "year": 2026,
+   "team": "SMU",
+   "rank": 32,
+   "points": 225.82
+  },
+  {
+   "year": 2026,
+   "team": "Vanderbilt",
+   "rank": 33,
+   "points": 225.43
+  },
+  {
+   "year": 2026,
+   "team": "Missouri",
+   "rank": 34,
+   "points": 225.09
+  },
+  {
+   "year": 2026,
+   "team": "Syracuse",
+   "rank": 35,
+   "points": 224.78
+  },
+  {
+   "year": 2026,
+   "team": "Rutgers",
+   "rank": 36,
+   "points": 220.7
+  },
+  {
+   "year": 2026,
+   "team": "Stanford",
+   "rank": 37,
+   "points": 218.95
+  },
+  {
+   "year": 2026,
+   "team": "Houston",
+   "rank": 38,
+   "points": 218.85
+  },
+  {
+   "year": 2026,
+   "team": "Wake Forest",
+   "rank": 39,
+   "points": 217.86
+  },
+  {
+   "year": 2026,
+   "team": "Arizona State",
+   "rank": 40,
+   "points": 217.26
+  },
+  {
+   "year": 2026,
+   "team": "Georgia Tech",
+   "rank": 41,
+   "points": 216.7
+  },
+  {
+   "year": 2026,
+   "team": "Arizona",
+   "rank": 42,
+   "points": 216.67
+  },
+  {
+   "year": 2026,
+   "team": "Maryland",
+   "rank": 43,
+   "points": 215.87
+  },
+  {
+   "year": 2026,
+   "team": "Pittsburgh",
+   "rank": 44,
+   "points": 214.09
+  },
+  {
+   "year": 2026,
+   "team": "Michigan State",
+   "rank": 45,
+   "points": 213.73
+  },
+  {
+   "year": 2026,
+   "team": "Arkansas",
+   "rank": 46,
+   "points": 212.68
+  },
+  {
+   "year": 2026,
+   "team": "TCU",
+   "rank": 47,
+   "points": 212.6
+  },
+  {
+   "year": 2026,
+   "team": "Louisville",
+   "rank": 48,
+   "points": 211.65
+  },
+  {
+   "year": 2026,
+   "team": "NC State",
+   "rank": 49,
+   "points": 210.28
+  },
+  {
+   "year": 2026,
+   "team": "Kansas State",
+   "rank": 50,
+   "points": 207.83
+  },
+  {
+   "year": 2026,
+   "team": "Boise State",
+   "rank": 51,
+   "points": 205.71
+  },
+  {
+   "year": 2026,
+   "team": "Northwestern",
+   "rank": 52,
+   "points": 204.95
+  },
+  {
+   "year": 2026,
+   "team": "Boston College",
+   "rank": 53,
+   "points": 204.06
+  },
+  {
+   "year": 2026,
+   "team": "Iowa State",
+   "rank": 54,
+   "points": 203.31
+  },
+  {
+   "year": 2026,
+   "team": "Purdue",
+   "rank": 55,
+   "points": 203.29
+  },
+  {
+   "year": 2026,
+   "team": "California",
+   "rank": 56,
+   "points": 202.81
+  },
+  {
+   "year": 2026,
+   "team": "Baylor",
+   "rank": 57,
+   "points": 200.6
+  },
+  {
+   "year": 2026,
+   "team": "Cincinnati",
+   "rank": 58,
+   "points": 199.89
+  },
+  {
+   "year": 2026,
+   "team": "App State",
+   "rank": 59,
+   "points": 198.58
+  },
+  {
+   "year": 2026,
+   "team": "Kentucky",
+   "rank": 60,
+   "points": 197.21
+  },
+  {
+   "year": 2026,
+   "team": "Kansas",
+   "rank": 61,
+   "points": 196.96
+  },
+  {
+   "year": 2026,
+   "team": "UCLA",
+   "rank": 62,
+   "points": 196.57
+  },
+  {
+   "year": 2026,
+   "team": "UNLV",
+   "rank": 63,
+   "points": 196.45
+  },
+  {
+   "year": 2026,
+   "team": "Tulane",
+   "rank": 64,
+   "points": 195.14
+  },
+  {
+   "year": 2026,
+   "team": "Penn State",
+   "rank": 65,
+   "points": 194.39
+  },
+  {
+   "year": 2026,
+   "team": "UCF",
+   "rank": 66,
+   "points": 194.3
+  },
+  {
+   "year": 2026,
+   "team": "Colorado",
+   "rank": 67,
+   "points": 193.36
+  },
+  {
+   "year": 2026,
+   "team": "Temple",
+   "rank": 68,
+   "points": 192.17
+  },
+  {
+   "year": 2026,
+   "team": "Oklahoma State",
+   "rank": 69,
+   "points": 190.27
+  },
+  {
+   "year": 2026,
+   "team": "Fresno State",
+   "rank": 70,
+   "points": 189.36
+  },
+  {
+   "year": 2026,
+   "team": "Duke",
+   "rank": 71,
+   "points": 189.26
+  },
+  {
+   "year": 2026,
+   "team": "Memphis",
+   "rank": 72,
+   "points": 189.2
+  },
+  {
+   "year": 2026,
+   "team": "Colorado State",
+   "rank": 73,
+   "points": 188.82
+  },
+  {
+   "year": 2026,
+   "team": "Texas State",
+   "rank": 74,
+   "points": 188.31
+  },
+  {
+   "year": 2026,
+   "team": "Bowling Green",
+   "rank": 75,
+   "points": 188.03
+  },
+  {
+   "year": 2026,
+   "team": "Troy",
+   "rank": 76,
+   "points": 187.25
+  },
+  {
+   "year": 2026,
+   "team": "South Alabama",
+   "rank": 77,
+   "points": 187.23
+  },
+  {
+   "year": 2026,
+   "team": "Wisconsin",
+   "rank": 78,
+   "points": 186.75
+  },
+  {
+   "year": 2026,
+   "team": "UTSA",
+   "rank": 79,
+   "points": 185.81
+  },
+  {
+   "year": 2026,
+   "team": "James Madison",
+   "rank": 80,
+   "points": 185.6
+  },
+  {
+   "year": 2026,
+   "team": "Western Kentucky",
+   "rank": 81,
+   "points": 185.21
+  },
+  {
+   "year": 2026,
+   "team": "Northern Illinois",
+   "rank": 82,
+   "points": 184.9
+  },
+  {
+   "year": 2026,
+   "team": "San Diego State",
+   "rank": 83,
+   "points": 184.15
+  },
+  {
+   "year": 2026,
+   "team": "Georgia State",
+   "rank": 84,
+   "points": 184.01
+  },
+  {
+   "year": 2026,
+   "team": "Arkansas State",
+   "rank": 85,
+   "points": 183.85
+  },
+  {
+   "year": 2026,
+   "team": "Jacksonville State",
+   "rank": 86,
+   "points": 183.36
+  },
+  {
+   "year": 2026,
+   "team": "New Mexico",
+   "rank": 87,
+   "points": 182.61
+  },
+  {
+   "year": 2026,
+   "team": "Nebraska",
+   "rank": 88,
+   "points": 182.28
+  },
+  {
+   "year": 2026,
+   "team": "Georgia Southern",
+   "rank": 89,
+   "points": 181.78
+  },
+  {
+   "year": 2026,
+   "team": "South Florida",
+   "rank": 90,
+   "points": 180.12
+  },
+  {
+   "year": 2026,
+   "team": "Louisiana",
+   "rank": 91,
+   "points": 179.8
+  },
+  {
+   "year": 2026,
+   "team": "UTEP",
+   "rank": 92,
+   "points": 179.56
+  },
+  {
+   "year": 2026,
+   "team": "Tulsa",
+   "rank": 93,
+   "points": 179.39
+  },
+  {
+   "year": 2026,
+   "team": "East Carolina",
+   "rank": 94,
+   "points": 178.99
+  },
+  {
+   "year": 2026,
+   "team": "Central Michigan",
+   "rank": 95,
+   "points": 178.86
+  },
+  {
+   "year": 2026,
+   "team": "Old Dominion",
+   "rank": 96,
+   "points": 178.55
+  },
+  {
+   "year": 2026,
+   "team": "Utah State",
+   "rank": 97,
+   "points": 177.56
+  },
+  {
+   "year": 2026,
+   "team": "Nevada",
+   "rank": 98,
+   "points": 177.11
+  },
+  {
+   "year": 2026,
+   "team": "Louisiana Tech",
+   "rank": 99,
+   "points": 177
+  },
+  {
+   "year": 2026,
+   "team": "Oregon State",
+   "rank": 100,
+   "points": 176.78
+  },
+  {
+   "year": 2026,
+   "team": "Buffalo",
+   "rank": 101,
+   "points": 176.6
+  },
+  {
+   "year": 2026,
+   "team": "Florida International",
+   "rank": 102,
+   "points": 176.58
+  },
+  {
+   "year": 2026,
+   "team": "Charlotte",
+   "rank": 103,
+   "points": 176.53
+  },
+  {
+   "year": 2026,
+   "team": "Rice",
+   "rank": 104,
+   "points": 176.01
+  },
+  {
+   "year": 2026,
+   "team": "Miami (OH)",
+   "rank": 105,
+   "points": 175.9
+  },
+  {
+   "year": 2026,
+   "team": "Eastern Michigan",
+   "rank": 106,
+   "points": 175.41
+  },
+  {
+   "year": 2026,
+   "team": "Ohio",
+   "rank": 107,
+   "points": 175.4
+  },
+  {
+   "year": 2026,
+   "team": "Southern Miss",
+   "rank": 108,
+   "points": 175.33
+  },
+  {
+   "year": 2026,
+   "team": "Liberty",
+   "rank": 109,
+   "points": 172.64
+  },
+  {
+   "year": 2026,
+   "team": "UConn",
+   "rank": 110,
+   "points": 172.49
+  },
+  {
+   "year": 2026,
+   "team": "Virginia",
+   "rank": 111,
+   "points": 171.82
+  },
+  {
+   "year": 2026,
+   "team": "Western Michigan",
+   "rank": 112,
+   "points": 171.38
+  },
+  {
+   "year": 2026,
+   "team": "Ball State",
+   "rank": 113,
+   "points": 170.02
+  },
+  {
+   "year": 2026,
+   "team": "Wyoming",
+   "rank": 114,
+   "points": 169.68
+  },
+  {
+   "year": 2026,
+   "team": "Delaware",
+   "rank": 115,
+   "points": 167.01
+  },
+  {
+   "year": 2026,
+   "team": "Massachusetts",
+   "rank": 116,
+   "points": 166.97
+  },
+  {
+   "year": 2026,
+   "team": "North Dakota State",
+   "rank": 117,
+   "points": 166.58
+  },
+  {
+   "year": 2026,
+   "team": "Coastal Carolina",
+   "rank": 118,
+   "points": 165.03
+  },
+  {
+   "year": 2026,
+   "team": "Middle Tennessee",
+   "rank": 119,
+   "points": 164.9
+  },
+  {
+   "year": 2026,
+   "team": "Kennesaw State",
+   "rank": 120,
+   "points": 163.41
+  },
+  {
+   "year": 2026,
+   "team": "Toledo",
+   "rank": 121,
+   "points": 162.52
+  },
+  {
+   "year": 2026,
+   "team": "Kent State",
+   "rank": 122,
+   "points": 162.2
+  },
+  {
+   "year": 2026,
+   "team": "Marshall",
+   "rank": 123,
+   "points": 162.09
+  },
+  {
+   "year": 2026,
+   "team": "Hawai'i",
+   "rank": 124,
+   "points": 161.47
+  },
+  {
+   "year": 2026,
+   "team": "Sacramento State",
+   "rank": 125,
+   "points": 161.23
+  },
+  {
+   "year": 2026,
+   "team": "Sam Houston",
+   "rank": 126,
+   "points": 161.18
+  },
+  {
+   "year": 2026,
+   "team": "UL Monroe",
+   "rank": 127,
+   "points": 160.28
+  },
+  {
+   "year": 2026,
+   "team": "Washington State",
+   "rank": 128,
+   "points": 159.25
+  },
+  {
+   "year": 2026,
+   "team": "San Jos\u00e9 State",
+   "rank": 129,
+   "points": 158.65
+  },
+  {
+   "year": 2026,
+   "team": "Florida Atlantic",
+   "rank": 130,
+   "points": 157.5
+  },
+  {
+   "year": 2026,
+   "team": "Missouri State",
+   "rank": 131,
+   "points": 151.56
+  },
+  {
+   "year": 2026,
+   "team": "Idaho",
+   "rank": 132,
+   "points": 150
+  },
+  {
+   "year": 2026,
+   "team": "Akron",
+   "rank": 133,
+   "points": 147.36
+  },
+  {
+   "year": 2026,
+   "team": "Montana State",
+   "rank": 134,
+   "points": 142.34
+  },
+  {
+   "year": 2026,
+   "team": "UAB",
+   "rank": 135,
+   "points": 135.31
+  },
+  {
+   "year": 2026,
+   "team": "New Mexico State",
+   "rank": 136,
+   "points": 129.05
+  },
+  {
+   "year": 2026,
+   "team": "North Texas",
+   "rank": 137,
+   "points": 128.04
+  },
+  {
+   "year": 2026,
+   "team": "Northern Arizona",
+   "rank": 138,
+   "points": 127.93
+  },
+  {
+   "year": 2026,
+   "team": "Cal Poly",
+   "rank": 139,
+   "points": 120.6
+  },
+  {
+   "year": 2026,
+   "team": "UC Davis",
+   "rank": 140,
+   "points": 117.36
+  },
+  {
+   "year": 2026,
+   "team": "Air Force",
+   "rank": 141,
+   "points": 116.49
+  },
+  {
+   "year": 2026,
+   "team": "Harvard",
+   "rank": 142,
+   "points": 106.82
+  },
+  {
+   "year": 2026,
+   "team": "Eastern Washington",
+   "rank": 143,
+   "points": 106.39
+  },
+  {
+   "year": 2026,
+   "team": "Navy",
+   "rank": 144,
+   "points": 99.4
+  },
+  {
+   "year": 2026,
+   "team": "Illinois State",
+   "rank": 145,
+   "points": 97.52
+  },
+  {
+   "year": 2026,
+   "team": "West Georgia",
+   "rank": 146,
+   "points": 95.93
+  },
+  {
+   "year": 2026,
+   "team": "Utah Tech",
+   "rank": 147,
+   "points": 94.83
+  },
+  {
+   "year": 2026,
+   "team": "Portland State",
+   "rank": 148,
+   "points": 92.18
+  },
+  {
+   "year": 2026,
+   "team": "Stephen F. Austin",
+   "rank": 149,
+   "points": 90.81
+  },
+  {
+   "year": 2026,
+   "team": "McNeese",
+   "rank": 150,
+   "points": 86.12
+  },
+  {
+   "year": 2026,
+   "team": "Weber State",
+   "rank": 151,
+   "points": 85.27
+  },
+  {
+   "year": 2026,
+   "team": "Montana",
+   "rank": 152,
+   "points": 80.74
+  },
+  {
+   "year": 2026,
+   "team": "Southern",
+   "rank": 153,
+   "points": 77.8
+  },
+  {
+   "year": 2026,
+   "team": "Murray State",
+   "rank": 154,
+   "points": 74.36
+  },
+  {
+   "year": 2026,
+   "team": "North Dakota",
+   "rank": 155,
+   "points": 74.17
+  },
+  {
+   "year": 2026,
+   "team": "Gardner-Webb",
+   "rank": 156,
+   "points": 74.17
+  },
+  {
+   "year": 2026,
+   "team": "South Dakota State",
+   "rank": 157,
+   "points": 71.9
+  },
+  {
+   "year": 2026,
+   "team": "Jackson State",
+   "rank": 158,
+   "points": 70.68
+  },
+  {
+   "year": 2026,
+   "team": "Villanova",
+   "rank": 159,
+   "points": 65.77
+  },
+  {
+   "year": 2026,
+   "team": "Wofford",
+   "rank": 160,
+   "points": 60.53
+  },
+  {
+   "year": 2026,
+   "team": "Nicholls",
+   "rank": 161,
+   "points": 57.53
+  },
+  {
+   "year": 2026,
+   "team": "Rhode Island",
+   "rank": 162,
+   "points": 56.44
+  },
+  {
+   "year": 2026,
+   "team": "Furman",
+   "rank": 163,
+   "points": 55.92
+  },
+  {
+   "year": 2026,
+   "team": "Howard",
+   "rank": 164,
+   "points": 53.45
+  },
+  {
+   "year": 2026,
+   "team": "Pennsylvania",
+   "rank": 165,
+   "points": 53.11
+  },
+  {
+   "year": 2026,
+   "team": "Columbia",
+   "rank": 166,
+   "points": 51.95
+  },
+  {
+   "year": 2026,
+   "team": "Albany",
+   "rank": 167,
+   "points": 51.51
+  },
+  {
+   "year": 2026,
+   "team": "Alabama State",
+   "rank": 168,
+   "points": 51
+  },
+  {
+   "year": 2026,
+   "team": "UT Martin",
+   "rank": 169,
+   "points": 49.51
+  },
+  {
+   "year": 2026,
+   "team": "Mercer",
+   "rank": 170,
+   "points": 49.48
+  },
+  {
+   "year": 2026,
+   "team": "Idaho State",
+   "rank": 171,
+   "points": 48.56
+  },
+  {
+   "year": 2026,
+   "team": "South Dakota",
+   "rank": 172,
+   "points": 48.03
+  },
+  {
+   "year": 2026,
+   "team": "Prairie View A&M",
+   "rank": 173,
+   "points": 47.66
+  },
+  {
+   "year": 2026,
+   "team": "Western Carolina",
+   "rank": 174,
+   "points": 45.43
+  },
+  {
+   "year": 2026,
+   "team": "Towson",
+   "rank": 175,
+   "points": 44.84
+  },
+  {
+   "year": 2026,
+   "team": "Chattanooga",
+   "rank": 176,
+   "points": 44.57
+  },
+  {
+   "year": 2026,
+   "team": "Samford",
+   "rank": 177,
+   "points": 43.62
+  },
+  {
+   "year": 2026,
+   "team": "Central Arkansas",
+   "rank": 178,
+   "points": 43.57
+  },
+  {
+   "year": 2026,
+   "team": "Lamar",
+   "rank": 180,
+   "points": 40.62
+  },
+  {
+   "year": 2026,
+   "team": "Army",
+   "rank": 181,
+   "points": 39.85
+  },
+  {
+   "year": 2026,
+   "team": "Abilene Christian",
+   "rank": 182,
+   "points": 39.63
+  },
+  {
+   "year": 2026,
+   "team": "Lehigh",
+   "rank": 183,
+   "points": 39.62
+  },
+  {
+   "year": 2026,
+   "team": "Brown",
+   "rank": 184,
+   "points": 39.6
+  },
+  {
+   "year": 2026,
+   "team": "Southeastern Louisiana",
+   "rank": 185,
+   "points": 39.43
+  },
+  {
+   "year": 2026,
+   "team": "Lafayette",
+   "rank": 186,
+   "points": 38.63
+  },
+  {
+   "year": 2026,
+   "team": "Princeton",
+   "rank": 187,
+   "points": 35.7
+  },
+  {
+   "year": 2026,
+   "team": "Northern Colorado",
+   "rank": 188,
+   "points": 31.24
+  },
+  {
+   "year": 2026,
+   "team": "Savannah State",
+   "rank": 189,
+   "points": 30.91
+  },
+  {
+   "year": 2026,
+   "team": "Colgate",
+   "rank": 191,
+   "points": 30.24
+  },
+  {
+   "year": 2026,
+   "team": "Lindenwood",
+   "rank": 192,
+   "points": 29.92
+  },
+  {
+   "year": 2026,
+   "team": "Eastern Kentucky",
+   "rank": 193,
+   "points": 27.92
+  },
+  {
+   "year": 2026,
+   "team": "West Florida",
+   "rank": 194,
+   "points": 26.92
+  },
+  {
+   "year": 2026,
+   "team": "East Tennessee State",
+   "rank": 195,
+   "points": 26.17
+  },
+  {
+   "year": 2026,
+   "team": "Florida A&M",
+   "rank": 197,
+   "points": 25.93
+  },
+  {
+   "year": 2026,
+   "team": "Austin Peay",
+   "rank": 198,
+   "points": 24.94
+  },
+  {
+   "year": 2026,
+   "team": "Cornell",
+   "rank": 199,
+   "points": 23.93
+  },
+  {
+   "year": 2026,
+   "team": "North Alabama",
+   "rank": 200,
+   "points": 23.93
+  },
+  {
+   "year": 2026,
+   "team": "Northwestern State",
+   "rank": 201,
+   "points": 23.43
+  },
+  {
+   "year": 2026,
+   "team": "North Carolina A&T",
+   "rank": 202,
+   "points": 18
+  },
+  {
+   "year": 2026,
+   "team": "Texas Southern",
+   "rank": 203,
+   "points": 16.89
+  },
+  {
+   "year": 2026,
+   "team": "Alabama A&M",
+   "rank": 206,
+   "points": 16.11
+  },
+  {
+   "year": 2026,
+   "team": "Youngstown State",
+   "rank": 207,
+   "points": 16
+  },
+  {
+   "year": 2026,
+   "team": "Richmond",
+   "rank": 209,
+   "points": 15.78
+  },
+  {
+   "year": 2026,
+   "team": "Mississippi Valley State",
+   "rank": 210,
+   "points": 15.67
+  },
+  {
+   "year": 2026,
+   "team": "Tarleton State",
+   "rank": 211,
+   "points": 15.5
+  },
+  {
+   "year": 2026,
+   "team": "Delaware State",
+   "rank": 212,
+   "points": 15
+  },
+  {
+   "year": 2026,
+   "team": "Bryant",
+   "rank": 213,
+   "points": 14.78
+  },
+  {
+   "year": 2026,
+   "team": "Dartmouth",
+   "rank": 214,
+   "points": 14
+  },
+  {
+   "year": 2026,
+   "team": "Western Illinois",
+   "rank": 214,
+   "points": 14
+  },
+  {
+   "year": 2026,
+   "team": "William & Mary",
+   "rank": 214,
+   "points": 14
+  },
+  {
+   "year": 2026,
+   "team": "Bethune-Cookman",
+   "rank": 214,
+   "points": 14
+  },
+  {
+   "year": 2026,
+   "team": "Hampton",
+   "rank": 214,
+   "points": 14
+  },
+  {
+   "year": 2026,
+   "team": "UTRGV",
+   "rank": 220,
+   "points": 13.5
+  },
+  {
+   "year": 2026,
+   "team": "Grand Valley State",
+   "rank": 220,
+   "points": 13.5
+  },
+  {
+   "year": 2026,
+   "team": "Fordham",
+   "rank": 220,
+   "points": 13.5
+  },
+  {
+   "year": 2026,
+   "team": "Grambling",
+   "rank": 223,
+   "points": 13
+  },
+  {
+   "year": 2026,
+   "team": "Yale",
+   "rank": 223,
+   "points": 13
+  },
+  {
+   "year": 2026,
+   "team": "Tennessee State",
+   "rank": 227,
+   "points": 12.5
+  },
+  {
+   "year": 2026,
+   "team": "Presbyterian",
+   "rank": 228,
+   "points": 10
+  },
+  {
+   "year": 2026,
+   "team": "Merrimack",
+   "rank": 228,
+   "points": 10
+  },
+  {
+   "year": 2026,
+   "team": "San Diego",
+   "rank": 228,
+   "points": 10
+  }
+ ],
+ "fbs": [
+  {
+   "school": "Air Force",
+   "abbreviation": "AF",
+   "conference": "Mountain West",
+   "color": "#003594"
+  },
+  {
+   "school": "Akron",
+   "abbreviation": "AKR",
+   "conference": "Mid-American",
+   "color": "#041e42"
+  },
+  {
+   "school": "Alabama",
+   "abbreviation": "ALA",
+   "conference": "SEC",
+   "color": "#9e1b32"
+  },
+  {
+   "school": "App State",
+   "abbreviation": "APP",
+   "conference": "Sun Belt",
+   "color": "#000000"
+  },
+  {
+   "school": "Arizona",
+   "abbreviation": "ARIZ",
+   "conference": "Big 12",
+   "color": "#cc0033"
+  },
+  {
+   "school": "Arizona State",
+   "abbreviation": "ASU",
+   "conference": "Big 12",
+   "color": "#ffc627"
+  },
+  {
+   "school": "Arkansas",
+   "abbreviation": "ARK",
+   "conference": "SEC",
+   "color": "#a32136"
+  },
+  {
+   "school": "Arkansas State",
+   "abbreviation": "ARST",
+   "conference": "Sun Belt",
+   "color": "#cc092f"
+  },
+  {
+   "school": "Army",
+   "abbreviation": "ARMY",
+   "conference": "American Athletic",
+   "color": "#000000"
+  },
+  {
+   "school": "Auburn",
+   "abbreviation": "AUB",
+   "conference": "SEC",
+   "color": "#0c2340"
+  },
+  {
+   "school": "Ball State",
+   "abbreviation": "BALL",
+   "conference": "Mid-American",
+   "color": "#ba0c2f"
+  },
+  {
+   "school": "Baylor",
+   "abbreviation": "BAY",
+   "conference": "Big 12",
+   "color": "#154734"
+  },
+  {
+   "school": "Boise State",
+   "abbreviation": "BOIS",
+   "conference": "Pac-12",
+   "color": "#0033a0"
+  },
+  {
+   "school": "Boston College",
+   "abbreviation": "BC",
+   "conference": "ACC",
+   "color": "#8c2232"
+  },
+  {
+   "school": "Bowling Green",
+   "abbreviation": "BGSU",
+   "conference": "Mid-American",
+   "color": "#fd5000"
+  },
+  {
+   "school": "Buffalo",
+   "abbreviation": "BUF",
+   "conference": "Mid-American",
+   "color": "#005bbb"
+  },
+  {
+   "school": "BYU",
+   "abbreviation": "BYU",
+   "conference": "Big 12",
+   "color": "#003da5"
+  },
+  {
+   "school": "California",
+   "abbreviation": "CAL",
+   "conference": "ACC",
+   "color": "#041e42"
+  },
+  {
+   "school": "Central Michigan",
+   "abbreviation": "CMU",
+   "conference": "Mid-American",
+   "color": "#6a0032"
+  },
+  {
+   "school": "Charlotte",
+   "abbreviation": "CLT",
+   "conference": "American Athletic",
+   "color": "#005035"
+  },
+  {
+   "school": "Cincinnati",
+   "abbreviation": "CIN",
+   "conference": "Big 12",
+   "color": "#000000"
+  },
+  {
+   "school": "Clemson",
+   "abbreviation": "CLEM",
+   "conference": "ACC",
+   "color": "#f56600"
+  },
+  {
+   "school": "Coastal Carolina",
+   "abbreviation": "CCU",
+   "conference": "Sun Belt",
+   "color": "#006f71"
+  },
+  {
+   "school": "Colorado",
+   "abbreviation": "COLO",
+   "conference": "Big 12",
+   "color": "#cfb87c"
+  },
+  {
+   "school": "Colorado State",
+   "abbreviation": "CSU",
+   "conference": "Pac-12",
+   "color": "#1e4d2b"
+  },
+  {
+   "school": "Delaware",
+   "abbreviation": "DEL",
+   "conference": "Conference USA",
+   "color": "#00539f"
+  },
+  {
+   "school": "Duke",
+   "abbreviation": "DUKE",
+   "conference": "ACC",
+   "color": "#00539b"
+  },
+  {
+   "school": "East Carolina",
+   "abbreviation": "ECU",
+   "conference": "American Athletic",
+   "color": "#592a8a"
+  },
+  {
+   "school": "Eastern Michigan",
+   "abbreviation": "EMU",
+   "conference": "Mid-American",
+   "color": "#046a38"
+  },
+  {
+   "school": "Florida",
+   "abbreviation": "FLA",
+   "conference": "SEC",
+   "color": "#0021a5"
+  },
+  {
+   "school": "Florida Atlantic",
+   "abbreviation": "FAU",
+   "conference": "American Athletic",
+   "color": "#003366"
+  },
+  {
+   "school": "Florida International",
+   "abbreviation": "FIU",
+   "conference": "Conference USA",
+   "color": "#091f3f"
+  },
+  {
+   "school": "Florida State",
+   "abbreviation": "FSU",
+   "conference": "ACC",
+   "color": "#782f40"
+  },
+  {
+   "school": "Fresno State",
+   "abbreviation": "FRES",
+   "conference": "Pac-12",
+   "color": "#c41230"
+  },
+  {
+   "school": "Georgia",
+   "abbreviation": "UGA",
+   "conference": "SEC",
+   "color": "#ba0c2f"
+  },
+  {
+   "school": "Georgia Southern",
+   "abbreviation": "GASO",
+   "conference": "Sun Belt",
+   "color": "#041e42"
+  },
+  {
+   "school": "Georgia State",
+   "abbreviation": "GAST",
+   "conference": "Sun Belt",
+   "color": "#0039a6"
+  },
+  {
+   "school": "Georgia Tech",
+   "abbreviation": "GT",
+   "conference": "ACC",
+   "color": "#b3a369"
+  },
+  {
+   "school": "Hawai'i",
+   "abbreviation": "HAW",
+   "conference": "Mountain West",
+   "color": "#024731"
+  },
+  {
+   "school": "Houston",
+   "abbreviation": "HOU",
+   "conference": "Big 12",
+   "color": "#c8102e"
+  },
+  {
+   "school": "Illinois",
+   "abbreviation": "ILL",
+   "conference": "Big Ten",
+   "color": "#ff5f05"
+  },
+  {
+   "school": "Indiana",
+   "abbreviation": "IU",
+   "conference": "Big Ten",
+   "color": "#990000"
+  },
+  {
+   "school": "Iowa",
+   "abbreviation": "IOWA",
+   "conference": "Big Ten",
+   "color": "#000000"
+  },
+  {
+   "school": "Iowa State",
+   "abbreviation": "ISU",
+   "conference": "Big 12",
+   "color": "#c8102e"
+  },
+  {
+   "school": "Jacksonville State",
+   "abbreviation": "JXST",
+   "conference": "Conference USA",
+   "color": "#cc0000"
+  },
+  {
+   "school": "James Madison",
+   "abbreviation": "JMU",
+   "conference": "Sun Belt",
+   "color": "#450084"
+  },
+  {
+   "school": "Kansas",
+   "abbreviation": "KU",
+   "conference": "Big 12",
+   "color": "#0051ba"
+  },
+  {
+   "school": "Kansas State",
+   "abbreviation": "KSU",
+   "conference": "Big 12",
+   "color": "#512888"
+  },
+  {
+   "school": "Kennesaw State",
+   "abbreviation": "KENN",
+   "conference": "Conference USA",
+   "color": "#fdbb30"
+  },
+  {
+   "school": "Kent State",
+   "abbreviation": "KENT",
+   "conference": "Mid-American",
+   "color": "#002664"
+  },
+  {
+   "school": "Kentucky",
+   "abbreviation": "UK",
+   "conference": "SEC",
+   "color": "#0033a0"
+  },
+  {
+   "school": "Liberty",
+   "abbreviation": "LIB",
+   "conference": "Conference USA",
+   "color": "#0a254e"
+  },
+  {
+   "school": "Louisiana",
+   "abbreviation": "UL",
+   "conference": "Sun Belt",
+   "color": "#ce181e"
+  },
+  {
+   "school": "Louisiana Tech",
+   "abbreviation": "LT",
+   "conference": "Sun Belt",
+   "color": "#003087"
+  },
+  {
+   "school": "Louisville",
+   "abbreviation": "LOU",
+   "conference": "ACC",
+   "color": "#c9001f"
+  },
+  {
+   "school": "LSU",
+   "abbreviation": "LSU",
+   "conference": "SEC",
+   "color": "#461d7c"
+  },
+  {
+   "school": "Marshall",
+   "abbreviation": "MRSH",
+   "conference": "Sun Belt",
+   "color": "#00b140"
+  },
+  {
+   "school": "Maryland",
+   "abbreviation": "MD",
+   "conference": "Big Ten",
+   "color": "#ce1126"
+  },
+  {
+   "school": "Massachusetts",
+   "abbreviation": "MASS",
+   "conference": "Mid-American",
+   "color": "#881c1c"
+  },
+  {
+   "school": "Memphis",
+   "abbreviation": "MEM",
+   "conference": "American Athletic",
+   "color": "#00498f"
+  },
+  {
+   "school": "Miami",
+   "abbreviation": "MIA",
+   "conference": "ACC",
+   "color": "#f47321"
+  },
+  {
+   "school": "Miami (OH)",
+   "abbreviation": "M-OH",
+   "conference": "Mid-American",
+   "color": "#c41230"
+  },
+  {
+   "school": "Michigan",
+   "abbreviation": "MICH",
+   "conference": "Big Ten",
+   "color": "#00274c"
+  },
+  {
+   "school": "Michigan State",
+   "abbreviation": "MSU",
+   "conference": "Big Ten",
+   "color": "#173f35"
+  },
+  {
+   "school": "Middle Tennessee",
+   "abbreviation": "MTSU",
+   "conference": "Conference USA",
+   "color": "#036eb7"
+  },
+  {
+   "school": "Minnesota",
+   "abbreviation": "MINN",
+   "conference": "Big Ten",
+   "color": "#7a0019"
+  },
+  {
+   "school": "Mississippi State",
+   "abbreviation": "MSST",
+   "conference": "SEC",
+   "color": "#5d1725"
+  },
+  {
+   "school": "Missouri",
+   "abbreviation": "MIZ",
+   "conference": "SEC",
+   "color": "#f1b82d"
+  },
+  {
+   "school": "Missouri State",
+   "abbreviation": "MOST",
+   "conference": "Conference USA",
+   "color": "#5e0009"
+  },
+  {
+   "school": "Navy",
+   "abbreviation": "NAVY",
+   "conference": "American Athletic",
+   "color": "#00225b"
+  },
+  {
+   "school": "NC State",
+   "abbreviation": "NCSU",
+   "conference": "ACC",
+   "color": "#cc0000"
+  },
+  {
+   "school": "Nebraska",
+   "abbreviation": "NEB",
+   "conference": "Big Ten",
+   "color": "#d00000"
+  },
+  {
+   "school": "Nevada",
+   "abbreviation": "NEV",
+   "conference": "Mountain West",
+   "color": "#041e42"
+  },
+  {
+   "school": "New Mexico",
+   "abbreviation": "UNM",
+   "conference": "Mountain West",
+   "color": "#ba0c2f"
+  },
+  {
+   "school": "New Mexico State",
+   "abbreviation": "NMSU",
+   "conference": "Conference USA",
+   "color": "#8c0b42"
+  },
+  {
+   "school": "North Carolina",
+   "abbreviation": "UNC",
+   "conference": "ACC",
+   "color": "#7bafd4"
+  },
+  {
+   "school": "North Dakota State",
+   "abbreviation": "NDSU",
+   "conference": "Mountain West",
+   "color": "#00583d"
+  },
+  {
+   "school": "Northern Illinois",
+   "abbreviation": "NIU",
+   "conference": "Mountain West",
+   "color": "#c8102e"
+  },
+  {
+   "school": "North Texas",
+   "abbreviation": "UNT",
+   "conference": "American Athletic",
+   "color": "#00853e"
+  },
+  {
+   "school": "Northwestern",
+   "abbreviation": "NU",
+   "conference": "Big Ten",
+   "color": "#582c83"
+  },
+  {
+   "school": "Notre Dame",
+   "abbreviation": "ND",
+   "conference": "FBS Independents",
+   "color": "#0c2340"
+  },
+  {
+   "school": "Ohio",
+   "abbreviation": "OHIO",
+   "conference": "Mid-American",
+   "color": "#024230"
+  },
+  {
+   "school": "Ohio State",
+   "abbreviation": "OSU",
+   "conference": "Big Ten",
+   "color": "#ba0c2f"
+  },
+  {
+   "school": "Oklahoma",
+   "abbreviation": "OU",
+   "conference": "SEC",
+   "color": "#841617"
+  },
+  {
+   "school": "Oklahoma State",
+   "abbreviation": "OKST",
+   "conference": "Big 12",
+   "color": "#fe5c00"
+  },
+  {
+   "school": "Old Dominion",
+   "abbreviation": "ODU",
+   "conference": "Sun Belt",
+   "color": "#043657"
+  },
+  {
+   "school": "Ole Miss",
+   "abbreviation": "MISS",
+   "conference": "SEC",
+   "color": "#13294b"
+  },
+  {
+   "school": "Oregon",
+   "abbreviation": "ORE",
+   "conference": "Big Ten",
+   "color": "#007030"
+  },
+  {
+   "school": "Oregon State",
+   "abbreviation": "ORST",
+   "conference": "Pac-12",
+   "color": "#dc4405"
+  },
+  {
+   "school": "Penn State",
+   "abbreviation": "PSU",
+   "conference": "Big Ten",
+   "color": "#001e44"
+  },
+  {
+   "school": "Pittsburgh",
+   "abbreviation": "PITT",
+   "conference": "ACC",
+   "color": "#003594"
+  },
+  {
+   "school": "Purdue",
+   "abbreviation": "PUR",
+   "conference": "Big Ten",
+   "color": "#ceb888"
+  },
+  {
+   "school": "Rice",
+   "abbreviation": "RICE",
+   "conference": "American Athletic",
+   "color": "#00205b"
+  },
+  {
+   "school": "Rutgers",
+   "abbreviation": "RUTG",
+   "conference": "Big Ten",
+   "color": "#ce0e2d"
+  },
+  {
+   "school": "Sacramento State",
+   "abbreviation": "SAC",
+   "conference": "Mid-American",
+   "color": "#00573c"
+  },
+  {
+   "school": "Sam Houston",
+   "abbreviation": "SHSU",
+   "conference": "Conference USA",
+   "color": "#f56423"
+  },
+  {
+   "school": "San Diego State",
+   "abbreviation": "SDSU",
+   "conference": "Pac-12",
+   "color": "#a6192e"
+  },
+  {
+   "school": "San Jos\u00e9 State",
+   "abbreviation": "SJSU",
+   "conference": "Mountain West",
+   "color": "#0055a2"
+  },
+  {
+   "school": "SMU",
+   "abbreviation": "SMU",
+   "conference": "ACC",
+   "color": "#d70000"
+  },
+  {
+   "school": "South Alabama",
+   "abbreviation": "USA",
+   "conference": "Sun Belt",
+   "color": "#00205b"
+  },
+  {
+   "school": "South Carolina",
+   "abbreviation": "SC",
+   "conference": "SEC",
+   "color": "#73000a"
+  },
+  {
+   "school": "Southern Miss",
+   "abbreviation": "USM",
+   "conference": "Sun Belt",
+   "color": "#ffc72c"
+  },
+  {
+   "school": "South Florida",
+   "abbreviation": "USF",
+   "conference": "American Athletic",
+   "color": "#006747"
+  },
+  {
+   "school": "Stanford",
+   "abbreviation": "STAN",
+   "conference": "ACC",
+   "color": "#8c1515"
+  },
+  {
+   "school": "Syracuse",
+   "abbreviation": "SYR",
+   "conference": "ACC",
+   "color": "#f76900"
+  },
+  {
+   "school": "TCU",
+   "abbreviation": "TCU",
+   "conference": "Big 12",
+   "color": "#4d1979"
+  },
+  {
+   "school": "Temple",
+   "abbreviation": "TEM",
+   "conference": "American Athletic",
+   "color": "#a41e35"
+  },
+  {
+   "school": "Tennessee",
+   "abbreviation": "TENN",
+   "conference": "SEC",
+   "color": "#ff8200"
+  },
+  {
+   "school": "Texas",
+   "abbreviation": "TEX",
+   "conference": "SEC",
+   "color": "#bf5700"
+  },
+  {
+   "school": "Texas A&M",
+   "abbreviation": "TA&M",
+   "conference": "SEC",
+   "color": "#500000"
+  },
+  {
+   "school": "Texas State",
+   "abbreviation": "TXST",
+   "conference": "Pac-12",
+   "color": "#501214"
+  },
+  {
+   "school": "Texas Tech",
+   "abbreviation": "TTU",
+   "conference": "Big 12",
+   "color": "#c30020"
+  },
+  {
+   "school": "Toledo",
+   "abbreviation": "TOL",
+   "conference": "Mid-American",
+   "color": "#0b2240"
+  },
+  {
+   "school": "Troy",
+   "abbreviation": "TROY",
+   "conference": "Sun Belt",
+   "color": "#862633"
+  },
+  {
+   "school": "Tulane",
+   "abbreviation": "TULN",
+   "conference": "American Athletic",
+   "color": "#006747"
+  },
+  {
+   "school": "Tulsa",
+   "abbreviation": "TLSA",
+   "conference": "American Athletic",
+   "color": "#003595"
+  },
+  {
+   "school": "UAB",
+   "abbreviation": "UAB",
+   "conference": "American Athletic",
+   "color": "#1a5632"
+  },
+  {
+   "school": "UCF",
+   "abbreviation": "UCF",
+   "conference": "Big 12",
+   "color": "#000000"
+  },
+  {
+   "school": "UCLA",
+   "abbreviation": "UCLA",
+   "conference": "Big Ten",
+   "color": "#2774ae"
+  },
+  {
+   "school": "UConn",
+   "abbreviation": "CONN",
+   "conference": "FBS Independents",
+   "color": "#000e2f"
+  },
+  {
+   "school": "UL Monroe",
+   "abbreviation": "ULM",
+   "conference": "Sun Belt",
+   "color": "#840029"
+  },
+  {
+   "school": "UNLV",
+   "abbreviation": "UNLV",
+   "conference": "Mountain West",
+   "color": "#cf0a2c"
+  },
+  {
+   "school": "USC",
+   "abbreviation": "USC",
+   "conference": "Big Ten",
+   "color": "#990000"
+  },
+  {
+   "school": "Utah",
+   "abbreviation": "UTAH",
+   "conference": "Big 12",
+   "color": "#be0000"
+  },
+  {
+   "school": "Utah State",
+   "abbreviation": "USU",
+   "conference": "Pac-12",
+   "color": "#0f2439"
+  },
+  {
+   "school": "UTEP",
+   "abbreviation": "UTEP",
+   "conference": "Mountain West",
+   "color": "#ff8200"
+  },
+  {
+   "school": "UTSA",
+   "abbreviation": "UTSA",
+   "conference": "American Athletic",
+   "color": "#0c2340"
+  },
+  {
+   "school": "Vanderbilt",
+   "abbreviation": "VAN",
+   "conference": "SEC",
+   "color": "#000000"
+  },
+  {
+   "school": "Virginia",
+   "abbreviation": "UVA",
+   "conference": "ACC",
+   "color": "#232d4b"
+  },
+  {
+   "school": "Virginia Tech",
+   "abbreviation": "VT",
+   "conference": "ACC",
+   "color": "#861f41"
+  },
+  {
+   "school": "Wake Forest",
+   "abbreviation": "WAKE",
+   "conference": "ACC",
+   "color": "#ceb888"
+  },
+  {
+   "school": "Washington",
+   "abbreviation": "WASH",
+   "conference": "Big Ten",
+   "color": "#33006f"
+  },
+  {
+   "school": "Washington State",
+   "abbreviation": "WSU",
+   "conference": "Pac-12",
+   "color": "#a60f2d"
+  },
+  {
+   "school": "Western Kentucky",
+   "abbreviation": "WKU",
+   "conference": "Conference USA",
+   "color": "#c60c30"
+  },
+  {
+   "school": "Western Michigan",
+   "abbreviation": "WMU",
+   "conference": "Mid-American",
+   "color": "#532e1f"
+  },
+  {
+   "school": "West Virginia",
+   "abbreviation": "WVU",
+   "conference": "Big 12",
+   "color": "#eaaa00"
+  },
+  {
+   "school": "Wisconsin",
+   "abbreviation": "WIS",
+   "conference": "Big Ten",
+   "color": "#a00000"
+  },
+  {
+   "school": "Wyoming",
+   "abbreviation": "WYO",
+   "conference": "Mountain West",
+   "color": "#492f24"
+  }
+ ]
+}
