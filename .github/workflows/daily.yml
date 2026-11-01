@@ -1,0 +1,46 @@
+name: daily picks
+
+on:
+  schedule:
+    # 7:23am US Eastern (11:23 UTC in daylight time), after the last late
+    # West Coast and Hawaii games are final. GitHub often starts scheduled
+    # runs late, which is fine: Saturday's games are picked days ahead.
+    - cron: '23 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-picks
+  cancel-in-progress: false
+
+jobs:
+  picks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: install deps
+        run: pip install numpy
+
+      - name: make picks and grade
+        env:
+          # Read from the environment only; never echoed or written to a file.
+          CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+          SEASON: ${{ vars.SEASON }}
+        run: python daily.py
+
+      - name: commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --staged --quiet && echo "nothing to commit" && exit 0
+          git commit -m "picks $(date -u +%Y-%m-%d)"
+          git pull --rebase || true
+          git push
