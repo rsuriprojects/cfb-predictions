@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-01T03:31:54.351486+00:00",
+ "generated_at_utc": "2026-11-01T17:11:03.649783+00:00",
  "season": 2026,
  "elo": {
   "Georgia": 1896.1,
@@ -33,7 +33,7 @@
   "Arizona": 1647.5,
   "Houston": 1646.6,
   "Louisville": 1638.2,
-  "Boise State": 1629.2,
+  "Boise State": 1632.7,
   "Northwestern": 1618.8,
   "Baylor": 1601.4,
   "UTSA": 1598.8,
@@ -58,24 +58,24 @@
   "Memphis": 1533.2,
   "New Mexico": 1531.7,
   "South Florida": 1530.5,
+  "Fresno State": 1525.9,
   "Liberty": 1522.5,
   "Cincinnati": 1515.6,
-  "Oregon State": 1511.7,
   "Arkansas": 1511.4,
   "Western Michigan": 1510.1,
-  "Texas State": 1509.7,
+  "Texas State": 1506.2,
   "Oklahoma State": 1505.9,
   "Toledo": 1503.3,
-  "Fresno State": 1501.7,
   "Iowa State": 1500.4,
   "West Virginia": 1499.6,
   "North Texas": 1494.7,
+  "UNLV": 1494.7,
   "Louisiana Tech": 1493.1,
   "Ohio": 1491.8,
-  "UNLV": 1490.2,
   "Virginia": 1489.3,
   "Syracuse": 1487.9,
   "Tulane": 1487.9,
+  "Oregon State": 1487.5,
   "Louisiana": 1484.0,
   "Boston College": 1476.5,
   "Purdue": 1474.1,
@@ -139,7 +139,7 @@
   "UL Monroe": 1225.0,
   "UTEP": 1214.0,
   "Sacramento State": 1213.7,
-  "Northern Illinois": 1203.9
+  "Northern Illinois": 1199.4
  },
  "teams": {
   "Air Force": [
@@ -991,19 +991,6 @@
    "pick": "Arizona"
   },
   {
-   "id": 401856850,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "UCF",
-   "home": "Kansas",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5235,
-   "pick": "Kansas"
-  },
-  {
    "id": 401856851,
    "game_date": "2026-11-07",
    "kickoff_utc": "2026-11-07T05:00:00.000Z",
@@ -1028,32 +1015,6 @@
    "neutral": false,
    "p_home": 0.7611,
    "pick": "Baylor"
-  },
-  {
-   "id": 401856854,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Oklahoma State",
-   "home": "Kansas State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6254,
-   "pick": "Kansas State"
-  },
-  {
-   "id": 401856856,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "West Virginia",
-   "home": "Texas Tech",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8926,
-   "pick": "Texas Tech"
   },
   {
    "id": 401858511,
@@ -1132,6 +1093,19 @@
    "neutral": false,
    "p_home": 0.673,
    "pick": "Utah"
+  },
+  {
+   "id": 401856854,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T17:00:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "Oklahoma State",
+   "home": "Kansas State",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.6254,
+   "pick": "Kansas State"
   },
   {
    "id": 401858285,
@@ -1394,6 +1368,19 @@
    "pick": "Western Kentucky"
   },
   {
+   "id": 401856850,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T20:45:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "UCF",
+   "home": "Kansas",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.5235,
+   "pick": "Kansas"
+  },
+  {
    "id": 401862821,
    "game_date": "2026-11-07",
    "kickoff_utc": "2026-11-07T21:00:00.000Z",
@@ -1416,7 +1403,7 @@
    "home": "San Jos\u00e9 State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7956,
+   "p_home": 0.8022,
    "pick": "San Jos\u00e9 State"
   },
   {
@@ -1481,7 +1468,7 @@
    "home": "Colorado State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.0829,
+   "p_home": 0.0805,
    "pick": "Boise State"
   },
   {
@@ -1602,6 +1589,19 @@
    "pick": "Liberty"
   },
   {
+   "id": 401856856,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-08T02:30:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "West Virginia",
+   "home": "Texas Tech",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.8926,
+   "pick": "Texas Tech"
+  },
+  {
    "id": 401860913,
    "game_date": "2026-11-07",
    "kickoff_utc": "2026-11-08T02:30:00.000Z",
@@ -1611,7 +1611,7 @@
    "home": "Utah State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3586,
+   "p_home": 0.3083,
    "pick": "Fresno State"
   },
   {
@@ -1637,7 +1637,7 @@
    "home": "Oregon State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5796,
+   "p_home": 0.5316,
    "pick": "Oregon State"
   },
   {
@@ -1650,7 +1650,7 @@
    "home": "UNLV",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7284,
+   "p_home": 0.7365,
    "pick": "UNLV"
   },
   {
@@ -1682,7 +1682,7 @@
   {
    "id": 401866460,
    "game_date": "2026-11-10",
-   "kickoff_utc": "2026-11-11T00:00:00.000Z",
+   "kickoff_utc": "2026-11-11T01:00:00.000Z",
    "week": 11,
    "season_type": "regular",
    "away": "Ohio",
@@ -1706,19 +1706,6 @@
    "pick": "Buffalo"
   },
   {
-   "id": 401866462,
-   "game_date": "2026-11-11",
-   "kickoff_utc": "2026-11-11T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Sacramento State",
-   "home": "Central Michigan",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8565,
-   "pick": "Central Michigan"
-  },
-  {
    "id": 401866463,
    "game_date": "2026-11-11",
    "kickoff_utc": "2026-11-11T05:00:00.000Z",
@@ -1730,6 +1717,19 @@
    "neutral": false,
    "p_home": 0.9245,
    "pick": "Toledo"
+  },
+  {
+   "id": 401866462,
+   "game_date": "2026-11-11",
+   "kickoff_utc": "2026-11-12T00:30:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Sacramento State",
+   "home": "Central Michigan",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.8565,
+   "pick": "Central Michigan"
   },
   {
    "id": 401862824,
@@ -2261,7 +2261,7 @@
    "home": "Northern Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2768,
+   "p_home": 0.2685,
    "pick": "Nevada"
   },
   {
@@ -2443,7 +2443,7 @@
    "home": "Texas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5911,
+   "p_home": 0.5274,
    "pick": "Texas State"
   },
   {
@@ -2456,7 +2456,7 @@
    "home": "Boise State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8048,
+   "p_home": 0.8423,
    "pick": "Boise State"
   },
   {
@@ -2482,7 +2482,7 @@
    "home": "New Mexico",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7283,
+   "p_home": 0.72,
    "pick": "New Mexico"
   },
   {
@@ -3340,7 +3340,7 @@
    "home": "North Dakota State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9417,
+   "p_home": 0.944,
    "pick": "North Dakota State"
   },
   {
@@ -3353,7 +3353,7 @@
    "home": "Texas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8435,
+   "p_home": 0.8392,
    "pick": "Texas State"
   },
   {
@@ -3366,7 +3366,7 @@
    "home": "San Jos\u00e9 State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2715,
+   "p_home": 0.2634,
    "pick": "UNLV"
   },
   {
@@ -3392,7 +3392,7 @@
    "home": "Fresno State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8729,
+   "p_home": 0.896,
    "pick": "Fresno State"
   },
   {
@@ -3418,7 +3418,7 @@
    "home": "Boise State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9031,
+   "p_home": 0.9059,
    "pick": "Boise State"
   },
   {
@@ -3431,7 +3431,7 @@
    "home": "Oregon State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7809,
+   "p_home": 0.7397,
    "pick": "Oregon State"
   },
   {
@@ -4055,7 +4055,7 @@
    "home": "Northern Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5829,
+   "p_home": 0.5728,
    "pick": "Northern Illinois"
   },
   {
@@ -4263,7 +4263,7 @@
    "home": "UNLV",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7999,
+   "p_home": 0.8064,
    "pick": "UNLV"
   },
   {

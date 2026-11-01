@@ -577,11 +577,13 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-10-31,2026,9,regular,UConn,Air Force,UConn,0.4475,0.5525,26,35,Air Force,False,True,True,Air Force,0.5518,True
 2026-10-31,2026,9,regular,Missouri,Arkansas,Missouri,0.2621,0.7379,34,10,Missouri,True,True,True,Missouri,0.7639,True
 2026-10-31,2026,9,regular,Arizona State,BYU,BYU,0.8402,0.8402,20,27,BYU,True,True,True,BYU,0.8521,True
+2026-10-31,2026,9,regular,Texas State,Boise State,Boise State,0.804,0.804,45,46,Boise State,True,True,True,Boise State,0.7787,True
 2026-10-31,2026,9,regular,Utah,Cincinnati,Utah,0.2252,0.7748,49,25,Utah,True,True,True,Utah,0.6945,True
 2026-10-31,2026,9,regular,Kansas State,Colorado,Kansas State,0.2572,0.7428,24,27,Colorado,False,True,True,Colorado,0.5157,True
 2026-10-31,2026,9,regular,Boston College,Duke,Duke,0.7325,0.7325,2,47,Duke,True,True,True,Duke,0.7168,True
 2026-10-31,2026,9,regular,Temple,East Carolina,East Carolina,0.783,0.783,9,17,East Carolina,True,True,True,East Carolina,0.6457,True
 2026-10-31,2026,9,regular,Clemson,Florida State,Clemson,0.4451,0.5549,36,24,Clemson,True,True,True,Florida State,0.6542,False
+2026-10-31,2026,9,regular,Oregon State,Fresno State,Fresno State,0.5715,0.5715,22,38,Fresno State,True,True,True,Oregon State,0.6714,False
 2026-10-31,2026,9,regular,Florida,Georgia,Georgia,0.8079,0.8079,8,27,Georgia,True,True,True,Georgia,0.7863,True
 2026-10-31,2026,9,regular,App State,Georgia Southern,Georgia Southern,0.551,0.551,3,19,Georgia Southern,True,True,True,Georgia Southern,0.6501,True
 2026-10-31,2026,9,regular,Coastal Carolina,Georgia State,Georgia State,0.7228,0.7228,31,20,Coastal Carolina,False,True,True,Georgia State,0.6442,False
@@ -614,6 +616,7 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-10-31,2026,9,regular,Arizona,Texas Tech,Texas Tech,0.5999,0.5999,26,34,Texas Tech,True,True,True,Texas Tech,0.6188,True
 2026-10-31,2026,9,regular,Nevada,UCLA,UCLA,0.9489,0.9489,0,27,UCLA,True,True,True,UCLA,0.9122,True
 2026-10-31,2026,9,regular,Southern Miss,UL Monroe,Southern Miss,0.392,0.608,35,21,Southern Miss,True,True,True,Southern Miss,0.5945,True
+2026-10-31,2026,9,regular,Northern Illinois,UNLV,UNLV,0.9353,0.9353,24,31,UNLV,True,True,True,UNLV,0.9167,True
 2026-10-31,2026,9,regular,Ohio State,USC,Ohio State,0.2668,0.7332,18,30,USC,False,True,True,Ohio State,0.6904,False
 2026-10-31,2026,9,regular,Colorado State,Utah State,Utah State,0.6419,0.6419,14,31,Utah State,True,True,True,Utah State,0.7077,True
 2026-10-31,2026,9,regular,Virginia,Wake Forest,Wake Forest,0.8392,0.8392,7,51,Wake Forest,True,True,True,Wake Forest,0.8154,True
