@@ -6,7 +6,9 @@ Each run:
   2. Logs a pick for every game in the next 8 days that hasn't kicked off and
      isn't logged yet, with the betting favorite next to it when a line is up.
      Logged picks are never changed.
-  3. Grades every logged game that has finished, into results.csv.
+  3. Grades this season's logged games that have finished, into
+     results/<season>.csv. Each season has its own file, so a new season
+     starts at 0-0 and past seasons stay as they were.
   4. Writes upcoming.json (the rest of the schedule, plus current ratings) and
      ratings/<season>.json, which seeds next season.
 
@@ -146,9 +148,11 @@ def main():
         save_json(path, logged, indent=2)
     print(f"logged {new} new picks")
 
-    # ---- grade
+    # ---- grade (this season only; finished seasons are left alone)
     graded = []
     for path in sorted(os.listdir("predictions")) if os.path.isdir("predictions") else []:
+        if not path.startswith(f"{SEASON}-"):
+            continue
         for p in load_json(f"predictions/{path}", []):
             g = by_id.get(p["id"])
             if not g or not model.is_final(g) or g["homePoints"] == g["awayPoints"]:
@@ -171,7 +175,8 @@ def main():
             })
     graded.sort(key=lambda x: (x["game_date"], x["home"]))
     if graded:
-        with open("results.csv", "w", newline="") as f:
+        os.makedirs("results", exist_ok=True)
+        with open(f"results/{SEASON}.csv", "w", newline="") as f:
             w = csv.DictWriter(f, fieldnames=list(graded[0]), lineterminator="\n")
             w.writeheader()
             w.writerows(graded)
@@ -183,6 +188,10 @@ def main():
         if both:
             print(f"  vs favorite on {len(both)}: model {sum(x['correct'] for x in both)},"
                   f" favorite {sum(x['fav_correct'] for x in both)}")
+    # The site's season menu, newest first.
+    seasons = sorted((int(f[:-4]) for f in os.listdir("results") if f[:-4].isdigit()),
+                     reverse=True) if os.path.isdir("results") else []
+    save_json("results/index.json", seasons)
 
     # ---- upcoming + ratings
     upcoming = []

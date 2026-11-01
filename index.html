@@ -126,6 +126,8 @@
   .myteam .facts b { display: block; font: 700 17px var(--mono); margin-top: 4px; }
   .myteam .ctl { display: flex; gap: 8px; flex-wrap: wrap; }
   .myteam select { max-width: 220px; }
+  .season-bar { display: flex; align-items: center; gap: 10px; margin: 18px 0 -18px; font: 600 11px/1 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-3); }
+  .season-bar[hidden] { display: none; }
   .game.mine { border-color: rgba(255,176,0,.6); box-shadow: inset 0 0 0 1px rgba(255,176,0,.35); }
   .row.mine, .rank.mine { background: rgba(255,176,0,.09); }
   .streak-dots { display: flex; gap: 4px; margin-top: 12px; flex-wrap: wrap; }
@@ -335,9 +337,13 @@
       </div>
     </div>
 
+    <div class="season-bar" id="season-bar" hidden>
+      <span>Season</span><select class="chip" id="season-sel" aria-label="Season"></select>
+    </div>
+
     <div class="stats">
       <div class="tile main">
-        <div class="k">FBS vs FBS accuracy</div>
+        <div class="k" id="s-acc-k">FBS vs FBS accuracy</div>
         <div class="v" id="s-acc">—</div>
         <div class="s" id="s-acc-sub">Waiting for the first final</div>
         <svg class="ring" viewBox="0 0 80 80"><circle class="track" cx="40" cy="40" r="33"/><circle class="fill" id="ring" cx="40" cy="40" r="33" stroke-dasharray="207.3" stroke-dashoffset="207.3"/></svg>
@@ -526,6 +532,9 @@ function row(g) {
 const groupBy = (rows, k) => rows.reduce((m, r) => ((m[typeof k === "function" ? k(r) : r[k]] ||= []).push(r), m), {});
 
 // ---------------------------------------------------------------- state
+// RESULTS is the season picked in the season menu; CUR_RESULTS is always the
+// current season, which "This week" needs for finals.
+let CURRENT = null, SHOWN = null, CUR_RESULTS = [], CUR_ELO = {};
 let RESULTS = [], UPCOMING = [], WEEK = [], wkFilter = "fbs", pastFilter = "fbs", upTeam = "", upShown = 7, pastShown = 1;
 const keep = (rows, f) => f === "all" ? rows : rows.filter(r => r.fbs_both);
 
@@ -552,12 +561,12 @@ function renderMyTeam() {
   const played = RESULTS.filter(isMine);
   const w = played.filter(r => r.winner === MINE).length, mc = played.filter(r => r.correct).length;
   const rank = Object.keys(ELO).indexOf(MINE) + 1;
-  const done = new Set(played.map(r => r.home + r.away));
-  const next = [...WEEK, ...UPCOMING].filter(g => isMine(g) && !done.has(g.home + g.away))
+  const done = new Set(CUR_RESULTS.map(r => r.home + r.away));
+  const next = SHOWN !== CURRENT ? null : [...WEEK, ...UPCOMING].filter(g => isMine(g) && !done.has(g.home + g.away))
     .sort((a, b) => a.kickoff_utc.localeCompare(b.kickoff_utc))[0];
   const f = (k, v, t = "") => `<div title="${esc(t)}"><span>${k}</span><b>${v}</b></div>`;
   facts.innerHTML = [
-    f("Record", `${w}–${played.length - w}`),
+    f(SHOWN === CURRENT ? "Record" : `${SHOWN} record`, `${w}–${played.length - w}`),
     rank ? f("Power rank", `#${rank}`, `of ${Object.keys(ELO).length} FBS teams`) : "",
     played.length ? f("Model on their games", `${mc}/${played.length}`) : "",
     next ? (() => {
@@ -584,7 +593,7 @@ function renderWeek() {
     el.innerHTML = `<div class="empty"><span class="big">No games this week</span>Picks show up here up to a week before kickoff.</div>`;
     return;
   }
-  const graded = Object.fromEntries(RESULTS.map(r => [r.game_date + r.home + r.away, r]));
+  const graded = Object.fromEntries(CUR_RESULTS.map(r => [r.game_date + r.home + r.away, r]));
   const days = Object.entries(groupBy(rows, "game_date")).sort((a, b) => a[0].localeCompare(b[0]));
   el.innerHTML = days.map(([d, gs]) => {
     const fin = gs.map(g => graded[g.game_date + g.home + g.away]).filter(Boolean);
@@ -769,17 +778,48 @@ function renderRanks(elo) {
   el.querySelector(".more")?.addEventListener("click", () => { ranksShown = rows.length; renderRanks(elo); });
 }
 
+// ---------------------------------------------------------------- seasons
+// Each season's graded games live in results/<season>.csv, so a new season
+// starts at 0-0 and past ones stay browsable from the season menu.
+const loadResults = s => getText(`results/${s}.csv`).then(parseCSV)
+  .then(rs => rs.sort((a, b) => a.game_date.localeCompare(b.game_date) || a.home.localeCompare(b.home)))
+  .catch(() => []);
+
+async function showSeason(s) {
+  SHOWN = s;
+  if (s === CURRENT) { RESULTS = CUR_RESULTS; ELO = CUR_ELO; }
+  else {
+    RESULTS = await loadResults(s);
+    // Final ratings for that season, FBS teams only.
+    const r = await getJSON(`ratings/${s}.json`).catch(() => ({}));
+    ELO = Object.fromEntries(Object.entries(r).filter(([t]) => TEAMS[t]));
+  }
+  document.getElementById("season-sel").value = s;
+  document.getElementById("s-acc-k").textContent = `${s} FBS vs FBS accuracy`;
+  pastShown = 1;
+  renderMyTeam(); renderStats(); renderPast(); renderRanks(ELO);
+}
+document.getElementById("season-sel").onchange = e => showSeason(+e.target.value);
+
 // ---------------------------------------------------------------- load
-Promise.allSettled([getText("results.csv").then(parseCSV), getJSON("upcoming.json")]).then(async ([res, up]) => {
-  RESULTS = res.status === "fulfilled" ? res.value.sort((a, b) => a.game_date.localeCompare(b.game_date) || a.home.localeCompare(b.home)) : [];
+Promise.allSettled([getJSON("upcoming.json"), getJSON("results/index.json")]).then(async ([up, idx]) => {
   const U = up.status === "fulfilled" ? up.value : null;
+  const seasons = idx.status === "fulfilled" ? idx.value : [];
+  CURRENT = U?.season ?? seasons[0] ?? null;
+  if (CURRENT != null && !seasons.includes(CURRENT)) seasons.unshift(CURRENT);
+  CUR_RESULTS = RESULTS = CURRENT != null ? await loadResults(CURRENT) : [];
+  SHOWN = CURRENT;
+  const sel = document.getElementById("season-sel");
+  seasons.forEach(s => sel.insertAdjacentHTML("beforeend", `<option value="${s}">${s}${s === CURRENT ? " (this season)" : ""}</option>`));
+  document.getElementById("season-bar").hidden = seasons.length < 2;
+  if (CURRENT != null) document.getElementById("s-acc-k").textContent = `${CURRENT} FBS vs FBS accuracy`;
   TEAMS = U?.teams || {};
   UPCOMING = U ? U.games : [];
   Object.keys(TEAMS).sort().forEach(t => {
     teamSel.insertAdjacentHTML("beforeend", `<option>${esc(t)}</option>`);
     document.getElementById("mt-sel").insertAdjacentHTML("beforeend", `<option>${esc(t)}</option>`);
   });
-  ELO = U?.elo || {};
+  CUR_ELO = ELO = U?.elo || {};
   if (U?.generated_at_utc) {
     const t = new Date(U.generated_at_utc);
     document.getElementById("updated").textContent = "Updated " + t.toLocaleString("en-US", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
