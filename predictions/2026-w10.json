@@ -758,7 +758,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.7956,
-    "pick": "San Jos\u00e9 State"
+    "pick": "San Jos\u00e9 State",
+    "fav": "San Jos\u00e9 State",
+    "fav_prob": 0.7661
   },
   {
     "id": 401871074,

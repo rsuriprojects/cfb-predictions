@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-01T17:11:03.649783+00:00",
+ "generated_at_utc": "2026-11-02T20:49:34.693582+00:00",
  "season": 2026,
  "elo": {
   "Georgia": 1896.1,
@@ -991,84 +991,6 @@
    "pick": "Arizona"
   },
   {
-   "id": 401856851,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Cincinnati",
-   "home": "Houston",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8058,
-   "pick": "Houston"
-  },
-  {
-   "id": 401856853,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Iowa State",
-   "home": "Baylor",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7611,
-   "pick": "Baylor"
-  },
-  {
-   "id": 401858511,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Michigan State",
-   "home": "Michigan",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.9158,
-   "pick": "Michigan"
-  },
-  {
-   "id": 401858512,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "UCLA",
-   "home": "Minnesota",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3599,
-   "pick": "UCLA"
-  },
-  {
-   "id": 401858513,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Iowa",
-   "home": "Northwestern",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4641,
-   "pick": "Iowa"
-  },
-  {
-   "id": 401858516,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T05:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Penn State",
-   "home": "Washington",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7098,
-   "pick": "Washington"
-  },
-  {
    "id": 401856743,
    "game_date": "2026-11-07",
    "kickoff_utc": "2026-11-07T17:00:00.000Z",
@@ -1095,17 +1017,17 @@
    "pick": "Utah"
   },
   {
-   "id": 401856854,
+   "id": 401856853,
    "game_date": "2026-11-07",
    "kickoff_utc": "2026-11-07T17:00:00.000Z",
    "week": 10,
    "season_type": "regular",
-   "away": "Oklahoma State",
-   "home": "Kansas State",
+   "away": "Iowa State",
+   "home": "Baylor",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6254,
-   "pick": "Kansas State"
+   "p_home": 0.7611,
+   "pick": "Baylor"
   },
   {
    "id": 401858285,
@@ -1147,6 +1069,19 @@
    "pick": "North Carolina"
   },
   {
+   "id": 401858512,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T17:00:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "UCLA",
+   "home": "Minnesota",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.3599,
+   "pick": "UCLA"
+  },
+  {
    "id": 401862822,
    "game_date": "2026-11-07",
    "kickoff_utc": "2026-11-07T17:00:00.000Z",
@@ -1186,19 +1121,6 @@
    "pick": "Purdue"
   },
   {
-   "id": 401858517,
-   "game_date": "2026-11-07",
-   "kickoff_utc": "2026-11-07T17:30:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Rutgers",
-   "home": "Wisconsin",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8302,
-   "pick": "Wisconsin"
-  },
-  {
    "id": 401856738,
    "game_date": "2026-11-07",
    "kickoff_utc": "2026-11-07T17:45:00.000Z",
@@ -1210,6 +1132,19 @@
    "neutral": false,
    "p_home": 0.7238,
    "pick": "Auburn"
+  },
+  {
+   "id": 401856854,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T18:00:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "Oklahoma State",
+   "home": "Kansas State",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.6254,
+   "pick": "Kansas State"
   },
   {
    "id": 401869945,
@@ -1290,6 +1225,19 @@
    "pick": "LSU"
   },
   {
+   "id": 401856851,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T20:30:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "Cincinnati",
+   "home": "Houston",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.8058,
+   "pick": "Houston"
+  },
+  {
    "id": 401858290,
    "game_date": "2026-11-07",
    "kickoff_utc": "2026-11-07T20:30:00.000Z",
@@ -1314,6 +1262,19 @@
    "neutral": false,
    "p_home": 0.7342,
    "pick": "Ohio State"
+  },
+  {
+   "id": 401858516,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T20:30:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "Penn State",
+   "home": "Washington",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.7098,
+   "pick": "Washington"
   },
   {
    "id": 401862819,
@@ -1446,6 +1407,19 @@
    "pick": "Mississippi State"
   },
   {
+   "id": 401858517,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-07T21:15:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "Rutgers",
+   "home": "Wisconsin",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.8302,
+   "pick": "Wisconsin"
+  },
+  {
    "id": 401869968,
    "game_date": "2026-11-07",
    "kickoff_utc": "2026-11-07T22:00:00.000Z",
@@ -1548,6 +1522,32 @@
    "neutral": false,
    "p_home": 0.5277,
    "pick": "Notre Dame"
+  },
+  {
+   "id": 401858511,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-08T00:30:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "Michigan State",
+   "home": "Michigan",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.9158,
+   "pick": "Michigan"
+  },
+  {
+   "id": 401858513,
+   "game_date": "2026-11-07",
+   "kickoff_utc": "2026-11-08T00:30:00.000Z",
+   "week": 10,
+   "season_type": "regular",
+   "away": "Iowa",
+   "home": "Northwestern",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.4641,
+   "pick": "Iowa"
   },
   {
    "id": 401862823,
