@@ -8,6 +8,9 @@ on:
       seasons:
         description: "Comma-separated seasons (blank = 2014 through 2026)"
         default: ""
+      only:
+        description: "Comma-separated endpoint names to fetch (blank = all)"
+        default: ""
 
 permissions:
   contents: read
@@ -24,6 +27,7 @@ jobs:
         env:
           CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
           SEASONS: ${{ inputs.seasons }}
+          ONLY: ${{ inputs.only }}
         run: python fetch_history.py
       - uses: actions/upload-artifact@v4
         with:

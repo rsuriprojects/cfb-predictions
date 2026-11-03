@@ -1,7 +1,7 @@
 """Download past seasons for building and backtesting the model.
 
 Saves raw API responses to data/raw/ (uploaded as a workflow artifact, not
-committed). About 6 calls per season.
+committed). About 8 calls per season.
 """
 import json
 import os
@@ -18,7 +18,14 @@ ENDPOINTS = {
     "returning":  ("/player/returning",    {}),
     "recruiting": ("/recruiting/teams",    {}),
     "fbs":        ("/teams/fbs",           {}),
+    # Points added per play, offense and defense, for each team in each game.
+    "ppa":        ("/ppa/games",           {"seasonType": "regular", "excludeGarbageTime": "true"}),
+    "ppa_post":   ("/ppa/games",           {"seasonType": "postseason", "excludeGarbageTime": "true"}),
 }
+# ONLY=ppa,ppa_post fetches just those, to save calls.
+ONLY = [s for s in os.environ.get("ONLY", "").split(",") if s]
+if ONLY:
+    ENDPOINTS = {k: v for k, v in ENDPOINTS.items() if k in ONLY}
 
 os.makedirs("data/raw", exist_ok=True)
 for season in SEASONS:
