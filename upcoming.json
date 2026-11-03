@@ -1,145 +1,145 @@
 {
- "generated_at_utc": "2026-11-02T20:49:34.693582+00:00",
+ "generated_at_utc": "2026-11-03T05:39:49.128449+00:00",
  "season": 2026,
  "elo": {
-  "Georgia": 1896.1,
-  "Ohio State": 1848.4,
-  "Miami": 1846.5,
-  "Texas": 1842.2,
-  "Notre Dame": 1838.8,
-  "Alabama": 1823.3,
-  "LSU": 1789.7,
-  "Ole Miss": 1787.5,
-  "Oregon": 1779.3,
-  "Tennessee": 1762.9,
-  "USC": 1760.3,
-  "Indiana": 1759.3,
-  "Utah": 1736.0,
-  "South Carolina": 1718.0,
-  "Missouri": 1714.4,
-  "Michigan": 1707.8,
-  "Texas Tech": 1704.4,
-  "Texas A&M": 1693.6,
-  "BYU": 1692.3,
-  "UCLA": 1683.2,
-  "Iowa": 1676.7,
-  "Florida": 1670.7,
-  "Oklahoma": 1669.9,
-  "Kentucky": 1666.5,
-  "Clemson": 1663.8,
-  "Wake Forest": 1661.3,
-  "SMU": 1655.8,
-  "Washington": 1652.2,
-  "Arizona": 1647.5,
-  "Houston": 1646.6,
-  "Louisville": 1638.2,
-  "Boise State": 1632.7,
-  "Northwestern": 1618.8,
-  "Baylor": 1601.4,
-  "UTSA": 1598.8,
-  "Auburn": 1598.1,
-  "Duke": 1597.7,
-  "Virginia Tech": 1596.9,
-  "Nebraska": 1594.4,
-  "Penn State": 1590.7,
-  "Wisconsin": 1589.8,
-  "Mississippi State": 1589.2,
-  "Illinois": 1579.8,
-  "Minnesota": 1576.7,
-  "Pittsburgh": 1570.1,
-  "North Carolina": 1565.8,
-  "TCU": 1563.3,
-  "James Madison": 1559.3,
-  "NC State": 1548.6,
-  "Florida State": 1543.0,
-  "Vanderbilt": 1538.9,
-  "Arizona State": 1538.1,
-  "Kansas State": 1536.2,
-  "Memphis": 1533.2,
-  "New Mexico": 1531.7,
-  "South Florida": 1530.5,
-  "Fresno State": 1525.9,
-  "Liberty": 1522.5,
-  "Cincinnati": 1515.6,
-  "Arkansas": 1511.4,
-  "Western Michigan": 1510.1,
-  "Texas State": 1506.2,
-  "Oklahoma State": 1505.9,
-  "Toledo": 1503.3,
-  "Iowa State": 1500.4,
-  "West Virginia": 1499.6,
-  "North Texas": 1494.7,
-  "UNLV": 1494.7,
-  "Louisiana Tech": 1493.1,
-  "Ohio": 1491.8,
-  "Virginia": 1489.3,
-  "Syracuse": 1487.9,
-  "Tulane": 1487.9,
-  "Oregon State": 1487.5,
-  "Louisiana": 1484.0,
-  "Boston College": 1476.5,
-  "Purdue": 1474.1,
-  "Jacksonville State": 1473.0,
-  "UCF": 1472.6,
-  "Stanford": 1468.4,
-  "North Dakota State": 1461.2,
-  "Georgia Southern": 1457.3,
-  "Marshall": 1455.5,
-  "Georgia Tech": 1452.9,
-  "Kansas": 1450.7,
-  "East Carolina": 1450.0,
-  "UConn": 1448.9,
-  "Rutgers": 1442.0,
-  "Michigan State": 1441.6,
-  "California": 1440.7,
-  "Colorado": 1427.5,
-  "Maryland": 1426.3,
-  "Arkansas State": 1425.8,
-  "Miami (OH)": 1421.3,
-  "App State": 1419.0,
-  "San Diego State": 1418.6,
-  "South Alabama": 1404.7,
-  "Troy": 1398.7,
-  "Buffalo": 1398.5,
-  "Florida Atlantic": 1394.8,
-  "Utah State": 1390.1,
-  "Delaware": 1389.2,
-  "Tulsa": 1388.8,
-  "UAB": 1386.3,
-  "Western Kentucky": 1383.1,
-  "Wyoming": 1381.8,
-  "Southern Miss": 1374.2,
-  "Florida International": 1369.7,
-  "Washington State": 1366.0,
-  "Eastern Michigan": 1365.7,
-  "Air Force": 1365.6,
-  "Coastal Carolina": 1365.2,
-  "Central Michigan": 1364.6,
-  "Georgia State": 1362.2,
-  "Hawai'i": 1356.0,
-  "Army": 1351.4,
-  "Nevada": 1344.1,
-  "Colorado State": 1337.8,
-  "Temple": 1325.7,
+  "Georgia": 1874.5,
+  "Texas": 1831.7,
+  "Ohio State": 1830.3,
+  "Notre Dame": 1818.9,
+  "Alabama": 1814.4,
+  "Miami": 1807.0,
+  "Oregon": 1785.1,
+  "LSU": 1775.1,
+  "USC": 1759.6,
+  "Ole Miss": 1753.6,
+  "Tennessee": 1752.6,
+  "South Carolina": 1717.5,
+  "Michigan": 1711.3,
+  "Texas A&M": 1710.0,
+  "Indiana": 1690.9,
+  "Missouri": 1690.1,
+  "Utah": 1687.0,
+  "Florida": 1686.6,
+  "Texas Tech": 1678.2,
+  "Oklahoma": 1671.7,
+  "UCLA": 1670.3,
+  "Clemson": 1666.0,
+  "BYU": 1659.4,
+  "Washington": 1641.7,
+  "Kentucky": 1640.3,
+  "SMU": 1637.9,
+  "Iowa": 1637.1,
+  "Houston": 1628.3,
+  "Wake Forest": 1624.5,
+  "Arizona": 1620.7,
+  "Louisville": 1611.3,
+  "Northwestern": 1605.6,
+  "Mississippi State": 1601.2,
+  "Boise State": 1601.1,
+  "Auburn": 1601.0,
+  "Virginia Tech": 1601.0,
+  "Baylor": 1593.2,
+  "Nebraska": 1591.4,
+  "Wisconsin": 1579.0,
+  "North Carolina": 1576.0,
+  "Minnesota": 1575.7,
+  "Penn State": 1574.0,
+  "UTSA": 1573.5,
+  "Florida State": 1565.7,
+  "Illinois": 1563.2,
+  "Pittsburgh": 1559.5,
+  "Duke": 1559.2,
+  "NC State": 1551.3,
+  "TCU": 1549.7,
+  "Kansas State": 1541.4,
+  "Vanderbilt": 1532.0,
+  "Arizona State": 1529.6,
+  "James Madison": 1517.5,
+  "South Florida": 1515.5,
+  "Arkansas": 1515.5,
+  "Memphis": 1515.1,
+  "Liberty": 1512.6,
+  "Syracuse": 1510.5,
+  "Fresno State": 1509.2,
+  "New Mexico": 1505.7,
+  "Oklahoma State": 1504.1,
+  "West Virginia": 1501.8,
+  "Texas State": 1499.3,
+  "Western Michigan": 1496.8,
+  "Oregon State": 1496.4,
+  "Cincinnati": 1494.8,
+  "Louisiana": 1491.3,
+  "Purdue": 1489.6,
+  "UNLV": 1486.8,
+  "Toledo": 1484.2,
+  "Iowa State": 1480.9,
+  "Virginia": 1478.5,
+  "Louisiana Tech": 1476.3,
+  "Stanford": 1474.8,
+  "UCF": 1474.6,
+  "Boston College": 1474.5,
+  "Tulane": 1473.1,
+  "Georgia Tech": 1471.0,
+  "California": 1469.0,
+  "Ohio": 1466.6,
+  "Jacksonville State": 1463.6,
+  "Rutgers": 1462.6,
+  "Maryland": 1462.6,
+  "Michigan State": 1459.6,
+  "Kansas": 1456.2,
+  "Marshall": 1453.8,
+  "North Texas": 1451.3,
+  "Colorado": 1446.5,
+  "North Dakota State": 1446.5,
+  "Georgia Southern": 1445.5,
+  "UConn": 1443.8,
+  "East Carolina": 1440.4,
+  "San Diego State": 1434.6,
+  "App State": 1432.0,
+  "Arkansas State": 1428.0,
+  "South Alabama": 1420.4,
+  "Miami (OH)": 1419.1,
+  "Tulsa": 1409.8,
+  "Troy": 1408.9,
+  "Western Kentucky": 1407.5,
+  "Florida Atlantic": 1405.9,
+  "Southern Miss": 1402.6,
+  "UAB": 1397.7,
+  "Utah State": 1395.1,
+  "Buffalo": 1388.9,
+  "Eastern Michigan": 1388.7,
+  "Delaware": 1387.6,
+  "Washington State": 1386.3,
+  "Florida International": 1386.2,
+  "Georgia State": 1384.6,
+  "Wyoming": 1378.9,
+  "Colorado State": 1374.3,
+  "Central Michigan": 1373.8,
+  "Coastal Carolina": 1369.4,
+  "Hawai'i": 1365.8,
+  "Nevada": 1359.4,
+  "Temple": 1357.9,
+  "Middle Tennessee": 1340.0,
+  "San Jos\u00e9 State": 1339.0,
+  "Kent State": 1331.5,
+  "Missouri State": 1329.2,
+  "Rice": 1325.5,
+  "Air Force": 1323.3,
   "Old Dominion": 1323.1,
-  "San Jos\u00e9 State": 1321.5,
-  "Kennesaw State": 1318.6,
-  "Missouri State": 1311.6,
-  "Middle Tennessee": 1310.1,
-  "Kent State": 1301.3,
-  "Ball State": 1291.8,
-  "Rice": 1291.8,
-  "Bowling Green": 1289.8,
-  "New Mexico State": 1272.4,
-  "Akron": 1266.6,
-  "Navy": 1263.9,
-  "Massachusetts": 1263.9,
-  "Charlotte": 1258.6,
-  "Sam Houston": 1235.4,
-  "UL Monroe": 1225.0,
-  "UTEP": 1214.0,
-  "Sacramento State": 1213.7,
-  "Northern Illinois": 1199.4
+  "Ball State": 1315.4,
+  "Kennesaw State": 1315.1,
+  "Bowling Green": 1310.0,
+  "Akron": 1305.1,
+  "Charlotte": 1296.9,
+  "Army": 1288.2,
+  "Massachusetts": 1283.7,
+  "Sam Houston": 1282.9,
+  "New Mexico State": 1279.9,
+  "UTEP": 1263.2,
+  "UL Monroe": 1261.7,
+  "Sacramento State": 1249.0,
+  "Northern Illinois": 1243.8,
+  "Navy": 1199.6
  },
  "teams": {
   "Air Force": [
@@ -844,7 +844,7 @@
    "home": "Akron",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1375,
+   "p_home": 0.141,
    "pick": "Ohio"
   },
   {
@@ -857,7 +857,7 @@
    "home": "Miami (OH)",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5953,
+   "p_home": 0.671,
    "pick": "Miami (OH)"
   },
   {
@@ -870,7 +870,7 @@
    "home": "Massachusetts",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5362,
+   "p_home": 0.601,
    "pick": "Massachusetts"
   },
   {
@@ -883,7 +883,7 @@
    "home": "Sacramento State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.0832,
+   "p_home": 0.0706,
    "pick": "Toledo"
   },
   {
@@ -896,8 +896,8 @@
    "home": "Eastern Michigan",
    "fbs_both": true,
    "neutral": true,
-   "p_home": 0.4339,
-   "pick": "Central Michigan"
+   "p_home": 0.5145,
+   "pick": "Eastern Michigan"
   },
   {
    "id": 401862817,
@@ -909,7 +909,7 @@
    "home": "Florida Atlantic",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1895,
+   "p_home": 0.2556,
    "pick": "UTSA"
   },
   {
@@ -922,7 +922,7 @@
    "home": "Southern Miss",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1917,
+   "p_home": 0.2126,
    "pick": "James Madison"
   },
   {
@@ -935,7 +935,7 @@
    "home": "SMU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7085,
+   "p_home": 0.6771,
    "pick": "SMU"
   },
   {
@@ -948,8 +948,8 @@
    "home": "East Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4354,
-   "pick": "South Florida"
+   "p_home": 0.5268,
+   "pick": "East Carolina"
   },
   {
    "id": 401858510,
@@ -961,8 +961,8 @@
    "home": "Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5904,
-   "pick": "Illinois"
+   "p_home": 0.4122,
+   "pick": "Nebraska"
   },
   {
    "id": 401864533,
@@ -974,7 +974,7 @@
    "home": "Nevada",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1988,
+   "p_home": 0.1858,
    "pick": "New Mexico"
   },
   {
@@ -987,7 +987,7 @@
    "home": "Arizona",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7653,
+   "p_home": 0.7912,
    "pick": "Arizona"
   },
   {
@@ -1000,7 +1000,7 @@
    "home": "Missouri",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3783,
+   "p_home": 0.4151,
    "pick": "Texas"
   },
   {
@@ -1013,7 +1013,7 @@
    "home": "Utah",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.673,
+   "p_home": 0.6996,
    "pick": "Utah"
   },
   {
@@ -1026,7 +1026,7 @@
    "home": "Baylor",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7611,
+   "p_home": 0.8318,
    "pick": "Baylor"
   },
   {
@@ -1039,7 +1039,7 @@
    "home": "Syracuse",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2547,
+   "p_home": 0.3117,
    "pick": "Clemson"
   },
   {
@@ -1052,8 +1052,8 @@
    "home": "Boston College",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5,
-   "pick": "Boston College"
+   "p_home": 0.396,
+   "pick": "Florida State"
   },
   {
    "id": 401858292,
@@ -1065,7 +1065,7 @@
    "home": "UConn",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3717,
+   "p_home": 0.3943,
    "pick": "North Carolina"
   },
   {
@@ -1078,7 +1078,7 @@
    "home": "Minnesota",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3599,
+   "p_home": 0.2978,
    "pick": "UCLA"
   },
   {
@@ -1091,7 +1091,7 @@
    "home": "Tulane",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7623,
+   "p_home": 0.644,
    "pick": "Tulane"
   },
   {
@@ -1104,7 +1104,7 @@
    "home": "NC State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4201,
+   "p_home": 0.3982,
    "pick": "Duke"
   },
   {
@@ -1117,7 +1117,7 @@
    "home": "Purdue",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.694,
+   "p_home": 0.6426,
    "pick": "Purdue"
   },
   {
@@ -1130,7 +1130,7 @@
    "home": "Auburn",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7238,
+   "p_home": 0.8202,
    "pick": "Auburn"
   },
   {
@@ -1143,7 +1143,7 @@
    "home": "Kansas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6254,
+   "p_home": 0.572,
    "pick": "Kansas State"
   },
   {
@@ -1156,7 +1156,7 @@
    "home": "Coastal Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6587,
+   "p_home": 0.6683,
    "pick": "Coastal Carolina"
   },
   {
@@ -1169,7 +1169,7 @@
    "home": "App State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6807,
+   "p_home": 0.6037,
    "pick": "App State"
   },
   {
@@ -1182,7 +1182,7 @@
    "home": "South Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.669,
+   "p_home": 0.6546,
    "pick": "South Carolina"
   },
   {
@@ -1195,7 +1195,7 @@
    "home": "Arkansas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8802,
+   "p_home": 0.8863,
    "pick": "Arkansas State"
   },
   {
@@ -1208,7 +1208,7 @@
    "home": "Kennesaw State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4068,
+   "p_home": 0.4066,
    "pick": "Delaware"
   },
   {
@@ -1221,7 +1221,7 @@
    "home": "LSU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5249,
+   "p_home": 0.5814,
    "pick": "LSU"
   },
   {
@@ -1234,7 +1234,7 @@
    "home": "Houston",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8058,
+   "p_home": 0.8009,
    "pick": "Houston"
   },
   {
@@ -1247,7 +1247,7 @@
    "home": "Wake Forest",
    "fbs_both": false,
    "neutral": false,
-   "p_home": 0.9889,
+   "p_home": 0.9952,
    "pick": "Wake Forest"
   },
   {
@@ -1260,7 +1260,7 @@
    "home": "Ohio State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7342,
+   "p_home": 0.7747,
    "pick": "Ohio State"
   },
   {
@@ -1273,7 +1273,7 @@
    "home": "Washington",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7098,
+   "p_home": 0.7135,
    "pick": "Washington"
   },
   {
@@ -1286,7 +1286,7 @@
    "home": "UAB",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8115,
+   "p_home": 0.8416,
    "pick": "UAB"
   },
   {
@@ -1299,7 +1299,7 @@
    "home": "Navy",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6616,
+   "p_home": 0.591,
    "pick": "Navy"
   },
   {
@@ -1312,7 +1312,7 @@
    "home": "Georgia Southern",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5645,
+   "p_home": 0.6828,
    "pick": "Georgia Southern"
   },
   {
@@ -1325,7 +1325,7 @@
    "home": "Middle Tennessee",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4321,
+   "p_home": 0.4656,
    "pick": "Western Kentucky"
   },
   {
@@ -1338,7 +1338,7 @@
    "home": "Kansas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5235,
+   "p_home": 0.609,
    "pick": "Kansas"
   },
   {
@@ -1351,7 +1351,7 @@
    "home": "North Texas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9004,
+   "p_home": 0.9121,
    "pick": "North Texas"
   },
   {
@@ -1364,7 +1364,7 @@
    "home": "San Jos\u00e9 State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8022,
+   "p_home": 0.8478,
    "pick": "San Jos\u00e9 State"
   },
   {
@@ -1377,7 +1377,7 @@
    "home": "Florida International",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6789,
+   "p_home": 0.6464,
    "pick": "Florida International"
   },
   {
@@ -1390,7 +1390,7 @@
    "home": "Troy",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3382,
+   "p_home": 0.2841,
    "pick": "Louisiana Tech"
   },
   {
@@ -1403,7 +1403,7 @@
    "home": "Mississippi State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6534,
+   "p_home": 0.654,
    "pick": "Mississippi State"
   },
   {
@@ -1416,7 +1416,7 @@
    "home": "Wisconsin",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8302,
+   "p_home": 0.8468,
    "pick": "Wisconsin"
   },
   {
@@ -1429,7 +1429,7 @@
    "home": "Louisiana",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7373,
+   "p_home": 0.7911,
    "pick": "Louisiana"
   },
   {
@@ -1442,7 +1442,7 @@
    "home": "Colorado State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.0805,
+   "p_home": 0.0869,
    "pick": "Boise State"
   },
   {
@@ -1455,7 +1455,7 @@
    "home": "Tennessee",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7348,
+   "p_home": 0.7655,
    "pick": "Tennessee"
   },
   {
@@ -1468,7 +1468,7 @@
    "home": "Jacksonville State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9206,
+   "p_home": 0.9135,
    "pick": "Jacksonville State"
   },
   {
@@ -1481,7 +1481,7 @@
    "home": "Ole Miss",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3913,
+   "p_home": 0.3917,
    "pick": "Georgia"
   },
   {
@@ -1494,7 +1494,7 @@
    "home": "Arizona State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7995,
+   "p_home": 0.7442,
    "pick": "Arizona State"
   },
   {
@@ -1507,7 +1507,7 @@
    "home": "Georgia Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1922,
+   "p_home": 0.1626,
    "pick": "Louisville"
   },
   {
@@ -1520,7 +1520,7 @@
    "home": "Notre Dame",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5277,
+   "p_home": 0.6719,
    "pick": "Notre Dame"
   },
   {
@@ -1533,7 +1533,7 @@
    "home": "Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9158,
+   "p_home": 0.9221,
    "pick": "Michigan"
   },
   {
@@ -1546,8 +1546,8 @@
    "home": "Northwestern",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4641,
-   "pick": "Iowa"
+   "p_home": 0.534,
+   "pick": "Northwestern"
   },
   {
    "id": 401862823,
@@ -1559,7 +1559,7 @@
    "home": "Army",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5314,
+   "p_home": 0.5258,
    "pick": "Army"
   },
   {
@@ -1572,7 +1572,7 @@
    "home": "Florida",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5617,
+   "p_home": 0.6145,
    "pick": "Florida"
   },
   {
@@ -1585,7 +1585,7 @@
    "home": "New Mexico State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.161,
+   "p_home": 0.0847,
    "pick": "Liberty"
   },
   {
@@ -1598,7 +1598,7 @@
    "home": "Texas Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8926,
+   "p_home": 0.9032,
    "pick": "Texas Tech"
   },
   {
@@ -1611,7 +1611,7 @@
    "home": "Utah State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3083,
+   "p_home": 0.393,
    "pick": "Fresno State"
   },
   {
@@ -1624,7 +1624,7 @@
    "home": "UTEP",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2562,
+   "p_home": 0.2439,
    "pick": "Hawai'i"
   },
   {
@@ -1637,7 +1637,7 @@
    "home": "Oregon State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5316,
+   "p_home": 0.5531,
    "pick": "Oregon State"
   },
   {
@@ -1650,7 +1650,7 @@
    "home": "UNLV",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7365,
+   "p_home": 0.7152,
    "pick": "UNLV"
   },
   {
@@ -1663,7 +1663,7 @@
    "home": "Akron",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1298,
+   "p_home": 0.1735,
    "pick": "Western Michigan"
   },
   {
@@ -1676,7 +1676,7 @@
    "home": "Bowling Green",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5303,
+   "p_home": 0.6133,
    "pick": "Bowling Green"
   },
   {
@@ -1689,7 +1689,7 @@
    "home": "Miami (OH)",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3671,
+   "p_home": 0.3681,
    "pick": "Ohio"
   },
   {
@@ -1702,7 +1702,7 @@
    "home": "Ball State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3306,
+   "p_home": 0.4116,
    "pick": "Buffalo"
   },
   {
@@ -1715,7 +1715,7 @@
    "home": "Toledo",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9245,
+   "p_home": 0.9229,
    "pick": "Toledo"
   },
   {
@@ -1728,7 +1728,7 @@
    "home": "Central Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8565,
+   "p_home": 0.8147,
    "pick": "Central Michigan"
   },
   {
@@ -1741,7 +1741,7 @@
    "home": "South Florida",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5572,
+   "p_home": 0.5388,
    "pick": "South Florida"
   },
   {
@@ -1754,7 +1754,7 @@
    "home": "UL Monroe",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1278,
+   "p_home": 0.1134,
    "pick": "Louisiana"
   },
   {
@@ -1767,7 +1767,7 @@
    "home": "Pittsburgh",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6995,
+   "p_home": 0.6929,
    "pick": "Pittsburgh"
   },
   {
@@ -1780,7 +1780,7 @@
    "home": "UCLA",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7588,
+   "p_home": 0.8713,
    "pick": "UCLA"
   },
   {
@@ -1793,7 +1793,7 @@
    "home": "Colorado",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1414,
+   "p_home": 0.1992,
    "pick": "Houston"
   },
   {
@@ -1806,7 +1806,7 @@
    "home": "UCF",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4545,
+   "p_home": 0.4664,
    "pick": "Arizona State"
   },
   {
@@ -1819,7 +1819,7 @@
    "home": "BYU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7772,
+   "p_home": 0.7209,
    "pick": "BYU"
   },
   {
@@ -1832,7 +1832,7 @@
    "home": "Iowa State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5271,
+   "p_home": 0.5171,
    "pick": "Iowa State"
   },
   {
@@ -1845,7 +1845,7 @@
    "home": "West Virginia",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.676,
+   "p_home": 0.5812,
    "pick": "West Virginia"
   },
   {
@@ -1858,7 +1858,7 @@
    "home": "TCU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.635,
+   "p_home": 0.6703,
    "pick": "TCU"
   },
   {
@@ -1871,7 +1871,7 @@
    "home": "Oklahoma State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2087,
+   "p_home": 0.2461,
    "pick": "Texas Tech"
   },
   {
@@ -1884,7 +1884,7 @@
    "home": "Arizona",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.375,
+   "p_home": 0.4086,
    "pick": "Utah"
   },
   {
@@ -1897,7 +1897,7 @@
    "home": "Arkansas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.204,
+   "p_home": 0.1593,
    "pick": "South Carolina"
   },
   {
@@ -1910,7 +1910,7 @@
    "home": "Georgia",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8341,
+   "p_home": 0.832,
    "pick": "Georgia"
   },
   {
@@ -1923,7 +1923,7 @@
    "home": "Kentucky",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6245,
+   "p_home": 0.5676,
    "pick": "Kentucky"
   },
   {
@@ -1936,8 +1936,8 @@
    "home": "LSU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4869,
-   "pick": "Texas"
+   "p_home": 0.6208,
+   "pick": "LSU"
   },
   {
    "id": 401856886,
@@ -1949,8 +1949,8 @@
    "home": "Mississippi State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5725,
-   "pick": "Mississippi State"
+   "p_home": 0.4471,
+   "pick": "Auburn"
   },
   {
    "id": 401856887,
@@ -1962,7 +1962,7 @@
    "home": "Oklahoma",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3311,
+   "p_home": 0.3537,
    "pick": "Ole Miss"
   },
   {
@@ -1975,7 +1975,7 @@
    "home": "Texas A&M",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3956,
+   "p_home": 0.4124,
    "pick": "Tennessee"
   },
   {
@@ -1988,7 +1988,7 @@
    "home": "Vanderbilt",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1396,
+   "p_home": 0.1024,
    "pick": "Alabama"
   },
   {
@@ -2001,7 +2001,7 @@
    "home": "Virginia",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7091,
+   "p_home": 0.7743,
    "pick": "Virginia"
   },
   {
@@ -2014,7 +2014,7 @@
    "home": "Miami",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9,
+   "p_home": 0.8756,
    "pick": "Miami"
   },
   {
@@ -2027,7 +2027,7 @@
    "home": "Clemson",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8876,
+   "p_home": 0.8627,
    "pick": "Clemson"
   },
   {
@@ -2040,7 +2040,7 @@
    "home": "North Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3984,
+   "p_home": 0.3921,
    "pick": "Louisville"
   },
   {
@@ -2053,7 +2053,7 @@
    "home": "Virginia Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8015,
+   "p_home": 0.8699,
    "pick": "Virginia Tech"
   },
   {
@@ -2079,8 +2079,8 @@
    "home": "SMU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5243,
-   "pick": "SMU"
+   "p_home": 0.3782,
+   "pick": "Wake Forest"
   },
   {
    "id": 401858518,
@@ -2092,7 +2092,7 @@
    "home": "Indiana",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6601,
+   "p_home": 0.637,
    "pick": "Indiana"
   },
   {
@@ -2105,7 +2105,7 @@
    "home": "Iowa",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8977,
+   "p_home": 0.9146,
    "pick": "Iowa"
   },
   {
@@ -2118,7 +2118,7 @@
    "home": "Maryland",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2489,
+   "p_home": 0.273,
    "pick": "Wisconsin"
   },
   {
@@ -2131,7 +2131,7 @@
    "home": "Michigan State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1897,
+   "p_home": 0.1875,
    "pick": "Washington"
   },
   {
@@ -2144,7 +2144,7 @@
    "home": "Ohio State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8691,
+   "p_home": 0.8506,
    "pick": "Ohio State"
   },
   {
@@ -2157,7 +2157,7 @@
    "home": "Oregon",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6892,
+   "p_home": 0.6683,
    "pick": "Oregon"
   },
   {
@@ -2170,7 +2170,7 @@
    "home": "Penn State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5894,
+   "p_home": 0.5825,
    "pick": "Penn State"
   },
   {
@@ -2183,7 +2183,7 @@
    "home": "Rutgers",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2816,
+   "p_home": 0.2034,
    "pick": "Nebraska"
   },
   {
@@ -2196,7 +2196,7 @@
    "home": "Charlotte",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.203,
+   "p_home": 0.1617,
    "pick": "East Carolina"
   },
   {
@@ -2209,7 +2209,7 @@
    "home": "Tulsa",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5517,
+   "p_home": 0.6313,
    "pick": "Tulsa"
   },
   {
@@ -2222,7 +2222,7 @@
    "home": "UTSA",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7662,
+   "p_home": 0.6459,
    "pick": "UTSA"
   },
   {
@@ -2235,7 +2235,7 @@
    "home": "Rice",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2054,
+   "p_home": 0.2803,
    "pick": "Tulane"
   },
   {
@@ -2248,7 +2248,7 @@
    "home": "Temple",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4268,
+   "p_home": 0.4923,
    "pick": "UAB"
   },
   {
@@ -2261,7 +2261,7 @@
    "home": "Northern Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2685,
+   "p_home": 0.2541,
    "pick": "Nevada"
   },
   {
@@ -2274,7 +2274,7 @@
    "home": "UTEP",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2029,
+   "p_home": 0.1953,
    "pick": "Wyoming"
   },
   {
@@ -2287,7 +2287,7 @@
    "home": "Marshall",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6737,
+   "p_home": 0.6161,
    "pick": "Marshall"
   },
   {
@@ -2300,7 +2300,7 @@
    "home": "Coastal Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4568,
+   "p_home": 0.4574,
    "pick": "Arkansas State"
   },
   {
@@ -2313,7 +2313,7 @@
    "home": "Georgia State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3923,
+   "p_home": 0.4287,
    "pick": "Georgia Southern"
   },
   {
@@ -2326,7 +2326,7 @@
    "home": "Louisiana Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8273,
+   "p_home": 0.8604,
    "pick": "Louisiana Tech"
   },
   {
@@ -2339,7 +2339,7 @@
    "home": "South Alabama",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6059,
+   "p_home": 0.5835,
    "pick": "South Alabama"
   },
   {
@@ -2352,7 +2352,7 @@
    "home": "UConn",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3006,
+   "p_home": 0.4183,
    "pick": "James Madison"
   },
   {
@@ -2365,7 +2365,7 @@
    "home": "Sam Houston",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3628,
+   "p_home": 0.3763,
    "pick": "Kennesaw State"
   },
   {
@@ -2378,7 +2378,7 @@
    "home": "Missouri State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6233,
+   "p_home": 0.6456,
    "pick": "Missouri State"
   },
   {
@@ -2391,7 +2391,7 @@
    "home": "Delaware",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6838,
+   "p_home": 0.7412,
    "pick": "Delaware"
   },
   {
@@ -2404,7 +2404,7 @@
    "home": "Notre Dame",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9569,
+   "p_home": 0.9759,
    "pick": "Notre Dame"
   },
   {
@@ -2417,7 +2417,7 @@
    "home": "Western Kentucky",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3694,
+   "p_home": 0.3816,
    "pick": "Jacksonville State"
   },
   {
@@ -2430,7 +2430,7 @@
    "home": "Liberty",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8989,
+   "p_home": 0.9373,
    "pick": "Liberty"
   },
   {
@@ -2443,7 +2443,7 @@
    "home": "Texas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5274,
+   "p_home": 0.6177,
    "pick": "Texas State"
   },
   {
@@ -2456,7 +2456,7 @@
    "home": "Boise State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8423,
+   "p_home": 0.7957,
    "pick": "Boise State"
   },
   {
@@ -2469,7 +2469,7 @@
    "home": "Air Force",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7972,
+   "p_home": 0.738,
    "pick": "Air Force"
   },
   {
@@ -2482,7 +2482,7 @@
    "home": "New Mexico",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.72,
+   "p_home": 0.7673,
    "pick": "New Mexico"
   },
   {
@@ -2495,7 +2495,7 @@
    "home": "San Diego State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6119,
+   "p_home": 0.5598,
    "pick": "San Diego State"
   },
   {
@@ -2508,7 +2508,7 @@
    "home": "Washington State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6482,
+   "p_home": 0.6185,
    "pick": "Washington State"
   },
   {
@@ -2521,7 +2521,7 @@
    "home": "Hawai'i",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3213,
+   "p_home": 0.2855,
    "pick": "North Dakota State"
   },
   {
@@ -2534,7 +2534,7 @@
    "home": "Ohio",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9079,
+   "p_home": 0.9086,
    "pick": "Ohio"
   },
   {
@@ -2547,7 +2547,7 @@
    "home": "Western Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8451,
+   "p_home": 0.819,
    "pick": "Western Michigan"
   },
   {
@@ -2560,7 +2560,7 @@
    "home": "Kent State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3568,
+   "p_home": 0.285,
    "pick": "Miami (OH)"
   },
   {
@@ -2573,7 +2573,7 @@
    "home": "Massachusetts",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5855,
+   "p_home": 0.647,
    "pick": "Massachusetts"
   },
   {
@@ -2586,7 +2586,7 @@
    "home": "Buffalo",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6511,
+   "p_home": 0.6507,
    "pick": "Buffalo"
   },
   {
@@ -2599,7 +2599,7 @@
    "home": "Temple",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6355,
+   "p_home": 0.6851,
    "pick": "Temple"
   },
   {
@@ -2612,7 +2612,7 @@
    "home": "UCF",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5149,
+   "p_home": 0.5447,
    "pick": "UCF"
   },
   {
@@ -2625,7 +2625,7 @@
    "home": "Duke",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5295,
+   "p_home": 0.6203,
    "pick": "Duke"
   },
   {
@@ -2638,7 +2638,7 @@
    "home": "Toledo",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9131,
+   "p_home": 0.9324,
    "pick": "Toledo"
   },
   {
@@ -2651,7 +2651,7 @@
    "home": "Michigan State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.0993,
+   "p_home": 0.1051,
    "pick": "Oregon"
   },
   {
@@ -2664,7 +2664,7 @@
    "home": "Air Force",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9176,
+   "p_home": 0.9134,
    "pick": "Air Force"
   },
   {
@@ -2677,7 +2677,7 @@
    "home": "Florida",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.771,
+   "p_home": 0.8399,
    "pick": "Florida"
   },
   {
@@ -2690,7 +2690,7 @@
    "home": "Missouri",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6744,
+   "p_home": 0.6823,
    "pick": "Missouri"
   },
   {
@@ -2703,7 +2703,7 @@
    "home": "Oklahoma",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5689,
+   "p_home": 0.5372,
    "pick": "Oklahoma"
   },
   {
@@ -2716,7 +2716,7 @@
    "home": "South Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2602,
+   "p_home": 0.2899,
    "pick": "Georgia"
   },
   {
@@ -2729,8 +2729,8 @@
    "home": "Tennessee",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5429,
-   "pick": "Tennessee"
+   "p_home": 0.4816,
+   "pick": "LSU"
   },
   {
    "id": 401856755,
@@ -2742,7 +2742,7 @@
    "home": "Texas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9487,
+   "p_home": 0.9534,
    "pick": "Texas"
   },
   {
@@ -2755,7 +2755,7 @@
    "home": "Kansas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.319,
+   "p_home": 0.2666,
    "pick": "Arizona"
   },
   {
@@ -2768,7 +2768,7 @@
    "home": "Kansas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.127,
+   "p_home": 0.1706,
    "pick": "BYU"
   },
   {
@@ -2781,7 +2781,7 @@
    "home": "Cincinnati",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7955,
+   "p_home": 0.7367,
    "pick": "Cincinnati"
   },
   {
@@ -2794,7 +2794,7 @@
    "home": "West Virginia",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2541,
+   "p_home": 0.2573,
    "pick": "Houston"
   },
   {
@@ -2807,7 +2807,7 @@
    "home": "Arizona State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6279,
+   "p_home": 0.5767,
    "pick": "Arizona State"
   },
   {
@@ -2820,7 +2820,7 @@
    "home": "Baylor",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3671,
+   "p_home": 0.447,
    "pick": "Texas Tech"
   },
   {
@@ -2833,7 +2833,7 @@
    "home": "TCU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2031,
+   "p_home": 0.2044,
    "pick": "Utah"
   },
   {
@@ -2846,7 +2846,7 @@
    "home": "Miami",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9182,
+   "p_home": 0.9021,
    "pick": "Miami"
   },
   {
@@ -2859,7 +2859,7 @@
    "home": "Florida State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5454,
+   "p_home": 0.62,
    "pick": "Florida State"
   },
   {
@@ -2872,7 +2872,7 @@
    "home": "Virginia",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4384,
+   "p_home": 0.3804,
    "pick": "North Carolina"
   },
   {
@@ -2885,7 +2885,7 @@
    "home": "Louisville",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6957,
+   "p_home": 0.6948,
    "pick": "Louisville"
   },
   {
@@ -2898,8 +2898,8 @@
    "home": "California",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4922,
-   "pick": "Stanford"
+   "p_home": 0.5018,
+   "pick": "California"
   },
   {
    "id": 401858309,
@@ -2911,7 +2911,7 @@
    "home": "Boston College",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5988,
+   "p_home": 0.5623,
    "pick": "Boston College"
   },
   {
@@ -2924,7 +2924,7 @@
    "home": "Georgia Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1447,
+   "p_home": 0.0939,
    "pick": "Wake Forest"
   },
   {
@@ -2937,7 +2937,7 @@
    "home": "Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3676,
+   "p_home": 0.2764,
    "pick": "Iowa"
   },
   {
@@ -2950,7 +2950,7 @@
    "home": "Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5772,
+   "p_home": 0.5048,
    "pick": "Michigan"
   },
   {
@@ -2963,7 +2963,7 @@
    "home": "Minnesota",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4614,
+   "p_home": 0.4045,
    "pick": "Northwestern"
   },
   {
@@ -2976,7 +2976,7 @@
    "home": "Nebraska",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1571,
+   "p_home": 0.1895,
    "pick": "Ohio State"
   },
   {
@@ -2989,7 +2989,7 @@
    "home": "Penn State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8295,
+   "p_home": 0.8471,
    "pick": "Penn State"
   },
   {
@@ -3002,7 +3002,7 @@
    "home": "Purdue",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3517,
+   "p_home": 0.3239,
    "pick": "Wisconsin"
   },
   {
@@ -3015,7 +3015,7 @@
    "home": "USC",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9559,
+   "p_home": 0.9542,
    "pick": "USC"
   },
   {
@@ -3028,7 +3028,7 @@
    "home": "Washington",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.317,
+   "p_home": 0.3375,
    "pick": "Indiana"
   },
   {
@@ -3041,7 +3041,7 @@
    "home": "Tulsa",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8097,
+   "p_home": 0.8698,
    "pick": "Tulsa"
   },
   {
@@ -3054,7 +3054,7 @@
    "home": "Florida Atlantic",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3291,
+   "p_home": 0.3726,
    "pick": "South Florida"
   },
   {
@@ -3067,8 +3067,8 @@
    "home": "Tulane",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5322,
-   "pick": "Tulane"
+   "p_home": 0.4093,
+   "pick": "North Texas"
   },
   {
    "id": 401862836,
@@ -3080,7 +3080,7 @@
    "home": "UAB",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1736,
+   "p_home": 0.2492,
    "pick": "UTSA"
   },
   {
@@ -3093,7 +3093,7 @@
    "home": "Nevada",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5571,
+   "p_home": 0.5583,
    "pick": "Nevada"
   },
   {
@@ -3106,7 +3106,7 @@
    "home": "App State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8697,
+   "p_home": 0.879,
    "pick": "App State"
   },
   {
@@ -3119,7 +3119,7 @@
    "home": "Louisiana Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7485,
+   "p_home": 0.7889,
    "pick": "Louisiana Tech"
   },
   {
@@ -3132,7 +3132,7 @@
    "home": "Louisiana",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8027,
+   "p_home": 0.8245,
    "pick": "Louisiana"
   },
   {
@@ -3145,7 +3145,7 @@
    "home": "Troy",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4643,
+   "p_home": 0.3938,
    "pick": "Georgia Southern"
   },
   {
@@ -3158,7 +3158,7 @@
    "home": "Marshall",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7606,
+   "p_home": 0.6342,
    "pick": "Marshall"
   },
   {
@@ -3171,8 +3171,8 @@
    "home": "Southern Miss",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4945,
-   "pick": "South Alabama"
+   "p_home": 0.5354,
+   "pick": "Southern Miss"
   },
   {
    "id": 401856749,
@@ -3197,8 +3197,8 @@
    "home": "Army",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.52,
-   "pick": "Army"
+   "p_home": 0.4174,
+   "pick": "East Carolina"
   },
   {
    "id": 401862834,
@@ -3210,7 +3210,7 @@
    "home": "Navy",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.233,
+   "p_home": 0.2512,
    "pick": "Memphis"
   },
   {
@@ -3223,7 +3223,7 @@
    "home": "Mississippi State",
    "fbs_both": false,
    "neutral": false,
-   "p_home": 0.969,
+   "p_home": 0.9527,
    "pick": "Mississippi State"
   },
   {
@@ -3236,7 +3236,7 @@
    "home": "Liberty",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.83,
+   "p_home": 0.9024,
    "pick": "Liberty"
   },
   {
@@ -3249,7 +3249,7 @@
    "home": "Alabama",
    "fbs_both": false,
    "neutral": false,
-   "p_home": 0.9949,
+   "p_home": 0.9951,
    "pick": "Alabama"
   },
   {
@@ -3262,7 +3262,7 @@
    "home": "Jacksonville State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8489,
+   "p_home": 0.8527,
    "pick": "Jacksonville State"
   },
   {
@@ -3275,7 +3275,7 @@
    "home": "Sam Houston",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4161,
+   "p_home": 0.4102,
    "pick": "Middle Tennessee"
   },
   {
@@ -3288,7 +3288,7 @@
    "home": "New Mexico State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3274,
+   "p_home": 0.2927,
    "pick": "Delaware"
   },
   {
@@ -3301,7 +3301,7 @@
    "home": "Kennesaw State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.517,
+   "p_home": 0.5821,
    "pick": "Kennesaw State"
   },
   {
@@ -3314,7 +3314,7 @@
    "home": "Auburn",
    "fbs_both": false,
    "neutral": false,
-   "p_home": 0.9723,
+   "p_home": 0.978,
    "pick": "Auburn"
   },
   {
@@ -3327,7 +3327,7 @@
    "home": "UConn",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7817,
+   "p_home": 0.8447,
    "pick": "UConn"
   },
   {
@@ -3340,7 +3340,7 @@
    "home": "North Dakota State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.944,
+   "p_home": 0.9582,
    "pick": "North Dakota State"
   },
   {
@@ -3353,7 +3353,7 @@
    "home": "Texas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8392,
+   "p_home": 0.8821,
    "pick": "Texas State"
   },
   {
@@ -3366,7 +3366,7 @@
    "home": "San Jos\u00e9 State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2634,
+   "p_home": 0.3377,
    "pick": "UNLV"
   },
   {
@@ -3379,7 +3379,7 @@
    "home": "Notre Dame",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8377,
+   "p_home": 0.9,
    "pick": "Notre Dame"
   },
   {
@@ -3392,7 +3392,7 @@
    "home": "Fresno State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.896,
+   "p_home": 0.8825,
    "pick": "Fresno State"
   },
   {
@@ -3405,7 +3405,7 @@
    "home": "Wyoming",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2699,
+   "p_home": 0.2527,
    "pick": "New Mexico"
   },
   {
@@ -3418,7 +3418,7 @@
    "home": "Boise State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9059,
+   "p_home": 0.9044,
    "pick": "Boise State"
   },
   {
@@ -3431,7 +3431,7 @@
    "home": "Oregon State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7397,
+   "p_home": 0.7554,
    "pick": "Oregon State"
   },
   {
@@ -3444,7 +3444,7 @@
    "home": "Western Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7795,
+   "p_home": 0.7273,
    "pick": "Western Michigan"
   },
   {
@@ -3457,7 +3457,7 @@
    "home": "Eastern Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6913,
+   "p_home": 0.7461,
    "pick": "Eastern Michigan"
   },
   {
@@ -3470,7 +3470,7 @@
    "home": "Texas Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8278,
+   "p_home": 0.8166,
    "pick": "Texas Tech"
   },
   {
@@ -3483,7 +3483,7 @@
    "home": "East Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6854,
+   "p_home": 0.7254,
    "pick": "East Carolina"
   },
   {
@@ -3496,7 +3496,7 @@
    "home": "Memphis",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8991,
+   "p_home": 0.8586,
    "pick": "Memphis"
   },
   {
@@ -3509,7 +3509,7 @@
    "home": "South Florida",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6554,
+   "p_home": 0.6821,
    "pick": "South Florida"
   },
   {
@@ -3522,7 +3522,7 @@
    "home": "Ole Miss",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8821,
+   "p_home": 0.8991,
    "pick": "Ole Miss"
   },
   {
@@ -3535,7 +3535,7 @@
    "home": "Iowa",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7745,
+   "p_home": 0.7213,
    "pick": "Iowa"
   },
   {
@@ -3548,7 +3548,7 @@
    "home": "Akron",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2879,
+   "p_home": 0.365,
    "pick": "Buffalo"
   },
   {
@@ -3561,7 +3561,7 @@
    "home": "Ohio",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5718,
+   "p_home": 0.5229,
    "pick": "Ohio"
   },
   {
@@ -3574,7 +3574,7 @@
    "home": "South Alabama",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5729,
+   "p_home": 0.5288,
    "pick": "South Alabama"
   },
   {
@@ -3587,7 +3587,7 @@
    "home": "Florida State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3367,
+   "p_home": 0.372,
    "pick": "Florida"
   },
   {
@@ -3600,7 +3600,7 @@
    "home": "San Jos\u00e9 State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2501,
+   "p_home": 0.2549,
    "pick": "North Dakota State"
   },
   {
@@ -3613,7 +3613,7 @@
    "home": "Texas A&M",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2777,
+   "p_home": 0.3495,
    "pick": "Texas"
   },
   {
@@ -3626,7 +3626,7 @@
    "home": "Wisconsin",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5907,
+   "p_home": 0.582,
    "pick": "Wisconsin"
   },
   {
@@ -3639,7 +3639,7 @@
    "home": "Utah",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9287,
+   "p_home": 0.9419,
    "pick": "Utah"
   },
   {
@@ -3652,7 +3652,7 @@
    "home": "Alabama",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8936,
+   "p_home": 0.8817,
    "pick": "Alabama"
   },
   {
@@ -3665,7 +3665,7 @@
    "home": "Arkansas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1315,
+   "p_home": 0.0771,
    "pick": "LSU"
   },
   {
@@ -3678,7 +3678,7 @@
    "home": "Georgia",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.981,
+   "p_home": 0.9791,
    "pick": "Georgia"
   },
   {
@@ -3691,7 +3691,7 @@
    "home": "Kentucky",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6206,
+   "p_home": 0.5471,
    "pick": "Kentucky"
   },
   {
@@ -3704,7 +3704,7 @@
    "home": "Missouri",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6971,
+   "p_home": 0.6934,
    "pick": "Missouri"
   },
   {
@@ -3717,7 +3717,7 @@
    "home": "Clemson",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4545,
+   "p_home": 0.3945,
    "pick": "South Carolina"
   },
   {
@@ -3730,7 +3730,7 @@
    "home": "Vanderbilt",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1918,
+   "p_home": 0.1494,
    "pick": "Tennessee"
   },
   {
@@ -3743,7 +3743,7 @@
    "home": "Arizona",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.802,
+   "p_home": 0.8428,
    "pick": "Arizona"
   },
   {
@@ -3756,7 +3756,7 @@
    "home": "Houston",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6916,
+   "p_home": 0.6015,
    "pick": "Houston"
   },
   {
@@ -3769,8 +3769,8 @@
    "home": "Colorado",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4444,
-   "pick": "UCF"
+   "p_home": 0.5241,
+   "pick": "Colorado"
   },
   {
    "id": 401856876,
@@ -3782,7 +3782,7 @@
    "home": "BYU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8658,
+   "p_home": 0.8731,
    "pick": "BYU"
   },
   {
@@ -3795,7 +3795,7 @@
    "home": "Oklahoma State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7044,
+   "p_home": 0.6803,
    "pick": "Oklahoma State"
   },
   {
@@ -3808,7 +3808,7 @@
    "home": "Iowa State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5236,
+   "p_home": 0.5122,
    "pick": "Iowa State"
   },
   {
@@ -3821,7 +3821,7 @@
    "home": "Miami",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9649,
+   "p_home": 0.9653,
    "pick": "Miami"
   },
   {
@@ -3834,7 +3834,7 @@
    "home": "Wake Forest",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7101,
+   "p_home": 0.7878,
    "pick": "Wake Forest"
   },
   {
@@ -3847,7 +3847,7 @@
    "home": "North Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.614,
+   "p_home": 0.6588,
    "pick": "North Carolina"
   },
   {
@@ -3860,7 +3860,7 @@
    "home": "Syracuse",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.0743,
+   "p_home": 0.0511,
    "pick": "Notre Dame"
   },
   {
@@ -3873,7 +3873,7 @@
    "home": "California",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2593,
+   "p_home": 0.1571,
    "pick": "Pittsburgh"
   },
   {
@@ -3886,7 +3886,7 @@
    "home": "Stanford",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2131,
+   "p_home": 0.1665,
    "pick": "SMU"
   },
   {
@@ -3899,7 +3899,7 @@
    "home": "Virginia Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7663,
+   "p_home": 0.7935,
    "pick": "Virginia Tech"
   },
   {
@@ -3912,7 +3912,7 @@
    "home": "Northwestern",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6736,
+   "p_home": 0.8087,
    "pick": "Northwestern"
   },
   {
@@ -3925,7 +3925,7 @@
    "home": "Indiana",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9488,
+   "p_home": 0.9531,
    "pick": "Indiana"
   },
   {
@@ -3938,7 +3938,7 @@
    "home": "Maryland",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2498,
+   "p_home": 0.2726,
    "pick": "Penn State"
   },
   {
@@ -3951,7 +3951,7 @@
    "home": "Oregon",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7463,
+   "p_home": 0.7346,
    "pick": "Oregon"
   },
   {
@@ -3964,7 +3964,7 @@
    "home": "Rutgers",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5692,
+   "p_home": 0.5536,
    "pick": "Rutgers"
   },
   {
@@ -3977,8 +3977,8 @@
    "home": "UCLA",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.467,
-   "pick": "USC"
+   "p_home": 0.5465,
+   "pick": "UCLA"
   },
   {
    "id": 401861969,
@@ -3990,7 +3990,7 @@
    "home": "Wyoming",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.49,
+   "p_home": 0.3992,
    "pick": "UConn"
   },
   {
@@ -4003,7 +4003,7 @@
    "home": "UTSA",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9024,
+   "p_home": 0.8265,
    "pick": "UTSA"
   },
   {
@@ -4016,7 +4016,7 @@
    "home": "Rice",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3018,
+   "p_home": 0.3893,
    "pick": "Army"
   },
   {
@@ -4029,7 +4029,7 @@
    "home": "Charlotte",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3701,
+   "p_home": 0.3465,
    "pick": "Navy"
   },
   {
@@ -4042,7 +4042,7 @@
    "home": "North Texas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7943,
+   "p_home": 0.8222,
    "pick": "North Texas"
   },
   {
@@ -4055,7 +4055,7 @@
    "home": "Northern Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5728,
+   "p_home": 0.5717,
    "pick": "Northern Illinois"
   },
   {
@@ -4068,7 +4068,7 @@
    "home": "James Madison",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8923,
+   "p_home": 0.8818,
    "pick": "James Madison"
   },
   {
@@ -4081,7 +4081,7 @@
    "home": "Georgia Southern",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4495,
+   "p_home": 0.4627,
    "pick": "Louisiana Tech"
   },
   {
@@ -4094,7 +4094,7 @@
    "home": "Georgia State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3144,
+   "p_home": 0.3787,
    "pick": "Louisiana"
   },
   {
@@ -4107,7 +4107,7 @@
    "home": "UL Monroe",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1617,
+   "p_home": 0.1937,
    "pick": "Marshall"
   },
   {
@@ -4120,7 +4120,7 @@
    "home": "Old Dominion",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4927,
+   "p_home": 0.493,
    "pick": "Southern Miss"
   },
   {
@@ -4133,7 +4133,7 @@
    "home": "Ohio State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8155,
+   "p_home": 0.831,
    "pick": "Ohio State"
   },
   {
@@ -4146,7 +4146,7 @@
    "home": "Ball State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3995,
+   "p_home": 0.4804,
    "pick": "Central Michigan"
   },
   {
@@ -4159,7 +4159,7 @@
    "home": "Bowling Green",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6174,
+   "p_home": 0.5504,
    "pick": "Bowling Green"
   },
   {
@@ -4172,7 +4172,7 @@
    "home": "Western Kentucky",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6683,
+   "p_home": 0.6642,
    "pick": "Western Kentucky"
   },
   {
@@ -4185,7 +4185,7 @@
    "home": "Missouri State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1864,
+   "p_home": 0.1068,
    "pick": "Liberty"
   },
   {
@@ -4198,7 +4198,7 @@
    "home": "Florida International",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8134,
+   "p_home": 0.7692,
    "pick": "Florida International"
   },
   {
@@ -4211,7 +4211,7 @@
    "home": "Middle Tennessee",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6092,
+   "p_home": 0.6694,
    "pick": "Middle Tennessee"
   },
   {
@@ -4224,7 +4224,7 @@
    "home": "Arkansas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.636,
+   "p_home": 0.6538,
    "pick": "Arkansas State"
   },
   {
@@ -4237,7 +4237,7 @@
    "home": "Delaware",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4486,
+   "p_home": 0.4749,
    "pick": "Jacksonville State"
   },
   {
@@ -4250,7 +4250,7 @@
    "home": "New Mexico",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7783,
+   "p_home": 0.8202,
    "pick": "New Mexico"
   },
   {
@@ -4263,7 +4263,7 @@
    "home": "UNLV",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8064,
+   "p_home": 0.7882,
    "pick": "UNLV"
   },
   {
@@ -4276,7 +4276,7 @@
    "home": "Hawai'i",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8415,
+   "p_home": 0.8328,
    "pick": "Hawai'i"
   },
   {
@@ -4289,7 +4289,7 @@
    "home": "Army",
    "fbs_both": true,
    "neutral": true,
-   "p_home": 0.5988,
+   "p_home": 0.5677,
    "pick": "Army"
   }
  ]
