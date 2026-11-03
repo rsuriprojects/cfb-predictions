@@ -97,11 +97,62 @@ def update(elo, g, p):
     elo[g["awayTeam"]] -= shift
 
 
+# ---------------------------------------------------------------- efficiency
+# Elo sees only the final score. These ratings see every play: points added per
+# play (PPA, garbage time removed), on offense and defense, adjusted for the
+# opponent. A team's offense in a game is expected to be
+#   EFF_MEAN + its offense rating + the opponent's defense rating
+# (defense rating = PPA it allows above average, so lower is better), and both
+# ratings move toward what actually happened.
+EFF_MEAN = 0.13          # average offensive PPA in FBS games, 2015-2025
+FCS_EFF = 0.15           # FCS teams start this much worse on each side
+
+
+def ppa_index(ppa):
+    """{(game id, team): (offense PPA, defense PPA)} from CFBD /ppa/games rows."""
+    out = {}
+    for r in ppa or []:
+        o, d = (r.get("offense") or {}).get("overall"), (r.get("defense") or {}).get("overall")
+        if o is not None and d is not None:
+            out[(r["gameId"], r["team"])] = (o, d)
+    return out
+
+
+def eff_rating(eff, team, cls):
+    if team not in eff:
+        eff[team] = [0.0, 0.0] if cls == "fbs" else [-FCS_EFF, FCS_EFF]
+    return eff[team]
+
+
+def eff_update(eff, g, idx, p):
+    """Move both teams' offense/defense ratings after a game with PPA data."""
+    h, a = g["homeTeam"], g["awayTeam"]
+    rh = eff_rating(eff, h, g.get("homeClassification"))
+    ra = eff_rating(eff, a, g.get("awayClassification"))
+    # Each offense's PPA, from its own row or else from the opponent's defense.
+    hrow, arow = idx.get((g["id"], h)), idx.get((g["id"], a))
+    h_off = hrow[0] if hrow else (arow[1] if arow else None)
+    a_off = arow[0] if arow else (hrow[1] if hrow else None)
+    for off, opp, obs in ((rh, ra, h_off), (ra, rh, a_off)):
+        if obs is None:
+            continue
+        err = obs - (EFF_MEAN + off[0] + opp[1])
+        off[0] += p["K_EFF"] * err
+        opp[1] += p["K_EFF"] * err
+
+
+def eff_gap(eff, g):
+    """Home net efficiency minus away (offense rating minus defense rating)."""
+    rh = eff_rating(eff, g["homeTeam"], g.get("homeClassification"))
+    ra = eff_rating(eff, g["awayTeam"], g.get("awayClassification"))
+    return (rh[0] - rh[1]) - (ra[0] - ra[1])
+
+
 # ---------------------------------------------------------------- features
-FEATURES = ["elo_gap", "talent_gap", "talent_gap_early", "ret_gap_early"]
+FEATURES = ["elo_gap", "talent_gap", "talent_gap_early", "ret_gap_early", "eff_gap"]
 
 
-def features(elo, ros, g):
+def features(elo, ros, g, eff=None):
     """Inputs to the regression for one game, using only pre-game information.
 
     Roster gaps get an extra "early" copy that fades out by week 6: before
@@ -112,7 +163,8 @@ def features(elo, ros, g):
     t = ros["talent"].get(h, -2.5 if g.get("homeClassification") != "fbs" else 0) - \
         ros["talent"].get(a, -2.5 if g.get("awayClassification") != "fbs" else 0)
     r = ros["ret"].get(h, 0) - ros["ret"].get(a, 0)
-    return [elo_gap(elo, g) / 100, t, t * early, r * early]
+    e = eff_gap(eff, g) * 10 if eff is not None else 0.0
+    return [elo_gap(elo, g) / 100, t, t * early, r * early, e]
 
 
 def prob(weights, x):
@@ -150,18 +202,26 @@ def market(line_rec):
 
 
 # ---------------------------------------------------------------- one season
-def run_season(games, ros, fbs, last, p, lines=None, weights=None, collect=None):
+def run_season(games, ros, fbs, last, p, lines=None, weights=None, collect=None,
+               ppa=None, last_eff=None, eff_out=None):
     """Walk a season in order, predicting each game before updating on it.
 
-    Returns end-of-season ratings. If `collect` is a list, appends one row per
-    game: features, outcome, and the market line if `lines` is given.
+    Returns end-of-season Elo ratings. If `collect` is a list, appends one row
+    per game: features, outcome, and the market line if `lines` is given.
+    With `ppa` (CFBD /ppa/games rows), efficiency ratings are kept too, carried
+    from `last_eff` at CARRY_EFF; `eff_out`, if a dict, gets the final ones.
     """
     elo = preseason(last, ros, fbs, p)
+    eff = None
+    if ppa is not None:
+        eff = {t: [p["CARRY_EFF"] * o, p["CARRY_EFF"] * d]
+               for t, (o, d) in (last_eff or {}).items()}
+        idx = ppa_index(ppa)
     by_id = {l["id"]: l for l in (lines or [])}
     order = sorted(games, key=lambda g: (g.get("startDate") or "", g["id"]))
     for g in order:
         if collect is not None:
-            x = features(elo, ros, g)
+            x = features(elo, ros, g, eff)
             row = {"id": g["id"], "season": g["season"], "week": g["week"],
                    "seasonType": g.get("seasonType"), "x": x,
                    "fbs_both": g.get("homeClassification") == "fbs"
@@ -176,4 +236,9 @@ def run_season(games, ros, fbs, last, p, lines=None, weights=None, collect=None)
             collect.append(row)
         if is_final(g):
             update(elo, g, p)
+            if eff is not None:
+                eff_update(eff, g, idx, p)
+    if eff_out is not None and eff is not None:
+        eff_out.clear()
+        eff_out.update({t: [round(o, 4), round(d, 4)] for t, (o, d) in eff.items()})
     return elo

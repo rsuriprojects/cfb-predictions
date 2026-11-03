@@ -7,7 +7,7 @@ Seasons are split so nothing is tested on data it learned from:
   2023-2025       held-out test: the honest accuracy number
   2026 to date    also out of sample
 
-Reads raw CFBD responses from DATA (default data/raw), as saved by
+Reads raw CFBD responses (including per-game PPA) from DATA (default data/raw), as saved by
 fetch_history.py.
 """
 import itertools
@@ -28,7 +28,8 @@ def load(name, season):
     return json.load(open(path)) if os.path.exists(path) else []
 
 
-RAW = {s: {n: load(n, s) for n in ("games", "lines", "talent", "returning", "recruiting", "fbs")}
+RAW = {s: {n: load(n, s) for n in ("games", "lines", "talent", "returning", "recruiting", "fbs",
+                                   "ppa", "ppa_post")}
        for s in SEASONS}
 ROSTER = {s: model.roster(RAW[s]["talent"], RAW[s]["returning"], RAW[s]["recruiting"], RAW[s]["fbs"])
           for s in SEASONS}
@@ -36,11 +37,14 @@ ROSTER = {s: model.roster(RAW[s]["talent"], RAW[s]["returning"], RAW[s]["recruit
 
 def walk(p, weights=None):
     """Run every season; return per-game rows and each season's final ratings."""
-    rows, last, ends = [], {}, {}
+    rows, last, eff, ends = [], {}, {}, {}
     for s in SEASONS:
+        out = {}
         last = model.run_season(RAW[s]["games"], ROSTER[s], RAW[s]["fbs"], last, p,
-                                lines=RAW[s]["lines"], weights=weights, collect=rows)
-        ends[s] = dict(last)
+                                lines=RAW[s]["lines"], weights=weights, collect=rows,
+                                ppa=RAW[s]["ppa"] + RAW[s]["ppa_post"], last_eff=eff, eff_out=out)
+        eff = out
+        ends[s] = (dict(last), dict(eff))
     return rows, ends
 
 
@@ -80,6 +84,10 @@ grid = {
     "W_TALENT": [90, 130, 170],
     "W_RET": [15, 30, 45],
     "W_REC": [0, 20, 40],
+    # Efficiency ratings: chosen on 2021-22 with the other settings fixed
+    # (K_EFF 0.03-0.3, CARRY_EFF 0.3-0.7 tried); held fixed here.
+    "K_EFF": [0.15],
+    "CARRY_EFF": [0.5],
 }
 best = None
 for combo in itertools.product(*grid.values()):
@@ -132,6 +140,12 @@ for lo, hi in ((.5, .6), (.6, .7), (.7, .8), (.8, .9), (.9, 1.01)):
         act = np.mean([(r["p_home"] > 0.5) == r["home_won"] for r in b])
         print(f"  {lo:.0%}-{min(hi, 1):.0%}: predicted {pred:.1%}, actual {act:.1%}  ({len(b)} games)")
 
+# Ablation: the same pipeline without efficiency ratings.
+nofit = graded(rows, list(TRAIN) + list(VALID))
+nw = fit_logistic(np.array([r["x"][:4] for r in nofit]), np.array([float(r["home_won"]) for r in nofit]))
+acc = np.mean([(model.prob(nw, r["x"][:4]) > 0.5) == r["home_won"] for r in test_fbs])
+print(f"\nwithout efficiency ratings, test FBS vs FBS: {acc:.1%}")
+
 # Ablation: the same pipeline with rosters switched off, to show what they add.
 plain = dict(params, W_TALENT=0, W_RET=0, W_REC=0)
 prow, _ = walk(plain)
@@ -147,5 +161,8 @@ with open("model.json", "w") as f:
                "trained_on": f"{TRAIN.start}-{VALID.stop - 1}"}, f, indent=2)
 os.makedirs("ratings", exist_ok=True)
 with open("ratings/2025.json", "w") as f:
-    json.dump({t: round(v, 1) for t, v in sorted(ends[2025].items(), key=lambda kv: -kv[1])}, f, indent=1)
-print("wrote model.json and ratings/2025.json")
+    json.dump({t: round(v, 1) for t, v in sorted(ends[2025][0].items(), key=lambda kv: -kv[1])}, f, indent=1)
+os.makedirs("efficiency", exist_ok=True)
+with open("efficiency/2025.json", "w") as f:
+    json.dump(ends[2025][1], f, indent=1)
+print("wrote model.json, ratings/2025.json and efficiency/2025.json")

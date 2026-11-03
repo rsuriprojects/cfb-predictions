@@ -9,11 +9,12 @@ Each run:
   3. Grades this season's logged games that have finished, into
      results/<season>.csv. Each season has its own file, so a new season
      starts at 0-0 and past seasons stay as they were.
-  4. Writes upcoming.json (the rest of the schedule, plus current ratings) and
-     ratings/<season>.json, which seeds next season.
+  4. Writes upcoming.json (the rest of the schedule, plus current ratings),
+     and ratings/<season>.json and efficiency/<season>.json, which seed next
+     season.
 
-API calls: 2 a day (games and lines). Roster data is fetched once per season
-and saved to data/roster_<season>.json. The key is read from CFBD_API_KEY.
+API calls: 3 a day (games, lines, per-game PPA), 4 in December and January.
+Roster data is fetched once per season and saved to data/roster_<season>.json. The key is read from CFBD_API_KEY.
 """
 import csv
 import json
@@ -86,12 +87,18 @@ def main():
     ros = model.roster(r["talent"], r["returning"], r["recruiting"], r["fbs"])
     games = fetch("games", "/games", seasonType="both", classification="fbs")
     lines = fetch("lines", "/lines", seasonType="both")
+    # Per-play efficiency for every finished game. Bowls only from December.
+    ppa = fetch("ppa", "/ppa/games", seasonType="regular", excludeGarbageTime="true")
+    if NOW.month in (12, 1):
+        ppa += fetch("ppa_post", "/ppa/games", seasonType="postseason", excludeGarbageTime="true")
+    last_eff = load_json(f"efficiency/{SEASON - 1}.json", {})
     print(f"{SEASON}: {len(games)} games, {sum(map(model.is_final, games))} final")
 
     # Pre-game state for every game, walking the season in order.
     rows = []
+    eff = {}
     elo = model.run_season(games, ros, r["fbs"], last, params, lines=lines,
-                           weights=weights, collect=rows)
+                           weights=weights, collect=rows, ppa=ppa, last_eff=last_eff, eff_out=eff)
     pre = {row["id"]: row for row in rows}
     by_id = {g["id"]: g for g in games}
 
@@ -223,6 +230,7 @@ def main():
     })
     save_json(f"ratings/{SEASON}.json", {t: round(v, 1) for t, v in
                                           sorted(elo.items(), key=lambda kv: -kv[1])})
+    save_json(f"efficiency/{SEASON}.json", eff)
     print(f"wrote {len(upcoming)} upcoming games; API calls this run: {cfbd.CALLS}")
 
 
