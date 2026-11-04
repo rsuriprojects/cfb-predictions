@@ -73,5 +73,20 @@
     "neutral": false,
     "p_home": 0.9229,
     "pick": "Toledo"
+  },
+  {
+    "id": 401866462,
+    "logged_at_utc": "2026-11-04T18:41:57.018192+00:00",
+    "game_date": "2026-11-11",
+    "kickoff_utc": "2026-11-12T00:30:00.000Z",
+    "season": 2026,
+    "week": 11,
+    "season_type": "regular",
+    "away": "Sacramento State",
+    "home": "Central Michigan",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.8147,
+    "pick": "Central Michigan"
   }
 ]

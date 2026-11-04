@@ -621,3 +621,5 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-10-31,2026,9,regular,Colorado State,Utah State,Utah State,0.6419,0.6419,14,31,Utah State,True,True,True,Utah State,0.7077,True
 2026-10-31,2026,9,regular,Virginia,Wake Forest,Wake Forest,0.8392,0.8392,7,51,Wake Forest,True,True,True,Wake Forest,0.8154,True
 2026-10-31,2026,9,regular,Bowling Green,Western Michigan,Western Michigan,0.9019,0.9019,10,23,Western Michigan,True,True,True,Western Michigan,0.8269,True
+2026-11-03,2026,10,regular,Ohio,Akron,Ohio,0.1375,0.8625,28,20,Ohio,True,True,False,Ohio,0.7914,True
+2026-11-03,2026,10,regular,Buffalo,Miami (OH),Miami (OH),0.5953,0.5953,34,31,Buffalo,False,True,False,Miami (OH),0.669,False

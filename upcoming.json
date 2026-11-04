@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-03T18:29:12.640931+00:00",
+ "generated_at_utc": "2026-11-04T18:42:01.585781+00:00",
  "season": 2026,
  "elo": {
   "Georgia": 1874.5,
@@ -74,6 +74,7 @@
   "Toledo": 1484.2,
   "Iowa State": 1480.9,
   "Virginia": 1478.5,
+  "Ohio": 1477.6,
   "Louisiana Tech": 1476.3,
   "Stanford": 1474.8,
   "UCF": 1474.6,
@@ -81,7 +82,6 @@
   "Tulane": 1473.1,
   "Georgia Tech": 1471.0,
   "California": 1469.0,
-  "Ohio": 1466.6,
   "Jacksonville State": 1463.6,
   "Rutgers": 1462.6,
   "Maryland": 1462.6,
@@ -98,15 +98,15 @@
   "App State": 1432.0,
   "Arkansas State": 1428.0,
   "South Alabama": 1420.4,
-  "Miami (OH)": 1419.1,
   "Tulsa": 1409.8,
   "Troy": 1408.9,
   "Western Kentucky": 1407.5,
   "Florida Atlantic": 1405.9,
+  "Miami (OH)": 1405.7,
   "Southern Miss": 1402.6,
+  "Buffalo": 1402.4,
   "UAB": 1397.7,
   "Utah State": 1395.1,
-  "Buffalo": 1388.9,
   "Eastern Michigan": 1388.7,
   "Delaware": 1387.6,
   "Washington State": 1386.3,
@@ -129,8 +129,8 @@
   "Ball State": 1315.4,
   "Kennesaw State": 1315.1,
   "Bowling Green": 1310.0,
-  "Akron": 1305.1,
   "Charlotte": 1296.9,
+  "Akron": 1294.0,
   "Army": 1288.2,
   "Massachusetts": 1283.7,
   "Sam Houston": 1282.9,
@@ -834,32 +834,6 @@
   ]
  },
  "games": [
-  {
-   "id": 401866453,
-   "game_date": "2026-11-03",
-   "kickoff_utc": "2026-11-04T00:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Ohio",
-   "home": "Akron",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.141,
-   "pick": "Ohio"
-  },
-  {
-   "id": 401866454,
-   "game_date": "2026-11-03",
-   "kickoff_utc": "2026-11-04T01:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Buffalo",
-   "home": "Miami (OH)",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.671,
-   "pick": "Miami (OH)"
-  },
   {
    "id": 401866455,
    "game_date": "2026-11-04",
@@ -1663,7 +1637,7 @@
    "home": "Akron",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1735,
+   "p_home": 0.1621,
    "pick": "Western Michigan"
   },
   {
@@ -1689,7 +1663,7 @@
    "home": "Miami (OH)",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3681,
+   "p_home": 0.3266,
    "pick": "Ohio"
   },
   {
@@ -1702,7 +1676,7 @@
    "home": "Ball State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4116,
+   "p_home": 0.3871,
    "pick": "Buffalo"
   },
   {
@@ -2534,7 +2508,7 @@
    "home": "Ohio",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9086,
+   "p_home": 0.9152,
    "pick": "Ohio"
   },
   {
@@ -2560,7 +2534,7 @@
    "home": "Kent State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.285,
+   "p_home": 0.3062,
    "pick": "Miami (OH)"
   },
   {
@@ -2573,7 +2547,7 @@
    "home": "Massachusetts",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.647,
+   "p_home": 0.6653,
    "pick": "Massachusetts"
   },
   {
@@ -2586,7 +2560,7 @@
    "home": "Buffalo",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6507,
+   "p_home": 0.6736,
    "pick": "Buffalo"
   },
   {
@@ -3444,7 +3418,7 @@
    "home": "Western Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7273,
+   "p_home": 0.7471,
    "pick": "Western Michigan"
   },
   {
@@ -3548,7 +3522,7 @@
    "home": "Akron",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.365,
+   "p_home": 0.3236,
    "pick": "Buffalo"
   },
   {
@@ -3561,7 +3535,7 @@
    "home": "Ohio",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5229,
+   "p_home": 0.5431,
    "pick": "Ohio"
   },
   {
