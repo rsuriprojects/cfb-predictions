@@ -623,3 +623,6 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-10-31,2026,9,regular,Bowling Green,Western Michigan,Western Michigan,0.9019,0.9019,10,23,Western Michigan,True,True,True,Western Michigan,0.8269,True
 2026-11-03,2026,10,regular,Ohio,Akron,Ohio,0.1375,0.8625,28,20,Ohio,True,True,False,Ohio,0.7914,True
 2026-11-03,2026,10,regular,Buffalo,Miami (OH),Miami (OH),0.5953,0.5953,34,31,Buffalo,False,True,False,Miami (OH),0.669,False
+2026-11-04,2026,10,regular,Central Michigan,Eastern Michigan,Central Michigan,0.4339,0.5661,35,7,Central Michigan,True,True,False,Eastern Michigan,0.5174,False
+2026-11-04,2026,10,regular,Ball State,Massachusetts,Massachusetts,0.5362,0.5362,30,31,Massachusetts,True,True,False,Massachusetts,0.6164,True
+2026-11-04,2026,10,regular,Toledo,Sacramento State,Toledo,0.0832,0.9168,20,17,Toledo,True,True,False,Toledo,0.9396,True

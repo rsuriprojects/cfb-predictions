@@ -641,7 +641,9 @@
     "fbs_both": false,
     "neutral": false,
     "p_home": 0.9889,
-    "pick": "Wake Forest"
+    "pick": "Wake Forest",
+    "fav": "Wake Forest",
+    "fav_prob": 0.9997
   },
   {
     "id": 401858514,
