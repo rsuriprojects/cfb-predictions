@@ -626,3 +626,5 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-04,2026,10,regular,Central Michigan,Eastern Michigan,Central Michigan,0.4339,0.5661,35,7,Central Michigan,True,True,False,Eastern Michigan,0.5174,False
 2026-11-04,2026,10,regular,Ball State,Massachusetts,Massachusetts,0.5362,0.5362,30,31,Massachusetts,True,True,False,Massachusetts,0.6164,True
 2026-11-04,2026,10,regular,Toledo,Sacramento State,Toledo,0.0832,0.9168,20,17,Toledo,True,True,False,Toledo,0.9396,True
+2026-11-05,2026,10,regular,UTSA,Florida Atlantic,UTSA,0.1895,0.8105,29,60,Florida Atlantic,False,True,False,UTSA,0.669,False
+2026-11-05,2026,10,regular,James Madison,Southern Miss,James Madison,0.1917,0.8083,54,23,James Madison,True,True,False,James Madison,0.8223,True
