@@ -628,3 +628,8 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-04,2026,10,regular,Toledo,Sacramento State,Toledo,0.0832,0.9168,20,17,Toledo,True,True,False,Toledo,0.9396,True
 2026-11-05,2026,10,regular,UTSA,Florida Atlantic,UTSA,0.1895,0.8105,29,60,Florida Atlantic,False,True,False,UTSA,0.669,False
 2026-11-05,2026,10,regular,James Madison,Southern Miss,James Madison,0.1917,0.8083,54,23,James Madison,True,True,False,James Madison,0.8223,True
+2026-11-06,2026,10,regular,TCU,Arizona,Arizona,0.7653,0.7653,28,29,Arizona,True,True,False,Arizona,0.7335,True
+2026-11-06,2026,10,regular,South Florida,East Carolina,South Florida,0.4354,0.5646,17,20,East Carolina,False,True,False,South Florida,0.5043,False
+2026-11-06,2026,10,regular,Nebraska,Illinois,Illinois,0.5904,0.5904,13,24,Illinois,True,True,False,Nebraska,0.6369,False
+2026-11-06,2026,10,regular,New Mexico,Nevada,New Mexico,0.1988,0.8012,31,3,New Mexico,True,True,False,New Mexico,0.7867,True
+2026-11-06,2026,10,regular,Virginia Tech,SMU,SMU,0.7085,0.7085,28,51,SMU,True,True,False,SMU,0.6575,True

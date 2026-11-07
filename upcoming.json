@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-06T18:06:04.219359+00:00",
+ "generated_at_utc": "2026-11-07T16:54:59.133066+00:00",
  "season": 2026,
  "elo": {
   "Georgia": 1874.5,
@@ -25,43 +25,43 @@
   "UCLA": 1670.3,
   "Clemson": 1666.0,
   "BYU": 1659.4,
+  "SMU": 1654.8,
   "Washington": 1641.7,
   "Kentucky": 1640.3,
-  "SMU": 1637.9,
   "Iowa": 1637.1,
   "Houston": 1628.3,
   "Wake Forest": 1624.5,
-  "Arizona": 1620.7,
+  "Arizona": 1623.9,
   "Louisville": 1611.3,
   "Northwestern": 1605.6,
   "Mississippi State": 1601.2,
   "Boise State": 1601.1,
   "Auburn": 1601.0,
-  "Virginia Tech": 1601.0,
   "Baylor": 1593.2,
-  "Nebraska": 1591.4,
+  "Virginia Tech": 1584.0,
+  "Illinois": 1580.2,
   "Wisconsin": 1579.0,
   "North Carolina": 1576.0,
   "Minnesota": 1575.7,
+  "Nebraska": 1574.4,
   "Penn State": 1574.0,
   "Florida State": 1565.7,
-  "Illinois": 1563.2,
   "Pittsburgh": 1559.5,
   "Duke": 1559.2,
   "NC State": 1551.3,
-  "TCU": 1549.7,
+  "TCU": 1546.5,
   "Kansas State": 1541.4,
   "James Madison": 1538.5,
   "UTSA": 1537.6,
   "Vanderbilt": 1532.0,
   "Arizona State": 1529.6,
-  "South Florida": 1515.5,
+  "New Mexico": 1523.8,
   "Arkansas": 1515.5,
   "Memphis": 1515.1,
   "Liberty": 1512.6,
   "Syracuse": 1510.5,
   "Fresno State": 1509.2,
-  "New Mexico": 1505.7,
+  "South Florida": 1504.4,
   "Oklahoma State": 1504.1,
   "West Virginia": 1501.8,
   "Texas State": 1499.3,
@@ -88,13 +88,13 @@
   "Michigan State": 1459.6,
   "Kansas": 1456.2,
   "Marshall": 1453.8,
+  "East Carolina": 1451.5,
   "North Texas": 1451.3,
   "Colorado": 1446.5,
   "North Dakota State": 1446.5,
   "Georgia Southern": 1445.5,
   "UConn": 1443.8,
   "Florida Atlantic": 1441.9,
-  "East Carolina": 1440.4,
   "San Diego State": 1434.6,
   "App State": 1432.0,
   "Arkansas State": 1428.0,
@@ -117,8 +117,8 @@
   "Coastal Carolina": 1369.4,
   "Hawai'i": 1365.8,
   "Eastern Michigan": 1362.2,
-  "Nevada": 1359.4,
   "Temple": 1357.9,
+  "Nevada": 1341.4,
   "Middle Tennessee": 1340.0,
   "San Jos\u00e9 State": 1339.0,
   "Kent State": 1331.5,
@@ -834,71 +834,6 @@
   ]
  },
  "games": [
-  {
-   "id": 401858288,
-   "game_date": "2026-11-06",
-   "kickoff_utc": "2026-11-07T00:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Virginia Tech",
-   "home": "SMU",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6771,
-   "pick": "SMU"
-  },
-  {
-   "id": 401862818,
-   "game_date": "2026-11-06",
-   "kickoff_utc": "2026-11-07T00:30:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "South Florida",
-   "home": "East Carolina",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5268,
-   "pick": "East Carolina"
-  },
-  {
-   "id": 401858510,
-   "game_date": "2026-11-06",
-   "kickoff_utc": "2026-11-07T01:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "Nebraska",
-   "home": "Illinois",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4122,
-   "pick": "Nebraska"
-  },
-  {
-   "id": 401864533,
-   "game_date": "2026-11-06",
-   "kickoff_utc": "2026-11-07T02:00:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "New Mexico",
-   "home": "Nevada",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.1858,
-   "pick": "New Mexico"
-  },
-  {
-   "id": 401856855,
-   "game_date": "2026-11-06",
-   "kickoff_utc": "2026-11-07T03:15:00.000Z",
-   "week": 10,
-   "season_type": "regular",
-   "away": "TCU",
-   "home": "Arizona",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7912,
-   "pick": "Arizona"
-  },
   {
    "id": 401856743,
    "game_date": "2026-11-07",
@@ -1650,7 +1585,7 @@
    "home": "South Florida",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5388,
+   "p_home": 0.5253,
    "pick": "South Florida"
   },
   {
@@ -1689,7 +1624,7 @@
    "home": "UCLA",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8713,
+   "p_home": 0.841,
    "pick": "UCLA"
   },
   {
@@ -1767,7 +1702,7 @@
    "home": "TCU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6703,
+   "p_home": 0.6693,
    "pick": "TCU"
   },
   {
@@ -1793,7 +1728,7 @@
    "home": "Arizona",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4086,
+   "p_home": 0.4096,
    "pick": "Utah"
   },
   {
@@ -1884,7 +1819,7 @@
    "home": "Virginia Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8699,
+   "p_home": 0.8469,
    "pick": "Virginia Tech"
   },
   {
@@ -1949,7 +1884,7 @@
    "home": "SMU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3782,
+   "p_home": 0.4237,
    "pick": "Wake Forest"
   },
   {
@@ -2014,7 +1949,7 @@
    "home": "Rutgers",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2034,
+   "p_home": 0.2464,
    "pick": "Nebraska"
   },
   {
@@ -2040,7 +1975,7 @@
    "home": "Charlotte",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1617,
+   "p_home": 0.1545,
    "pick": "East Carolina"
   },
   {
@@ -2196,7 +2131,7 @@
    "home": "Northern Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2541,
+   "p_home": 0.2962,
    "pick": "Nevada"
   },
   {
@@ -2352,7 +2287,7 @@
    "home": "New Mexico",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7673,
+   "p_home": 0.8029,
    "pick": "New Mexico"
   },
   {
@@ -2586,7 +2521,7 @@
    "home": "Wyoming",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2527,
+   "p_home": 0.2149,
    "pick": "New Mexico"
   },
   {
@@ -2677,7 +2612,7 @@
    "home": "Kansas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2666,
+   "p_home": 0.2658,
    "pick": "Arizona"
   },
   {
@@ -2755,7 +2690,7 @@
    "home": "TCU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2044,
+   "p_home": 0.2037,
    "pick": "Utah"
   },
   {
@@ -2768,7 +2703,7 @@
    "home": "Miami",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9021,
+   "p_home": 0.9176,
    "pick": "Miami"
   },
   {
@@ -2859,7 +2794,7 @@
    "home": "Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2764,
+   "p_home": 0.3284,
    "pick": "Iowa"
   },
   {
@@ -2898,7 +2833,7 @@
    "home": "Nebraska",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1895,
+   "p_home": 0.1544,
    "pick": "Ohio State"
   },
   {
@@ -2976,7 +2911,7 @@
    "home": "Florida Atlantic",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4714,
+   "p_home": 0.4849,
    "pick": "South Florida"
   },
   {
@@ -3015,7 +2950,7 @@
    "home": "Nevada",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5583,
+   "p_home": 0.5056,
    "pick": "Nevada"
   },
   {
@@ -3119,7 +3054,7 @@
    "home": "Army",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4174,
+   "p_home": 0.4043,
    "pick": "East Carolina"
   },
   {
@@ -3301,7 +3236,7 @@
    "home": "Notre Dame",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9,
+   "p_home": 0.8816,
    "pick": "Notre Dame"
   },
   {
@@ -3379,7 +3314,7 @@
    "home": "Texas Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8166,
+   "p_home": 0.8172,
    "pick": "Texas Tech"
   },
   {
@@ -3392,7 +3327,7 @@
    "home": "East Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6376,
+   "p_home": 0.65,
    "pick": "East Carolina"
   },
   {
@@ -3418,7 +3353,7 @@
    "home": "South Florida",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6821,
+   "p_home": 0.6702,
    "pick": "South Florida"
   },
   {
@@ -3457,7 +3392,7 @@
    "home": "Iowa",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7213,
+   "p_home": 0.7682,
    "pick": "Iowa"
   },
   {
@@ -3535,7 +3470,7 @@
    "home": "New Mexico",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8202,
+   "p_home": 0.8493,
    "pick": "New Mexico"
   },
   {
@@ -3678,7 +3613,7 @@
    "home": "Arizona",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8428,
+   "p_home": 0.8434,
    "pick": "Arizona"
   },
   {
@@ -3821,7 +3756,7 @@
    "home": "Stanford",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1665,
+   "p_home": 0.1418,
    "pick": "SMU"
   },
   {
@@ -3834,7 +3769,7 @@
    "home": "Virginia Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7935,
+   "p_home": 0.7607,
    "pick": "Virginia Tech"
   },
   {
@@ -3847,7 +3782,7 @@
    "home": "Northwestern",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8087,
+   "p_home": 0.7676,
    "pick": "Northwestern"
   },
   {
@@ -4172,7 +4107,7 @@
    "home": "UNLV",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7882,
+   "p_home": 0.8214,
    "pick": "UNLV"
   },
   {
