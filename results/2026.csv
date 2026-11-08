@@ -633,3 +633,54 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-06,2026,10,regular,Nebraska,Illinois,Illinois,0.5904,0.5904,13,24,Illinois,True,True,False,Nebraska,0.6369,False
 2026-11-06,2026,10,regular,New Mexico,Nevada,New Mexico,0.1988,0.8012,31,3,New Mexico,True,True,False,New Mexico,0.7867,True
 2026-11-06,2026,10,regular,Virginia Tech,SMU,SMU,0.7085,0.7085,28,51,SMU,True,True,False,SMU,0.6575,True
+2026-11-07,2026,10,regular,Georgia State,App State,App State,0.6807,0.6807,39,23,Georgia State,False,True,False,App State,0.5934,False
+2026-11-07,2026,10,regular,Colorado,Arizona State,Arizona State,0.7995,0.7995,10,20,Arizona State,True,True,False,Arizona State,0.6038,True
+2026-11-07,2026,10,regular,UL Monroe,Arkansas State,Arkansas State,0.8802,0.8802,19,17,UL Monroe,False,True,False,Arkansas State,0.8371,False
+2026-11-07,2026,10,regular,Air Force,Army,Army,0.5314,0.5314,24,21,Air Force,False,True,False,Army,0.6447,False
+2026-11-07,2026,10,regular,Arkansas,Auburn,Auburn,0.7238,0.7238,23,26,Auburn,True,True,False,Auburn,0.76,True
+2026-11-07,2026,10,regular,Iowa State,Baylor,Baylor,0.7611,0.7611,31,42,Baylor,True,True,False,Baylor,0.7409,True
+2026-11-07,2026,10,regular,Florida State,Boston College,Boston College,0.5,0.5,31,24,Florida State,False,True,False,Florida State,0.675,True
+2026-11-07,2026,10,regular,Old Dominion,Coastal Carolina,Coastal Carolina,0.6587,0.6587,21,8,Old Dominion,False,True,False,Coastal Carolina,0.6575,False
+2026-11-07,2026,10,regular,Boise State,Colorado State,Boise State,0.0829,0.9171,64,38,Boise State,True,True,False,Boise State,0.887,True
+2026-11-07,2026,10,regular,Oklahoma,Florida,Florida,0.5617,0.5617,23,7,Oklahoma,False,True,False,Florida,0.6038,False
+2026-11-07,2026,10,regular,Missouri State,Florida International,Florida International,0.6789,0.6789,20,23,Florida International,True,True,False,Florida International,0.6369,True
+2026-11-07,2026,10,regular,Marshall,Georgia Southern,Georgia Southern,0.5645,0.5645,13,49,Georgia Southern,True,True,False,Georgia Southern,0.7258,True
+2026-11-07,2026,10,regular,Louisville,Georgia Tech,Louisville,0.1922,0.8078,44,17,Louisville,True,True,False,Louisville,0.8223,True
+2026-11-07,2026,10,regular,Cincinnati,Houston,Houston,0.8058,0.8058,24,31,Houston,True,True,False,Houston,0.7715,True
+2026-11-07,2026,10,regular,Sam Houston,Jacksonville State,Jacksonville State,0.9206,0.9206,14,47,Jacksonville State,True,True,False,Jacksonville State,0.8271,True
+2026-11-07,2026,10,regular,UCF,Kansas,Kansas,0.5235,0.5235,33,32,UCF,False,True,False,Kansas,0.5514,False
+2026-11-07,2026,10,regular,Oklahoma State,Kansas State,Kansas State,0.6254,0.6254,66,28,Oklahoma State,False,True,False,Oklahoma State,0.6309,True
+2026-11-07,2026,10,regular,Delaware,Kennesaw State,Delaware,0.4068,0.5932,40,42,Kennesaw State,False,True,False,Delaware,0.5721,False
+2026-11-07,2026,10,regular,Alabama,LSU,LSU,0.5249,0.5249,31,13,Alabama,False,True,False,LSU,0.6092,False
+2026-11-07,2026,10,regular,South Alabama,Louisiana,Louisiana,0.7373,0.7373,26,28,Louisiana,True,True,False,Louisiana,0.6092,True
+2026-11-07,2026,10,regular,Michigan State,Michigan,Michigan,0.9158,0.9158,15,6,Michigan State,False,True,False,Michigan,0.84,False
+2026-11-07,2026,10,regular,Western Kentucky,Middle Tennessee,Western Kentucky,0.4321,0.5679,42,51,Middle Tennessee,False,True,False,Middle Tennessee,0.5174,True
+2026-11-07,2026,10,regular,UCLA,Minnesota,UCLA,0.3599,0.6401,34,20,UCLA,True,True,False,UCLA,0.675,True
+2026-11-07,2026,10,regular,Vanderbilt,Mississippi State,Mississippi State,0.6534,0.6534,25,23,Vanderbilt,False,True,False,Mississippi State,0.5721,False
+2026-11-07,2026,10,regular,Texas,Missouri,Texas,0.3783,0.6217,34,20,Texas,True,True,False,Texas,0.6038,True
+2026-11-07,2026,10,regular,Duke,NC State,Duke,0.4201,0.5799,41,3,Duke,True,True,False,Duke,0.6636,True
+2026-11-07,2026,10,regular,Temple,Navy,Navy,0.6616,0.6616,35,42,Navy,True,True,False,Navy,0.7258,True
+2026-11-07,2026,10,regular,Liberty,New Mexico State,Liberty,0.161,0.839,30,14,Liberty,True,True,False,Liberty,0.8,True
+2026-11-07,2026,10,regular,Rice,North Texas,North Texas,0.9004,0.9004,23,52,North Texas,True,True,False,North Texas,0.8677,True
+2026-11-07,2026,10,regular,Iowa,Northwestern,Iowa,0.4641,0.5359,24,10,Iowa,True,True,False,Northwestern,0.5514,False
+2026-11-07,2026,10,regular,Miami,Notre Dame,Notre Dame,0.5277,0.5277,24,31,Notre Dame,True,True,False,Notre Dame,0.5996,True
+2026-11-07,2026,10,regular,Oregon,Ohio State,Ohio State,0.7342,0.7342,41,28,Oregon,False,True,False,Ohio State,0.8173,False
+2026-11-07,2026,10,regular,Georgia,Ole Miss,Georgia,0.3913,0.6087,42,7,Georgia,True,True,False,Georgia,0.583,True
+2026-11-07,2026,10,regular,Texas State,Oregon State,Oregon State,0.5796,0.5796,42,21,Texas State,False,True,False,Oregon State,0.7136,False
+2026-11-07,2026,10,regular,Maryland,Purdue,Purdue,0.694,0.694,34,29,Maryland,False,True,False,Purdue,0.6575,False
+2026-11-07,2026,10,regular,Northern Illinois,San José State,San José State,0.7956,0.7956,19,30,San José State,True,True,False,San José State,0.7661,True
+2026-11-07,2026,10,regular,Texas A&M,South Carolina,South Carolina,0.669,0.669,9,17,South Carolina,True,True,False,South Carolina,0.6908,True
+2026-11-07,2026,10,regular,Clemson,Syracuse,Clemson,0.2547,0.7453,18,13,Clemson,True,True,False,Clemson,0.5108,True
+2026-11-07,2026,10,regular,Kentucky,Tennessee,Tennessee,0.7348,0.7348,6,34,Tennessee,True,True,False,Tennessee,0.6369,True
+2026-11-07,2026,10,regular,West Virginia,Texas Tech,Texas Tech,0.8926,0.8926,48,53,Texas Tech,True,True,False,Texas Tech,0.8316,True
+2026-11-07,2026,10,regular,Louisiana Tech,Troy,Louisiana Tech,0.3382,0.6618,41,17,Louisiana Tech,True,True,False,Louisiana Tech,0.6575,True
+2026-11-07,2026,10,regular,Tulsa,Tulane,Tulane,0.7623,0.7623,60,10,Tulsa,False,True,False,Tulsa,0.5635,True
+2026-11-07,2026,10,regular,Charlotte,UAB,UAB,0.8115,0.8115,12,23,UAB,True,True,False,UAB,0.7715,True
+2026-11-07,2026,10,regular,North Carolina,UConn,North Carolina,0.3717,0.6283,38,21,North Carolina,True,True,False,North Carolina,0.7335,True
+2026-11-07,2026,10,regular,Wyoming,UNLV,UNLV,0.7284,0.7284,41,35,Wyoming,False,True,False,UNLV,0.7095,False
+2026-11-07,2026,10,regular,Hawai'i,UTEP,Hawai'i,0.2562,0.7438,17,14,Hawai'i,True,True,False,Hawai'i,0.7659,True
+2026-11-07,2026,10,regular,BYU,Utah,Utah,0.673,0.673,20,28,Utah,True,True,False,Utah,0.6092,True
+2026-11-07,2026,10,regular,Fresno State,Utah State,Fresno State,0.3586,0.6414,10,17,Utah State,False,True,False,Fresno State,0.5325,False
+2026-11-07,2026,10,regular,Merrimack,Wake Forest,Wake Forest,0.9889,0.9889,0,77,Wake Forest,True,False,False,Wake Forest,0.9997,True
+2026-11-07,2026,10,regular,Penn State,Washington,Washington,0.7098,0.7098,28,25,Penn State,False,True,False,Washington,0.5261,False
+2026-11-07,2026,10,regular,Rutgers,Wisconsin,Wisconsin,0.8302,0.8302,10,31,Wisconsin,True,True,False,Wisconsin,0.8465,True
