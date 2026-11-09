@@ -998,7 +998,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.738,
-    "pick": "Air Force"
+    "pick": "Air Force",
+    "fav": "Air Force",
+    "fav_prob": 0.7889
   },
   {
     "id": 401871100,
@@ -1132,6 +1134,8 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.2855,
-    "pick": "North Dakota State"
+    "pick": "North Dakota State",
+    "fav": "North Dakota State",
+    "fav_prob": 0.6823
   }
 ]

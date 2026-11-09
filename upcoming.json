@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-08T17:07:47.314342+00:00",
+ "generated_at_utc": "2026-11-09T21:29:32.740110+00:00",
  "season": 2026,
  "elo": {
   "Georgia": 1895.7,
@@ -978,35 +978,9 @@
    "pick": "Houston"
   },
   {
-   "id": 401856857,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Arizona State",
-   "home": "UCF",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4439,
-   "pick": "Arizona State"
-  },
-  {
-   "id": 401856858,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Baylor",
-   "home": "BYU",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7058,
-   "pick": "BYU"
-  },
-  {
    "id": 401856859,
    "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
+   "kickoff_utc": "2026-11-14T17:00:00.000Z",
    "week": 11,
    "season_type": "regular",
    "away": "Cincinnati",
@@ -1015,149 +989,6 @@
    "neutral": false,
    "p_home": 0.5428,
    "pick": "Iowa State"
-  },
-  {
-   "id": 401856861,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Kansas",
-   "home": "West Virginia",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.597,
-   "pick": "West Virginia"
-  },
-  {
-   "id": 401856862,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Kansas State",
-   "home": "TCU",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7851,
-   "pick": "TCU"
-  },
-  {
-   "id": 401856863,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Texas Tech",
-   "home": "Oklahoma State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3731,
-   "pick": "Texas Tech"
-  },
-  {
-   "id": 401856864,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Utah",
-   "home": "Arizona",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.396,
-   "pick": "Utah"
-  },
-  {
-   "id": 401856883,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Missouri",
-   "home": "Georgia",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8948,
-   "pick": "Georgia"
-  },
-  {
-   "id": 401856884,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Florida",
-   "home": "Kentucky",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5852,
-   "pick": "Kentucky"
-  },
-  {
-   "id": 401856885,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Texas",
-   "home": "LSU",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5042,
-   "pick": "LSU"
-  },
-  {
-   "id": 401856887,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Ole Miss",
-   "home": "Oklahoma",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5354,
-   "pick": "Oklahoma"
-  },
-  {
-   "id": 401856888,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Tennessee",
-   "home": "Texas A&M",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3267,
-   "pick": "Tennessee"
-  },
-  {
-   "id": 401858298,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Louisville",
-   "home": "North Carolina",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4077,
-   "pick": "Louisville"
-  },
-  {
-   "id": 401858299,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T05:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Stanford",
-   "home": "Virginia Tech",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8463,
-   "pick": "Virginia Tech"
   },
   {
    "id": 401856886,
@@ -1329,6 +1160,19 @@
    "pick": "Arkansas State"
   },
   {
+   "id": 401856862,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T19:00:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Kansas State",
+   "home": "TCU",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.7851,
+   "pick": "TCU"
+  },
+  {
    "id": 401862828,
    "game_date": "2026-11-14",
    "kickoff_utc": "2026-11-14T19:00:00.000Z",
@@ -1355,6 +1199,19 @@
    "pick": "Kennesaw State"
   },
   {
+   "id": 401856888,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T20:00:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Tennessee",
+   "home": "Texas A&M",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.3267,
+   "pick": "Tennessee"
+  },
+  {
    "id": 401870796,
    "game_date": "2026-11-14",
    "kickoff_utc": "2026-11-14T20:00:00.000Z",
@@ -1379,6 +1236,45 @@
    "neutral": false,
    "p_home": 0.6862,
    "pick": "Delaware"
+  },
+  {
+   "id": 401856857,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T20:30:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Arizona State",
+   "home": "UCF",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.4439,
+   "pick": "Arizona State"
+  },
+  {
+   "id": 401856858,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T20:30:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Baylor",
+   "home": "BYU",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.7058,
+   "pick": "BYU"
+  },
+  {
+   "id": 401856883,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T20:30:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Missouri",
+   "home": "Georgia",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.8948,
+   "pick": "Georgia"
   },
   {
    "id": 401858294,
@@ -1511,6 +1407,19 @@
    "pick": "Texas State"
   },
   {
+   "id": 401856887,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T21:15:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Ole Miss",
+   "home": "Oklahoma",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.5354,
+   "pick": "Oklahoma"
+  },
+  {
    "id": 401858521,
    "game_date": "2026-11-14",
    "kickoff_utc": "2026-11-14T21:15:00.000Z",
@@ -1537,6 +1446,19 @@
    "pick": "Louisiana Tech"
   },
   {
+   "id": 401856861,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T22:30:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Kansas",
+   "home": "West Virginia",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.597,
+   "pick": "West Virginia"
+  },
+  {
    "id": 401860914,
    "game_date": "2026-11-14",
    "kickoff_utc": "2026-11-14T23:00:00.000Z",
@@ -1561,6 +1483,32 @@
    "neutral": false,
    "p_home": 0.5901,
    "pick": "Marshall"
+  },
+  {
+   "id": 401856884,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-14T23:15:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Florida",
+   "home": "Kentucky",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.5852,
+   "pick": "Kentucky"
+  },
+  {
+   "id": 401858298,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-15T00:00:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Louisville",
+   "home": "North Carolina",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.4077,
+   "pick": "Louisville"
   },
   {
    "id": 401858524,
@@ -1600,6 +1548,45 @@
    "neutral": false,
    "p_home": 0.6364,
    "pick": "South Alabama"
+  },
+  {
+   "id": 401856864,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-15T00:30:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Utah",
+   "home": "Arizona",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.396,
+   "pick": "Utah"
+  },
+  {
+   "id": 401856885,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-15T00:30:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Texas",
+   "home": "LSU",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.5042,
+   "pick": "LSU"
+  },
+  {
+   "id": 401858299,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-15T00:30:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Stanford",
+   "home": "Virginia Tech",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.8463,
+   "pick": "Virginia Tech"
   },
   {
    "id": 401858519,
@@ -1652,6 +1639,19 @@
    "neutral": false,
    "p_home": 0.5329,
    "pick": "UTSA"
+  },
+  {
+   "id": 401856863,
+   "game_date": "2026-11-14",
+   "kickoff_utc": "2026-11-15T02:30:00.000Z",
+   "week": 11,
+   "season_type": "regular",
+   "away": "Texas Tech",
+   "home": "Oklahoma State",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.3731,
+   "pick": "Texas Tech"
   },
   {
    "id": 401860915,
