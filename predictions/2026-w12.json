@@ -1,0 +1,47 @@
+[
+  {
+    "id": 401866464,
+    "logged_at_utc": "2026-11-10T18:42:36.548100+00:00",
+    "game_date": "2026-11-17",
+    "kickoff_utc": "2026-11-18T00:00:00.000Z",
+    "season": 2026,
+    "week": 12,
+    "season_type": "regular",
+    "away": "Ball State",
+    "home": "Ohio",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.9215,
+    "pick": "Ohio"
+  },
+  {
+    "id": 401866465,
+    "logged_at_utc": "2026-11-10T18:42:36.548100+00:00",
+    "game_date": "2026-11-17",
+    "kickoff_utc": "2026-11-18T00:00:00.000Z",
+    "season": 2026,
+    "week": 12,
+    "season_type": "regular",
+    "away": "Eastern Michigan",
+    "home": "Western Michigan",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.8795,
+    "pick": "Western Michigan"
+  },
+  {
+    "id": 401866466,
+    "logged_at_utc": "2026-11-10T18:42:36.548100+00:00",
+    "game_date": "2026-11-17",
+    "kickoff_utc": "2026-11-18T00:00:00.000Z",
+    "season": 2026,
+    "week": 12,
+    "season_type": "regular",
+    "away": "Miami (OH)",
+    "home": "Kent State",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.3062,
+    "pick": "Miami (OH)"
+  }
+]
