@@ -43,5 +43,35 @@
     "neutral": false,
     "p_home": 0.3062,
     "pick": "Miami (OH)"
+  },
+  {
+    "id": 401866467,
+    "logged_at_utc": "2026-11-11T18:44:52.531378+00:00",
+    "game_date": "2026-11-18",
+    "kickoff_utc": "2026-11-19T00:00:00.000Z",
+    "season": 2026,
+    "week": 12,
+    "season_type": "regular",
+    "away": "Akron",
+    "home": "Massachusetts",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.7155,
+    "pick": "Massachusetts"
+  },
+  {
+    "id": 401866469,
+    "logged_at_utc": "2026-11-11T18:44:52.531378+00:00",
+    "game_date": "2026-11-18",
+    "kickoff_utc": "2026-11-19T00:30:00.000Z",
+    "season": 2026,
+    "week": 12,
+    "season_type": "regular",
+    "away": "Central Michigan",
+    "home": "Buffalo",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.5613,
+    "pick": "Buffalo"
   }
 ]

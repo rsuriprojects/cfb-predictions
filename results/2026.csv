@@ -684,3 +684,6 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-07,2026,10,regular,Merrimack,Wake Forest,Wake Forest,0.9889,0.9889,0,77,Wake Forest,True,False,False,Wake Forest,0.9997,True
 2026-11-07,2026,10,regular,Penn State,Washington,Washington,0.7098,0.7098,28,25,Penn State,False,True,False,Washington,0.5261,False
 2026-11-07,2026,10,regular,Rutgers,Wisconsin,Wisconsin,0.8302,0.8302,10,31,Wisconsin,True,True,False,Wisconsin,0.8465,True
+2026-11-10,2026,11,regular,Western Michigan,Akron,Western Michigan,0.1735,0.8265,42,14,Western Michigan,True,True,False,Western Michigan,0.8223,True
+2026-11-10,2026,11,regular,Kent State,Bowling Green,Bowling Green,0.6133,0.6133,28,33,Bowling Green,True,True,False,Bowling Green,0.6447,True
+2026-11-10,2026,11,regular,Ohio,Miami (OH),Ohio,0.3681,0.6319,17,34,Miami (OH),False,True,False,Miami (OH),0.5174,True
