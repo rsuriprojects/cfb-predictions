@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-11T18:44:56.759114+00:00",
+ "generated_at_utc": "2026-11-12T18:59:31.122014+00:00",
  "season": 2026,
  "elo": {
   "Georgia": 1895.7,
@@ -65,11 +65,11 @@
   "South Florida": 1504.4,
   "Syracuse": 1501.3,
   "Louisiana Tech": 1499.4,
+  "Toledo": 1497.3,
   "West Virginia": 1496.7,
   "Louisiana": 1496.4,
   "Michigan State": 1493.9,
   "Fresno State": 1490.5,
-  "Toledo": 1489.2,
   "Cincinnati": 1487.5,
   "UCF": 1480.5,
   "Maryland": 1479.7,
@@ -98,15 +98,15 @@
   "Marshall": 1430.8,
   "Miami (OH)": 1428.6,
   "UConn": 1427.5,
+  "Buffalo": 1422.8,
   "South Alabama": 1415.3,
   "Utah State": 1413.9,
   "Arkansas State": 1413.7,
   "Georgia State": 1413.3,
+  "Central Michigan": 1410.0,
   "UAB": 1407.8,
   "App State": 1403.3,
-  "Buffalo": 1402.4,
   "Wyoming": 1401.5,
-  "Central Michigan": 1400.3,
   "Florida International": 1393.0,
   "Western Kentucky": 1389.5,
   "Washington State": 1386.3,
@@ -128,16 +128,16 @@
   "Bowling Green": 1322.0,
   "Kent State": 1319.6,
   "Rice": 1313.2,
-  "Ball State": 1310.6,
-  "Massachusetts": 1288.5,
+  "Ball State": 1290.2,
   "Charlotte": 1286.8,
+  "Massachusetts": 1280.5,
   "Akron": 1279.9,
   "Army": 1277.1,
   "UL Monroe": 1276.0,
   "Sam Houston": 1273.2,
   "New Mexico State": 1269.5,
   "UTEP": 1254.4,
-  "Sacramento State": 1244.0,
+  "Sacramento State": 1234.3,
   "Northern Illinois": 1233.5,
   "Navy": 1220.7
  },
@@ -834,45 +834,6 @@
   ]
  },
  "games": [
-  {
-   "id": 401866461,
-   "game_date": "2026-11-11",
-   "kickoff_utc": "2026-11-12T00:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Buffalo",
-   "home": "Ball State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3663,
-   "pick": "Buffalo"
-  },
-  {
-   "id": 401866462,
-   "game_date": "2026-11-11",
-   "kickoff_utc": "2026-11-12T00:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Sacramento State",
-   "home": "Central Michigan",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8679,
-   "pick": "Central Michigan"
-  },
-  {
-   "id": 401866463,
-   "game_date": "2026-11-11",
-   "kickoff_utc": "2026-11-12T00:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Massachusetts",
-   "home": "Toledo",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.9104,
-   "pick": "Toledo"
-  },
   {
    "id": 401862824,
    "game_date": "2026-11-12",
@@ -1667,6 +1628,19 @@
    "pick": "North Dakota State"
   },
   {
+   "id": 401866465,
+   "game_date": "2026-11-17",
+   "kickoff_utc": "2026-11-17T23:00:00.000Z",
+   "week": 12,
+   "season_type": "regular",
+   "away": "Eastern Michigan",
+   "home": "Western Michigan",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.8946,
+   "pick": "Western Michigan"
+  },
+  {
    "id": 401866464,
    "game_date": "2026-11-17",
    "kickoff_utc": "2026-11-18T00:00:00.000Z",
@@ -1676,21 +1650,8 @@
    "home": "Ohio",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9001,
+   "p_home": 0.9167,
    "pick": "Ohio"
-  },
-  {
-   "id": 401866465,
-   "game_date": "2026-11-17",
-   "kickoff_utc": "2026-11-18T00:00:00.000Z",
-   "week": 12,
-   "season_type": "regular",
-   "away": "Eastern Michigan",
-   "home": "Western Michigan",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8946,
-   "pick": "Western Michigan"
   },
   {
    "id": 401866466,
@@ -1715,7 +1676,7 @@
    "home": "Massachusetts",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7155,
+   "p_home": 0.6683,
    "pick": "Massachusetts"
   },
   {
@@ -1728,7 +1689,7 @@
    "home": "Buffalo",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5613,
+   "p_home": 0.5743,
    "pick": "Buffalo"
   },
   {
@@ -1780,7 +1741,7 @@
    "home": "Toledo",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.921,
+   "p_home": 0.9357,
    "pick": "Toledo"
   },
   {
@@ -2616,19 +2577,6 @@
    "pick": "Texas Tech"
   },
   {
-   "id": 401862837,
-   "game_date": "2026-11-27",
-   "kickoff_utc": "2026-11-27T05:00:00.000Z",
-   "week": 13,
-   "season_type": "regular",
-   "away": "Florida Atlantic",
-   "home": "East Carolina",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6459,
-   "pick": "East Carolina"
-  },
-  {
    "id": 401862838,
    "game_date": "2026-11-27",
    "kickoff_utc": "2026-11-27T05:00:00.000Z",
@@ -2640,19 +2588,6 @@
    "neutral": false,
    "p_home": 0.8774,
    "pick": "Memphis"
-  },
-  {
-   "id": 401862839,
-   "game_date": "2026-11-27",
-   "kickoff_utc": "2026-11-27T05:00:00.000Z",
-   "week": 13,
-   "season_type": "regular",
-   "away": "Tulane",
-   "home": "South Florida",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8085,
-   "pick": "South Florida"
   },
   {
    "id": 401862840,
@@ -2703,7 +2638,7 @@
    "home": "Akron",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2924,
+   "p_home": 0.2528,
    "pick": "Buffalo"
   },
   {
@@ -2716,7 +2651,7 @@
    "home": "Ohio",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4951,
+   "p_home": 0.44,
    "pick": "Toledo"
   },
   {
@@ -3162,6 +3097,32 @@
    "pick": "Wyoming"
   },
   {
+   "id": 401862837,
+   "game_date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T05:00:00.000Z",
+   "week": 13,
+   "season_type": "regular",
+   "away": "Florida Atlantic",
+   "home": "East Carolina",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.6459,
+   "pick": "East Carolina"
+  },
+  {
+   "id": 401862839,
+   "game_date": "2026-11-28",
+   "kickoff_utc": "2026-11-28T05:00:00.000Z",
+   "week": 13,
+   "season_type": "regular",
+   "away": "Tulane",
+   "home": "South Florida",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.8085,
+   "pick": "South Florida"
+  },
+  {
    "id": 401862841,
    "game_date": "2026-11-28",
    "kickoff_utc": "2026-11-28T05:00:00.000Z",
@@ -3301,7 +3262,7 @@
    "home": "Ball State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3442,
+   "p_home": 0.2706,
    "pick": "Central Michigan"
   },
   {
@@ -3314,7 +3275,7 @@
    "home": "Bowling Green",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5512,
+   "p_home": 0.6052,
    "pick": "Bowling Green"
   },
   {
@@ -3418,7 +3379,7 @@
    "home": "Hawai'i",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8263,
+   "p_home": 0.8464,
    "pick": "Hawai'i"
   },
   {

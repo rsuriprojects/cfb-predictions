@@ -73,5 +73,20 @@
     "neutral": false,
     "p_home": 0.5613,
     "pick": "Buffalo"
+  },
+  {
+    "id": 401862830,
+    "logged_at_utc": "2026-11-12T18:59:26.464439+00:00",
+    "game_date": "2026-11-19",
+    "kickoff_utc": "2026-11-20T00:30:00.000Z",
+    "season": 2026,
+    "week": 12,
+    "season_type": "regular",
+    "away": "Rice",
+    "home": "Temple",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.6586,
+    "pick": "Temple"
   }
 ]
