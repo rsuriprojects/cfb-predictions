@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-12T18:59:31.122014+00:00",
+ "generated_at_utc": "2026-11-13T18:35:58.849893+00:00",
  "season": 2026,
  "elo": {
   "Georgia": 1895.7,
@@ -54,23 +54,23 @@
   "Arizona State": 1540.2,
   "James Madison": 1538.5,
   "UTSA": 1537.6,
+  "Memphis": 1536.5,
   "Texas State": 1526.6,
   "New Mexico": 1523.8,
   "Liberty": 1523.0,
   "NC State": 1519.4,
-  "Memphis": 1515.1,
   "Western Michigan": 1511.0,
   "Arkansas": 1509.5,
+  "Louisiana": 1508.4,
   "Kansas State": 1505.3,
-  "South Florida": 1504.4,
   "Syracuse": 1501.3,
   "Louisiana Tech": 1499.4,
   "Toledo": 1497.3,
   "West Virginia": 1496.7,
-  "Louisiana": 1496.4,
   "Michigan State": 1493.9,
   "Fresno State": 1490.5,
   "Cincinnati": 1487.5,
+  "South Florida": 1483.0,
   "UCF": 1480.5,
   "Maryland": 1479.7,
   "Virginia": 1478.5,
@@ -133,9 +133,9 @@
   "Massachusetts": 1280.5,
   "Akron": 1279.9,
   "Army": 1277.1,
-  "UL Monroe": 1276.0,
   "Sam Houston": 1273.2,
   "New Mexico State": 1269.5,
+  "UL Monroe": 1264.0,
   "UTEP": 1254.4,
   "Sacramento State": 1234.3,
   "Northern Illinois": 1233.5,
@@ -834,32 +834,6 @@
   ]
  },
  "games": [
-  {
-   "id": 401862824,
-   "game_date": "2026-11-12",
-   "kickoff_utc": "2026-11-13T01:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Memphis",
-   "home": "South Florida",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5253,
-   "pick": "South Florida"
-  },
-  {
-   "id": 401869969,
-   "game_date": "2026-11-12",
-   "kickoff_utc": "2026-11-13T02:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Louisiana",
-   "home": "UL Monroe",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.1451,
-   "pick": "Louisiana"
-  },
   {
    "id": 401858293,
    "game_date": "2026-11-13",
@@ -2066,7 +2040,7 @@
    "home": "Navy",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2834,
+   "p_home": 0.2269,
    "pick": "Memphis"
   },
   {
@@ -2183,8 +2157,8 @@
    "home": "Florida Atlantic",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4894,
-   "pick": "South Florida"
+   "p_home": 0.5637,
+   "pick": "Florida Atlantic"
   },
   {
    "id": 401869929,
@@ -2196,7 +2170,7 @@
    "home": "App State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8047,
+   "p_home": 0.8351,
    "pick": "App State"
   },
   {
@@ -2209,7 +2183,7 @@
    "home": "Louisiana",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8662,
+   "p_home": 0.8884,
    "pick": "Louisiana"
   },
   {
@@ -2586,7 +2560,7 @@
    "home": "Memphis",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8774,
+   "p_home": 0.9061,
    "pick": "Memphis"
   },
   {
@@ -3119,7 +3093,7 @@
    "home": "South Florida",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8085,
+   "p_home": 0.758,
    "pick": "South Florida"
   },
   {
@@ -3210,7 +3184,7 @@
    "home": "Georgia State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4436,
+   "p_home": 0.3934,
    "pick": "Louisiana"
   },
   {
@@ -3223,7 +3197,7 @@
    "home": "UL Monroe",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3207,
+   "p_home": 0.2775,
    "pick": "Marshall"
   },
   {

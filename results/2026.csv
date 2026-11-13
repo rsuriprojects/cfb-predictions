@@ -690,3 +690,5 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-11,2026,11,regular,Buffalo,Ball State,Buffalo,0.4116,0.5884,28,7,Buffalo,True,True,False,Buffalo,0.5635,True
 2026-11-11,2026,11,regular,Sacramento State,Central Michigan,Central Michigan,0.8147,0.8147,7,28,Central Michigan,True,True,False,Central Michigan,0.8465,True
 2026-11-11,2026,11,regular,Massachusetts,Toledo,Toledo,0.9229,0.9229,0,24,Toledo,True,True,False,Toledo,0.8173,True
+2026-11-12,2026,11,regular,Memphis,South Florida,South Florida,0.5388,0.5388,52,41,Memphis,False,True,False,Memphis,0.6854,True
+2026-11-12,2026,11,regular,Louisiana,UL Monroe,Louisiana,0.1134,0.8866,42,21,Louisiana,True,True,False,Louisiana,0.7867,True
