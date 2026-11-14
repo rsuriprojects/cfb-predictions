@@ -692,3 +692,6 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-11,2026,11,regular,Massachusetts,Toledo,Toledo,0.9229,0.9229,0,24,Toledo,True,True,False,Toledo,0.8173,True
 2026-11-12,2026,11,regular,Memphis,South Florida,South Florida,0.5388,0.5388,52,41,Memphis,False,True,False,Memphis,0.6854,True
 2026-11-12,2026,11,regular,Louisiana,UL Monroe,Louisiana,0.1134,0.8866,42,21,Louisiana,True,True,False,Louisiana,0.7867,True
+2026-11-13,2026,11,regular,Houston,Colorado,Houston,0.1992,0.8008,32,42,Colorado,False,True,False,Houston,0.7715,False
+2026-11-13,2026,11,regular,Florida State,Pittsburgh,Pittsburgh,0.6929,0.6929,16,10,Florida State,False,True,False,Pittsburgh,0.5934,False
+2026-11-13,2026,11,regular,Illinois,UCLA,UCLA,0.8713,0.8713,14,22,UCLA,True,True,False,UCLA,0.8,True
