@@ -1,145 +1,145 @@
 {
- "generated_at_utc": "2026-11-14T17:12:47.370156+00:00",
+ "generated_at_utc": "2026-11-15T17:50:31.324970+00:00",
  "season": 2026,
  "elo": {
-  "Georgia": 1895.7,
-  "Texas": 1846.5,
-  "Alabama": 1837.6,
-  "Notre Dame": 1831.1,
-  "Oregon": 1811.7,
-  "Ohio State": 1803.7,
-  "Miami": 1794.8,
-  "Tennessee": 1765.6,
-  "USC": 1759.6,
-  "LSU": 1751.8,
+  "Georgia": 1903.3,
+  "Texas": 1851.0,
+  "Alabama": 1845.2,
+  "Notre Dame": 1834.7,
+  "Oregon": 1822.9,
+  "Ohio State": 1809.0,
+  "Miami": 1800.9,
+  "Tennessee": 1785.5,
+  "LSU": 1747.3,
+  "USC": 1738.3,
   "Ole Miss": 1732.4,
-  "South Carolina": 1730.7,
-  "Utah": 1699.1,
+  "Indiana": 1712.2,
+  "Utah": 1704.0,
+  "Texas Tech": 1700.9,
   "Oklahoma": 1698.0,
-  "Texas A&M": 1696.8,
   "UCLA": 1696.6,
-  "Indiana": 1690.9,
-  "Texas Tech": 1683.2,
-  "Michigan": 1677.1,
-  "Missouri": 1675.4,
-  "Clemson": 1675.3,
-  "Florida": 1660.3,
-  "Iowa": 1659.1,
-  "SMU": 1654.8,
-  "BYU": 1647.2,
-  "Louisville": 1629.6,
-  "Kentucky": 1627.4,
-  "Washington": 1627.0,
-  "Wake Forest": 1626.8,
-  "Arizona": 1623.9,
-  "Boise State": 1613.5,
+  "South Carolina": 1691.2,
+  "Florida": 1677.0,
+  "Texas A&M": 1677.0,
+  "Missouri": 1667.8,
+  "Iowa": 1667.4,
+  "Michigan": 1665.9,
+  "BYU": 1663.2,
+  "Wake Forest": 1663.0,
+  "Washington": 1638.7,
+  "Louisville": 1638.3,
+  "Clemson": 1636.6,
+  "Auburn": 1636.6,
+  "Boise State": 1619.5,
+  "Arizona": 1619.1,
+  "SMU": 1618.6,
+  "Kentucky": 1610.6,
   "Houston": 1608.7,
-  "Auburn": 1607.0,
-  "Baylor": 1602.8,
+  "Penn State": 1607.2,
   "Florida State": 1595.8,
-  "North Carolina": 1592.4,
-  "Duke": 1591.1,
-  "Wisconsin": 1590.7,
-  "Mississippi State": 1589.5,
-  "Penn State": 1588.8,
-  "Virginia Tech": 1584.0,
-  "Northwestern": 1583.7,
-  "Nebraska": 1574.4,
+  "Nebraska": 1594.7,
+  "Baylor": 1586.8,
+  "Duke": 1584.9,
+  "North Carolina": 1583.7,
+  "Northwestern": 1578.5,
+  "Wisconsin": 1578.3,
   "Illinois": 1571.5,
-  "Minnesota": 1558.0,
-  "TCU": 1546.5,
-  "Vanderbilt": 1543.7,
+  "Mississippi State": 1559.9,
+  "Arizona State": 1559.7,
+  "TCU": 1559.1,
+  "UTSA": 1551.2,
+  "Virginia Tech": 1549.6,
+  "Arkansas": 1548.9,
   "Pittsburgh": 1543.2,
-  "Oklahoma State": 1540.2,
-  "Arizona State": 1540.2,
-  "James Madison": 1538.5,
-  "UTSA": 1537.6,
+  "Minnesota": 1539.6,
   "Memphis": 1536.5,
-  "Texas State": 1526.6,
-  "New Mexico": 1523.8,
-  "Liberty": 1523.0,
-  "NC State": 1519.4,
+  "Vanderbilt": 1536.1,
+  "Texas State": 1532.5,
+  "Liberty": 1528.4,
+  "Oklahoma State": 1522.6,
+  "Syracuse": 1514.3,
+  "Louisiana Tech": 1512.6,
   "Western Michigan": 1511.0,
-  "Arkansas": 1509.5,
+  "James Madison": 1509.8,
+  "Stanford": 1509.2,
   "Louisiana": 1508.4,
-  "Kansas State": 1505.3,
-  "Syracuse": 1501.3,
-  "Louisiana Tech": 1499.4,
+  "New Mexico": 1507.0,
+  "NC State": 1506.4,
+  "Virginia": 1498.7,
   "Toledo": 1497.3,
-  "West Virginia": 1496.7,
-  "Michigan State": 1493.9,
-  "Fresno State": 1490.5,
-  "Cincinnati": 1487.5,
+  "Iowa State": 1493.4,
+  "Kansas State": 1492.7,
+  "Maryland": 1492.1,
+  "Georgia Tech": 1491.4,
+  "Georgia Southern": 1490.1,
+  "Fresno State": 1484.6,
   "South Florida": 1483.0,
-  "UCF": 1480.5,
-  "Maryland": 1479.7,
-  "Virginia": 1478.5,
-  "Stanford": 1474.8,
-  "Jacksonville State": 1473.4,
-  "Purdue": 1472.4,
-  "Iowa State": 1471.4,
-  "Oregon State": 1469.1,
-  "California": 1469.0,
-  "Georgia Southern": 1468.5,
-  "UNLV": 1464.2,
-  "North Texas": 1463.6,
+  "Kansas": 1482.5,
+  "Michigan State": 1482.1,
+  "UNLV": 1480.9,
+  "Tulsa": 1468.4,
+  "Cincinnati": 1465.5,
+  "West Virginia": 1464.6,
+  "Purdue": 1464.1,
+  "Oregon State": 1463.2,
   "Colorado": 1462.8,
-  "Boston College": 1460.7,
+  "North Dakota State": 1462.0,
+  "UCF": 1461.0,
+  "Boston College": 1457.2,
+  "UConn": 1456.2,
+  "East Carolina": 1455.0,
   "Ohio": 1454.7,
-  "Georgia Tech": 1452.7,
-  "East Carolina": 1451.5,
-  "Tulsa": 1451.1,
-  "Rutgers": 1450.9,
-  "Kansas": 1450.4,
-  "North Dakota State": 1446.5,
-  "Florida Atlantic": 1441.9,
-  "San Diego State": 1434.6,
-  "Tulane": 1431.7,
-  "Marshall": 1430.8,
+  "Jacksonville State": 1453.6,
+  "San Diego State": 1451.0,
+  "North Texas": 1449.9,
+  "California": 1448.7,
+  "Tulane": 1440.0,
+  "UAB": 1431.2,
+  "Rutgers": 1430.6,
+  "South Alabama": 1429.8,
   "Miami (OH)": 1428.6,
-  "UConn": 1427.5,
+  "Florida Atlantic": 1424.7,
   "Buffalo": 1422.8,
-  "South Alabama": 1415.3,
-  "Utah State": 1413.9,
-  "Arkansas State": 1413.7,
-  "Georgia State": 1413.3,
+  "App State": 1418.8,
+  "Marshall": 1415.4,
+  "Wyoming": 1415.2,
   "Central Michigan": 1410.0,
-  "UAB": 1407.8,
-  "App State": 1403.3,
-  "Wyoming": 1401.5,
-  "Florida International": 1393.0,
-  "Western Kentucky": 1389.5,
-  "Washington State": 1386.3,
-  "Troy": 1385.8,
-  "Southern Miss": 1381.6,
-  "Delaware": 1378.9,
-  "Hawai'i": 1374.6,
+  "Washington State": 1409.9,
+  "Western Kentucky": 1409.2,
+  "Utah State": 1397.4,
+  "Arkansas State": 1397.3,
+  "Delaware": 1393.2,
+  "Georgia State": 1391.6,
+  "Florida International": 1378.7,
+  "Troy": 1371.3,
+  "Southern Miss": 1368.5,
   "Eastern Michigan": 1362.2,
-  "Colorado State": 1361.9,
-  "Middle Tennessee": 1358.0,
+  "Nevada": 1360.6,
+  "Coastal Carolina": 1359.2,
+  "Hawai'i": 1359.0,
+  "Air Force": 1354.5,
+  "Middle Tennessee": 1352.7,
   "Old Dominion": 1349.7,
-  "San Jos\u00e9 State": 1349.4,
-  "Coastal Carolina": 1342.8,
-  "Nevada": 1341.4,
-  "Temple": 1336.8,
-  "Air Force": 1334.4,
-  "Kennesaw State": 1323.8,
-  "Missouri State": 1322.4,
+  "Kennesaw State": 1346.6,
+  "Colorado State": 1338.3,
+  "Missouri State": 1332.1,
+  "San Jos\u00e9 State": 1329.2,
   "Bowling Green": 1322.0,
   "Kent State": 1319.6,
-  "Rice": 1313.2,
+  "Temple": 1313.4,
+  "Rice": 1304.9,
   "Ball State": 1290.2,
-  "Charlotte": 1286.8,
+  "Charlotte": 1283.4,
   "Massachusetts": 1280.5,
   "Akron": 1279.9,
   "Army": 1277.1,
-  "Sam Houston": 1273.2,
-  "New Mexico State": 1269.5,
   "UL Monroe": 1264.0,
-  "UTEP": 1254.4,
+  "New Mexico State": 1259.7,
+  "Sam Houston": 1250.4,
+  "UTEP": 1240.7,
   "Sacramento State": 1234.3,
-  "Northern Illinois": 1233.5,
-  "Navy": 1220.7
+  "Navy": 1220.7,
+  "Northern Illinois": 1214.3
  },
  "teams": {
   "Air Force": [
@@ -835,630 +835,6 @@
  },
  "games": [
   {
-   "id": 401858297,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T17:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Georgia Tech",
-   "home": "Clemson",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8859,
-   "pick": "Clemson"
-  },
-  {
-   "id": 401858525,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T17:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Nebraska",
-   "home": "Rutgers",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.2195,
-   "pick": "Nebraska"
-  },
-  {
-   "id": 401856889,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T17:45:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Alabama",
-   "home": "Vanderbilt",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.0837,
-   "pick": "Alabama"
-  },
-  {
-   "id": 401862825,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T18:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "East Carolina",
-   "home": "Charlotte",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.1556,
-   "pick": "East Carolina"
-  },
-  {
-   "id": 401862829,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T18:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "UAB",
-   "home": "Temple",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4534,
-   "pick": "UAB"
-  },
-  {
-   "id": 401869937,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T18:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Arkansas State",
-   "home": "Coastal Carolina",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4521,
-   "pick": "Arkansas State"
-  },
-  {
-   "id": 401856862,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T19:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Kansas State",
-   "home": "TCU",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7851,
-   "pick": "TCU"
-  },
-  {
-   "id": 401870769,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T19:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Kennesaw State",
-   "home": "Sam Houston",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3386,
-   "pick": "Kennesaw State"
-  },
-  {
-   "id": 401856888,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Tennessee",
-   "home": "Texas A&M",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3267,
-   "pick": "Tennessee"
-  },
-  {
-   "id": 401870796,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "New Mexico State",
-   "home": "Missouri State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6176,
-   "pick": "Missouri State"
-  },
-  {
-   "id": 401871060,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Florida International",
-   "home": "Delaware",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6862,
-   "pick": "Delaware"
-  },
-  {
-   "id": 401856861,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Kansas",
-   "home": "West Virginia",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.597,
-   "pick": "West Virginia"
-  },
-  {
-   "id": 401856883,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Missouri",
-   "home": "Georgia",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8948,
-   "pick": "Georgia"
-  },
-  {
-   "id": 401858294,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Boston College",
-   "home": "Notre Dame",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.9805,
-   "pick": "Notre Dame"
-  },
-  {
-   "id": 401858295,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "California",
-   "home": "Virginia",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7743,
-   "pick": "Virginia"
-  },
-  {
-   "id": 401858518,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "USC",
-   "home": "Indiana",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.637,
-   "pick": "Indiana"
-  },
-  {
-   "id": 401858523,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Michigan",
-   "home": "Oregon",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8091,
-   "pick": "Oregon"
-  },
-  {
-   "id": 401864536,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Nevada",
-   "home": "Northern Illinois",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.2978,
-   "pick": "Nevada"
-  },
-  {
-   "id": 401869952,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Georgia Southern",
-   "home": "Georgia State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4023,
-   "pick": "Georgia Southern"
-  },
-  {
-   "id": 401870752,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Jacksonville State",
-   "home": "Western Kentucky",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3383,
-   "pick": "Jacksonville State"
-  },
-  {
-   "id": 401871061,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T20:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Middle Tennessee",
-   "home": "Liberty",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.9316,
-   "pick": "Liberty"
-  },
-  {
-   "id": 401860916,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T21:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Fresno State",
-   "home": "Texas State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7308,
-   "pick": "Texas State"
-  },
-  {
-   "id": 401856886,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T21:15:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Auburn",
-   "home": "Mississippi State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4288,
-   "pick": "Auburn"
-  },
-  {
-   "id": 401862828,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T21:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Tulane",
-   "home": "Rice",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4362,
-   "pick": "Tulane"
-  },
-  {
-   "id": 401871099,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T22:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Southern Miss",
-   "home": "Louisiana Tech",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.9051,
-   "pick": "Louisiana Tech"
-  },
-  {
-   "id": 401856857,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T22:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Arizona State",
-   "home": "UCF",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4439,
-   "pick": "Arizona State"
-  },
-  {
-   "id": 401858521,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T22:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Washington",
-   "home": "Michigan State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.2893,
-   "pick": "Washington"
-  },
-  {
-   "id": 401860914,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T23:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Oregon State",
-   "home": "Boise State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8646,
-   "pick": "Boise State"
-  },
-  {
-   "id": 401869928,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T23:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "App State",
-   "home": "Marshall",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5901,
-   "pick": "Marshall"
-  },
-  {
-   "id": 401856884,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-14T23:15:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Florida",
-   "home": "Kentucky",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5852,
-   "pick": "Kentucky"
-  },
-  {
-   "id": 401856858,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Baylor",
-   "home": "BYU",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7058,
-   "pick": "BYU"
-  },
-  {
-   "id": 401858298,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Louisville",
-   "home": "North Carolina",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.4077,
-   "pick": "Louisville"
-  },
-  {
-   "id": 401858524,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Minnesota",
-   "home": "Penn State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6412,
-   "pick": "Penn State"
-  },
-  {
-   "id": 401864538,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "San Jos\u00e9 State",
-   "home": "Air Force",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.7546,
-   "pick": "Air Force"
-  },
-  {
-   "id": 401871100,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Troy",
-   "home": "South Alabama",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6364,
-   "pick": "South Alabama"
-  },
-  {
-   "id": 401862826,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:15:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Florida Atlantic",
-   "home": "Tulsa",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6994,
-   "pick": "Tulsa"
-  },
-  {
-   "id": 401856885,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Texas",
-   "home": "LSU",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5042,
-   "pick": "LSU"
-  },
-  {
-   "id": 401858299,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Stanford",
-   "home": "Virginia Tech",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8463,
-   "pick": "Virginia Tech"
-  },
-  {
-   "id": 401858519,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Purdue",
-   "home": "Iowa",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.9462,
-   "pick": "Iowa"
-  },
-  {
-   "id": 401864539,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "UNLV",
-   "home": "New Mexico",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8455,
-   "pick": "New Mexico"
-  },
-  {
-   "id": 401856882,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T00:45:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "South Carolina",
-   "home": "Arkansas",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.1519,
-   "pick": "South Carolina"
-  },
-  {
-   "id": 401862827,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T02:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "North Texas",
-   "home": "UTSA",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5329,
-   "pick": "UTSA"
-  },
-  {
-   "id": 401856863,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T02:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Texas Tech",
-   "home": "Oklahoma State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3731,
-   "pick": "Texas Tech"
-  },
-  {
-   "id": 401860915,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T02:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Utah State",
-   "home": "San Diego State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.5217,
-   "pick": "San Diego State"
-  },
-  {
-   "id": 401864540,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T03:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Wyoming",
-   "home": "UTEP",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.1546,
-   "pick": "Wyoming"
-  },
-  {
-   "id": 401856864,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T03:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Utah",
-   "home": "Arizona",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.396,
-   "pick": "Utah"
-  },
-  {
-   "id": 401860917,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T03:30:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "Colorado State",
-   "home": "Washington State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6484,
-   "pick": "Washington State"
-  },
-  {
-   "id": 401864537,
-   "game_date": "2026-11-14",
-   "kickoff_utc": "2026-11-15T04:00:00.000Z",
-   "week": 11,
-   "season_type": "regular",
-   "away": "North Dakota State",
-   "home": "Hawai'i",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.2915,
-   "pick": "North Dakota State"
-  },
-  {
    "id": 401856887,
    "game_date": "2026-11-15",
    "kickoff_utc": "2026-11-15T18:00:00.000Z",
@@ -1494,7 +870,7 @@
    "home": "Ohio",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9167,
+   "p_home": 0.9181,
    "pick": "Ohio"
   },
   {
@@ -1507,7 +883,7 @@
    "home": "Kent State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2362,
+   "p_home": 0.2378,
    "pick": "Miami (OH)"
   },
   {
@@ -1533,7 +909,7 @@
    "home": "Buffalo",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5743,
+   "p_home": 0.5765,
    "pick": "Buffalo"
   },
   {
@@ -1546,7 +922,7 @@
    "home": "Temple",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6586,
+   "p_home": 0.6026,
    "pick": "Temple"
   },
   {
@@ -1559,8 +935,8 @@
    "home": "UCF",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5625,
-   "pick": "UCF"
+   "p_home": 0.4291,
+   "pick": "Iowa State"
   },
   {
    "id": 401858303,
@@ -1572,7 +948,7 @@
    "home": "Duke",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.712,
+   "p_home": 0.7789,
    "pick": "Duke"
   },
   {
@@ -1598,7 +974,7 @@
    "home": "Michigan State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.11,
+   "p_home": 0.0787,
    "pick": "Oregon"
   },
   {
@@ -1611,7 +987,7 @@
    "home": "Air Force",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9246,
+   "p_home": 0.9435,
    "pick": "Air Force"
   },
   {
@@ -1624,7 +1000,7 @@
    "home": "Wyoming",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.253,
+   "p_home": 0.3024,
    "pick": "New Mexico"
   },
   {
@@ -1637,7 +1013,7 @@
    "home": "Kansas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1671,
+   "p_home": 0.169,
    "pick": "Arizona"
   },
   {
@@ -1650,7 +1026,7 @@
    "home": "Kansas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1708,
+   "p_home": 0.2058,
    "pick": "BYU"
   },
   {
@@ -1663,7 +1039,7 @@
    "home": "West Virginia",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3025,
+   "p_home": 0.2269,
    "pick": "Houston"
   },
   {
@@ -1676,7 +1052,7 @@
    "home": "Baylor",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4539,
+   "p_home": 0.3515,
    "pick": "Texas Tech"
   },
   {
@@ -1689,7 +1065,7 @@
    "home": "TCU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1947,
+   "p_home": 0.1926,
    "pick": "Utah"
   },
   {
@@ -1702,7 +1078,7 @@
    "home": "Miami",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.909,
+   "p_home": 0.9499,
    "pick": "Miami"
   },
   {
@@ -1715,7 +1091,7 @@
    "home": "Louisville",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7805,
+   "p_home": 0.7893,
    "pick": "Louisville"
   },
   {
@@ -1728,47 +1104,8 @@
    "home": "Georgia Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.061,
+   "p_home": 0.0543,
    "pick": "Wake Forest"
-  },
-  {
-   "id": 401858528,
-   "game_date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T05:00:00.000Z",
-   "week": 12,
-   "season_type": "regular",
-   "away": "UCLA",
-   "home": "Michigan",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3856,
-   "pick": "UCLA"
-  },
-  {
-   "id": 401858531,
-   "game_date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T05:00:00.000Z",
-   "week": 12,
-   "season_type": "regular",
-   "away": "Ohio State",
-   "home": "Nebraska",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.2052,
-   "pick": "Ohio State"
-  },
-  {
-   "id": 401858535,
-   "game_date": "2026-11-21",
-   "kickoff_utc": "2026-11-21T05:00:00.000Z",
-   "week": 12,
-   "season_type": "regular",
-   "away": "Indiana",
-   "home": "Washington",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.3005,
-   "pick": "Indiana"
   },
   {
    "id": 401862835,
@@ -1780,7 +1117,7 @@
    "home": "Tulane",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2418,
+   "p_home": 0.3528,
    "pick": "North Texas"
   },
   {
@@ -1793,7 +1130,7 @@
    "home": "UAB",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3347,
+   "p_home": 0.3468,
    "pick": "UTSA"
   },
   {
@@ -1806,7 +1143,7 @@
    "home": "Florida",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7683,
+   "p_home": 0.8042,
    "pick": "Florida"
   },
   {
@@ -1832,7 +1169,7 @@
    "home": "Oklahoma",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6433,
+   "p_home": 0.7078,
    "pick": "Oklahoma"
   },
   {
@@ -1845,7 +1182,7 @@
    "home": "Cincinnati",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6726,
+   "p_home": 0.5967,
    "pick": "Cincinnati"
   },
   {
@@ -1858,8 +1195,8 @@
    "home": "Boston College",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5315,
-   "pick": "Boston College"
+   "p_home": 0.4272,
+   "pick": "Syracuse"
   },
   {
    "id": 401858530,
@@ -1871,8 +1208,21 @@
    "home": "Minnesota",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4445,
+   "p_home": 0.3854,
    "pick": "Northwestern"
+  },
+  {
+   "id": 401858531,
+   "game_date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T17:00:00.000Z",
+   "week": 12,
+   "season_type": "regular",
+   "away": "Ohio State",
+   "home": "Nebraska",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.2362,
+   "pick": "Ohio State"
   },
   {
    "id": 401858533,
@@ -1884,7 +1234,7 @@
    "home": "Purdue",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2421,
+   "p_home": 0.3057,
    "pick": "Wisconsin"
   },
   {
@@ -1897,7 +1247,7 @@
    "home": "Army",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3754,
+   "p_home": 0.3858,
    "pick": "East Carolina"
   },
   {
@@ -1910,7 +1260,7 @@
    "home": "Navy",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2269,
+   "p_home": 0.2301,
    "pick": "Memphis"
   },
   {
@@ -1923,7 +1273,7 @@
    "home": "Virginia",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3132,
+   "p_home": 0.3626,
    "pick": "North Carolina"
   },
   {
@@ -1936,7 +1286,7 @@
    "home": "Mississippi State",
    "fbs_both": false,
    "neutral": false,
-   "p_home": 0.9471,
+   "p_home": 0.9273,
    "pick": "Mississippi State"
   },
   {
@@ -1949,7 +1299,7 @@
    "home": "Liberty",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9166,
+   "p_home": 0.8661,
    "pick": "Liberty"
   },
   {
@@ -1962,7 +1312,7 @@
    "home": "Alabama",
    "fbs_both": false,
    "neutral": false,
-   "p_home": 0.9965,
+   "p_home": 0.9964,
    "pick": "Alabama"
   },
   {
@@ -1975,7 +1325,7 @@
    "home": "Tulsa",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9322,
+   "p_home": 0.939,
    "pick": "Tulsa"
   },
   {
@@ -1988,7 +1338,7 @@
    "home": "Jacksonville State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8779,
+   "p_home": 0.8225,
    "pick": "Jacksonville State"
   },
   {
@@ -2001,7 +1351,7 @@
    "home": "Sam Houston",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3655,
+   "p_home": 0.2938,
    "pick": "Middle Tennessee"
   },
   {
@@ -2014,7 +1364,7 @@
    "home": "Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2755,
+   "p_home": 0.2782,
    "pick": "Iowa"
   },
   {
@@ -2027,7 +1377,7 @@
    "home": "Florida Atlantic",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5637,
+   "p_home": 0.5201,
    "pick": "Florida Atlantic"
   },
   {
@@ -2040,7 +1390,7 @@
    "home": "App State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8351,
+   "p_home": 0.8526,
    "pick": "App State"
   },
   {
@@ -2053,7 +1403,7 @@
    "home": "Louisiana",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8884,
+   "p_home": 0.8565,
    "pick": "Louisiana"
   },
   {
@@ -2066,7 +1416,7 @@
    "home": "New Mexico State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3071,
+   "p_home": 0.2638,
    "pick": "Delaware"
   },
   {
@@ -2079,7 +1429,7 @@
    "home": "Kennesaw State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5694,
+   "p_home": 0.6533,
    "pick": "Kennesaw State"
   },
   {
@@ -2092,7 +1442,7 @@
    "home": "Auburn",
    "fbs_both": false,
    "neutral": false,
-   "p_home": 0.977,
+   "p_home": 0.9835,
    "pick": "Auburn"
   },
   {
@@ -2105,7 +1455,7 @@
    "home": "Tennessee",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6307,
+   "p_home": 0.6788,
    "pick": "Tennessee"
   },
   {
@@ -2118,7 +1468,7 @@
    "home": "Texas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9573,
+   "p_home": 0.9232,
    "pick": "Texas"
   },
   {
@@ -2131,8 +1481,21 @@
    "home": "Florida State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7687,
+   "p_home": 0.7914,
    "pick": "Florida State"
+  },
+  {
+   "id": 401858528,
+   "game_date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T20:30:00.000Z",
+   "week": 12,
+   "season_type": "regular",
+   "away": "UCLA",
+   "home": "Michigan",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.3251,
+   "pick": "UCLA"
   },
   {
    "id": 401858532,
@@ -2144,8 +1507,21 @@
    "home": "Penn State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8842,
+   "p_home": 0.9355,
    "pick": "Penn State"
+  },
+  {
+   "id": 401858535,
+   "game_date": "2026-11-21",
+   "kickoff_utc": "2026-11-21T20:30:00.000Z",
+   "week": 12,
+   "season_type": "regular",
+   "away": "Indiana",
+   "home": "Washington",
+   "fbs_both": true,
+   "neutral": false,
+   "p_home": 0.2796,
+   "pick": "Indiana"
   },
   {
    "id": 401861968,
@@ -2157,7 +1533,7 @@
    "home": "UConn",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7472,
+   "p_home": 0.8047,
    "pick": "UConn"
   },
   {
@@ -2170,7 +1546,7 @@
    "home": "North Dakota State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9596,
+   "p_home": 0.9772,
    "pick": "North Dakota State"
   },
   {
@@ -2183,7 +1559,7 @@
    "home": "Troy",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2599,
+   "p_home": 0.1781,
    "pick": "Georgia Southern"
   },
   {
@@ -2196,7 +1572,7 @@
    "home": "Marshall",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4724,
+   "p_home": 0.4961,
    "pick": "Georgia State"
   },
   {
@@ -2209,7 +1585,7 @@
    "home": "Southern Miss",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4857,
+   "p_home": 0.3322,
    "pick": "South Alabama"
   },
   {
@@ -2222,7 +1598,7 @@
    "home": "Texas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9152,
+   "p_home": 0.8854,
    "pick": "Texas State"
   },
   {
@@ -2235,7 +1611,7 @@
    "home": "USC",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9417,
+   "p_home": 0.9061,
    "pick": "USC"
   },
   {
@@ -2248,7 +1624,7 @@
    "home": "San Jos\u00e9 State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4047,
+   "p_home": 0.3022,
    "pick": "UNLV"
   },
   {
@@ -2261,7 +1637,7 @@
    "home": "Louisiana Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8629,
+   "p_home": 0.9251,
    "pick": "Louisiana Tech"
   },
   {
@@ -2274,7 +1650,7 @@
    "home": "Missouri",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7102,
+   "p_home": 0.722,
    "pick": "Missouri"
   },
   {
@@ -2287,7 +1663,7 @@
    "home": "South Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2315,
+   "p_home": 0.1283,
    "pick": "Georgia"
   },
   {
@@ -2300,7 +1676,7 @@
    "home": "Notre Dame",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8925,
+   "p_home": 0.9541,
    "pick": "Notre Dame"
   },
   {
@@ -2313,8 +1689,8 @@
    "home": "California",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5018,
-   "pick": "California"
+   "p_home": 0.3429,
+   "pick": "Stanford"
   },
   {
    "id": 401860918,
@@ -2326,7 +1702,7 @@
    "home": "Fresno State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8799,
+   "p_home": 0.9109,
    "pick": "Fresno State"
   },
   {
@@ -2339,7 +1715,7 @@
    "home": "Boise State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.915,
+   "p_home": 0.8815,
    "pick": "Boise State"
   },
   {
@@ -2352,8 +1728,8 @@
    "home": "Arizona State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4662,
-   "pick": "Oklahoma State"
+   "p_home": 0.5842,
+   "pick": "Arizona State"
   },
   {
    "id": 401860919,
@@ -2365,7 +1741,7 @@
    "home": "Oregon State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6476,
+   "p_home": 0.7267,
    "pick": "Oregon State"
   },
   {
@@ -2378,8 +1754,8 @@
    "home": "Nevada",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.488,
-   "pick": "Hawai'i"
+   "p_home": 0.6323,
+   "pick": "Nevada"
   },
   {
    "id": 401866470,
@@ -2404,7 +1780,7 @@
    "home": "Western Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7252,
+   "p_home": 0.727,
    "pick": "Western Michigan"
   },
   {
@@ -2417,7 +1793,7 @@
    "home": "Texas Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8156,
+   "p_home": 0.8494,
    "pick": "Texas Tech"
   },
   {
@@ -2430,7 +1806,7 @@
    "home": "Memphis",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9061,
+   "p_home": 0.9349,
    "pick": "Memphis"
   },
   {
@@ -2443,7 +1819,7 @@
    "home": "UTSA",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5999,
+   "p_home": 0.6478,
    "pick": "UTSA"
   },
   {
@@ -2456,7 +1832,7 @@
    "home": "Ole Miss",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.87,
+   "p_home": 0.9039,
    "pick": "Ole Miss"
   },
   {
@@ -2469,7 +1845,7 @@
    "home": "Iowa",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8083,
+   "p_home": 0.7571,
    "pick": "Iowa"
   },
   {
@@ -2482,7 +1858,7 @@
    "home": "Akron",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2528,
+   "p_home": 0.2511,
    "pick": "Buffalo"
   },
   {
@@ -2495,7 +1871,7 @@
    "home": "Ohio",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.44,
+   "p_home": 0.4422,
    "pick": "Toledo"
   },
   {
@@ -2508,7 +1884,7 @@
    "home": "South Alabama",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5948,
+   "p_home": 0.6217,
    "pick": "South Alabama"
   },
   {
@@ -2521,8 +1897,8 @@
    "home": "Florida State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5334,
-   "pick": "Florida State"
+   "p_home": 0.4753,
+   "pick": "Florida"
   },
   {
    "id": 401864549,
@@ -2534,7 +1910,7 @@
    "home": "San Jos\u00e9 State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2613,
+   "p_home": 0.186,
    "pick": "North Dakota State"
   },
   {
@@ -2547,7 +1923,7 @@
    "home": "New Mexico",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8387,
+   "p_home": 0.7681,
    "pick": "New Mexico"
   },
   {
@@ -2560,7 +1936,7 @@
    "home": "Texas A&M",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2978,
+   "p_home": 0.2552,
    "pick": "Texas"
   },
   {
@@ -2573,7 +1949,7 @@
    "home": "Wisconsin",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6363,
+   "p_home": 0.6467,
    "pick": "Wisconsin"
   },
   {
@@ -2586,7 +1962,7 @@
    "home": "Utah",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9444,
+   "p_home": 0.963,
    "pick": "Utah"
   },
   {
@@ -2599,7 +1975,7 @@
    "home": "Alabama",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9163,
+   "p_home": 0.8844,
    "pick": "Alabama"
   },
   {
@@ -2612,7 +1988,7 @@
    "home": "Arkansas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1094,
+   "p_home": 0.1629,
    "pick": "LSU"
   },
   {
@@ -2625,7 +2001,7 @@
    "home": "Georgia",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9889,
+   "p_home": 0.9846,
    "pick": "Georgia"
   },
   {
@@ -2638,7 +2014,7 @@
    "home": "Kentucky",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4227,
+   "p_home": 0.3552,
    "pick": "Louisville"
   },
   {
@@ -2651,7 +2027,7 @@
    "home": "Missouri",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5843,
+   "p_home": 0.5414,
    "pick": "Missouri"
   },
   {
@@ -2664,7 +2040,7 @@
    "home": "Clemson",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3659,
+   "p_home": 0.3742,
    "pick": "South Carolina"
   },
   {
@@ -2677,7 +2053,7 @@
    "home": "Vanderbilt",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1313,
+   "p_home": 0.1029,
    "pick": "Tennessee"
   },
   {
@@ -2690,7 +2066,7 @@
    "home": "Arizona",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8232,
+   "p_home": 0.7844,
    "pick": "Arizona"
   },
   {
@@ -2703,7 +2079,7 @@
    "home": "Houston",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.545,
+   "p_home": 0.5846,
    "pick": "Houston"
   },
   {
@@ -2716,7 +2092,7 @@
    "home": "Colorado",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5573,
+   "p_home": 0.6081,
    "pick": "Colorado"
   },
   {
@@ -2729,7 +2105,7 @@
    "home": "BYU",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.88,
+   "p_home": 0.9229,
    "pick": "BYU"
   },
   {
@@ -2742,7 +2118,7 @@
    "home": "Oklahoma State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8023,
+   "p_home": 0.6778,
    "pick": "Oklahoma State"
   },
   {
@@ -2755,7 +2131,7 @@
    "home": "Iowa State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6506,
+   "p_home": 0.7258,
    "pick": "Iowa State"
   },
   {
@@ -2768,7 +2144,7 @@
    "home": "Miami",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.965,
+   "p_home": 0.9772,
    "pick": "Miami"
   },
   {
@@ -2781,7 +2157,7 @@
    "home": "Wake Forest",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7597,
+   "p_home": 0.8736,
    "pick": "Wake Forest"
   },
   {
@@ -2794,7 +2170,7 @@
    "home": "North Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.794,
+   "p_home": 0.8068,
    "pick": "North Carolina"
   },
   {
@@ -2807,7 +2183,7 @@
    "home": "Syracuse",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.0468,
+   "p_home": 0.0404,
    "pick": "Notre Dame"
   },
   {
@@ -2820,7 +2196,7 @@
    "home": "California",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1875,
+   "p_home": 0.1631,
    "pick": "Pittsburgh"
   },
   {
@@ -2833,7 +2209,7 @@
    "home": "Stanford",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.1413,
+   "p_home": 0.3347,
    "pick": "SMU"
   },
   {
@@ -2846,7 +2222,7 @@
    "home": "Virginia Tech",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7599,
+   "p_home": 0.6211,
    "pick": "Virginia Tech"
   },
   {
@@ -2859,7 +2235,7 @@
    "home": "Northwestern",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7239,
+   "p_home": 0.7018,
    "pick": "Northwestern"
   },
   {
@@ -2872,7 +2248,7 @@
    "home": "Indiana",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9632,
+   "p_home": 0.9695,
    "pick": "Indiana"
   },
   {
@@ -2885,7 +2261,7 @@
    "home": "Maryland",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2896,
+   "p_home": 0.2804,
    "pick": "Penn State"
   },
   {
@@ -2898,7 +2274,7 @@
    "home": "Oregon",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8227,
+   "p_home": 0.8448,
    "pick": "Oregon"
   },
   {
@@ -2911,7 +2287,7 @@
    "home": "Rutgers",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4175,
+   "p_home": 0.3737,
    "pick": "Michigan State"
   },
   {
@@ -2924,7 +2300,7 @@
    "home": "UCLA",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5681,
+   "p_home": 0.6181,
    "pick": "UCLA"
   },
   {
@@ -2937,8 +2313,8 @@
    "home": "Wyoming",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5356,
-   "pick": "Wyoming"
+   "p_home": 0.4656,
+   "pick": "UConn"
   },
   {
    "id": 401862837,
@@ -2950,7 +2326,7 @@
    "home": "East Carolina",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6459,
+   "p_home": 0.6714,
    "pick": "East Carolina"
   },
   {
@@ -2963,7 +2339,7 @@
    "home": "South Florida",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.758,
+   "p_home": 0.7282,
    "pick": "South Florida"
   },
   {
@@ -2976,7 +2352,7 @@
    "home": "Rice",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4077,
+   "p_home": 0.3663,
    "pick": "Army"
   },
   {
@@ -2989,7 +2365,7 @@
    "home": "Charlotte",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3121,
+   "p_home": 0.3216,
    "pick": "Navy"
   },
   {
@@ -3002,7 +2378,7 @@
    "home": "North Texas",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8299,
+   "p_home": 0.6916,
    "pick": "North Texas"
   },
   {
@@ -3015,8 +2391,8 @@
    "home": "Northern Illinois",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5707,
-   "pick": "Northern Illinois"
+   "p_home": 0.4821,
+   "pick": "UTEP"
   },
   {
    "id": 401869947,
@@ -3028,7 +2404,7 @@
    "home": "James Madison",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9261,
+   "p_home": 0.8714,
    "pick": "James Madison"
   },
   {
@@ -3041,8 +2417,8 @@
    "home": "Georgia Southern",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.5012,
-   "pick": "Georgia Southern"
+   "p_home": 0.4617,
+   "pick": "Louisiana Tech"
   },
   {
    "id": 401869959,
@@ -3054,7 +2430,7 @@
    "home": "Georgia State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3934,
+   "p_home": 0.3405,
    "pick": "Louisiana"
   },
   {
@@ -3067,7 +2443,7 @@
    "home": "UL Monroe",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2775,
+   "p_home": 0.3069,
    "pick": "Marshall"
   },
   {
@@ -3080,7 +2456,7 @@
    "home": "Old Dominion",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6204,
+   "p_home": 0.7071,
    "pick": "Old Dominion"
   },
   {
@@ -3093,7 +2469,7 @@
    "home": "Ohio State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.838,
+   "p_home": 0.8825,
    "pick": "Ohio State"
   },
   {
@@ -3106,7 +2482,7 @@
    "home": "Ball State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2706,
+   "p_home": 0.2688,
    "pick": "Central Michigan"
   },
   {
@@ -3132,7 +2508,7 @@
    "home": "Western Kentucky",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6082,
+   "p_home": 0.6559,
    "pick": "Western Kentucky"
   },
   {
@@ -3145,7 +2521,7 @@
    "home": "Missouri State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.089,
+   "p_home": 0.105,
    "pick": "Liberty"
   },
   {
@@ -3158,7 +2534,7 @@
    "home": "Florida International",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8054,
+   "p_home": 0.8087,
    "pick": "Florida International"
   },
   {
@@ -3171,7 +2547,7 @@
    "home": "Middle Tennessee",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7067,
+   "p_home": 0.7432,
    "pick": "Middle Tennessee"
   },
   {
@@ -3184,7 +2560,7 @@
    "home": "Arkansas State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.64,
+   "p_home": 0.6325,
    "pick": "Arkansas State"
   },
   {
@@ -3197,8 +2573,8 @@
    "home": "Delaware",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4342,
-   "pick": "Jacksonville State"
+   "p_home": 0.5733,
+   "pick": "Delaware"
   },
   {
    "id": 401864548,
@@ -3210,7 +2586,7 @@
    "home": "UNLV",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.7879,
+   "p_home": 0.75,
    "pick": "UNLV"
   },
   {
@@ -3223,7 +2599,7 @@
    "home": "Hawai'i",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.8464,
+   "p_home": 0.8213,
    "pick": "Hawai'i"
   },
   {
