@@ -726,6 +726,7 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-14,2026,11,regular,Nevada,Northern Illinois,Nevada,0.2962,0.7038,28,7,Nevada,True,True,False,Nevada,0.7478,True
 2026-11-14,2026,11,regular,Boston College,Notre Dame,Notre Dame,0.9759,0.9759,7,41,Notre Dame,True,True,False,Notre Dame,0.9684,True
 2026-11-14,2026,11,regular,Northwestern,Ohio State,Ohio State,0.8506,0.8506,19,28,Ohio State,True,True,False,Ohio State,0.7572,True
+2026-11-14,2026,11,regular,Ole Miss,Oklahoma,Ole Miss,0.3537,0.6463,17,24,Oklahoma,False,True,False,Oklahoma,0.6369,True
 2026-11-14,2026,11,regular,Texas Tech,Oklahoma State,Texas Tech,0.2461,0.7539,52,27,Texas Tech,True,True,False,Texas Tech,0.5174,True
 2026-11-14,2026,11,regular,Michigan,Oregon,Oregon,0.6683,0.6683,7,31,Oregon,True,True,False,Oregon,0.6447,True
 2026-11-14,2026,11,regular,Minnesota,Penn State,Penn State,0.5825,0.5825,14,42,Penn State,True,True,False,Penn State,0.7136,True

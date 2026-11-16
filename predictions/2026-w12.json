@@ -318,7 +318,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.7418,
-    "pick": "Louisville"
+    "pick": "Louisville",
+    "fav": "Louisville",
+    "fav_prob": 0.8119
   },
   {
     "id": 401858310,
