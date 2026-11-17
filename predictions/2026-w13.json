@@ -1,0 +1,32 @@
+[
+  {
+    "id": 401866470,
+    "logged_at_utc": "2026-11-17T19:55:21.106387+00:00",
+    "game_date": "2026-11-24",
+    "kickoff_utc": "2026-11-25T00:00:00.000Z",
+    "season": 2026,
+    "week": 13,
+    "season_type": "regular",
+    "away": "Kent State",
+    "home": "Eastern Michigan",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.6665,
+    "pick": "Eastern Michigan"
+  },
+  {
+    "id": 401866471,
+    "logged_at_utc": "2026-11-17T19:55:21.106387+00:00",
+    "game_date": "2026-11-24",
+    "kickoff_utc": "2026-11-25T00:00:00.000Z",
+    "season": 2026,
+    "week": 13,
+    "season_type": "regular",
+    "away": "Miami (OH)",
+    "home": "Western Michigan",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.727,
+    "pick": "Western Michigan"
+  }
+]
