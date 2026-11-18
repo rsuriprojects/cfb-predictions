@@ -751,3 +751,6 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-14,2026,11,regular,Colorado State,Washington State,Washington State,0.6185,0.6185,7,73,Washington State,True,True,False,Washington State,0.6447,True
 2026-11-14,2026,11,regular,Kansas,West Virginia,West Virginia,0.5812,0.5812,37,14,Kansas,False,True,False,West Virginia,0.5514,False
 2026-11-14,2026,11,regular,Jacksonville State,Western Kentucky,Jacksonville State,0.3816,0.6184,24,34,Western Kentucky,False,True,False,Jacksonville State,0.6447,False
+2026-11-17,2026,12,regular,Miami (OH),Kent State,Miami (OH),0.3062,0.6938,20,3,Miami (OH),True,True,False,Miami (OH),0.7258,True
+2026-11-17,2026,12,regular,Ball State,Ohio,Ohio,0.9215,0.9215,28,35,Ohio,True,True,False,Ohio,0.7659,True
+2026-11-17,2026,12,regular,Eastern Michigan,Western Michigan,Western Michigan,0.8795,0.8795,27,34,Western Michigan,True,True,False,Western Michigan,0.8271,True

@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-17T19:55:31.342686+00:00",
+ "generated_at_utc": "2026-11-18T19:26:30.042104+00:00",
  "season": 2026,
  "elo": {
   "Georgia": 1903.3,
@@ -57,9 +57,9 @@
   "Texas State": 1532.5,
   "Liberty": 1528.4,
   "Oklahoma State": 1522.6,
+  "Western Michigan": 1517.7,
   "Syracuse": 1514.3,
   "Louisiana Tech": 1512.6,
-  "Western Michigan": 1511.0,
   "James Madison": 1509.8,
   "Stanford": 1509.2,
   "Louisiana": 1508.4,
@@ -85,19 +85,19 @@
   "Colorado": 1462.8,
   "North Dakota State": 1462.0,
   "UCF": 1461.0,
+  "Ohio": 1461.0,
   "Boston College": 1457.2,
   "UConn": 1456.2,
   "East Carolina": 1455.0,
-  "Ohio": 1454.7,
   "Jacksonville State": 1453.6,
   "San Diego State": 1451.0,
   "North Texas": 1449.9,
   "California": 1448.7,
+  "Miami (OH)": 1446.5,
   "Tulane": 1440.0,
   "UAB": 1431.2,
   "Rutgers": 1430.6,
   "South Alabama": 1429.8,
-  "Miami (OH)": 1428.6,
   "Florida Atlantic": 1424.7,
   "Buffalo": 1422.8,
   "App State": 1418.8,
@@ -113,10 +113,10 @@
   "Florida International": 1378.7,
   "Troy": 1371.3,
   "Southern Miss": 1368.5,
-  "Eastern Michigan": 1362.2,
   "Nevada": 1360.6,
   "Coastal Carolina": 1359.2,
   "Hawai'i": 1359.0,
+  "Eastern Michigan": 1355.4,
   "Air Force": 1354.5,
   "Middle Tennessee": 1352.7,
   "Old Dominion": 1349.7,
@@ -125,10 +125,10 @@
   "Missouri State": 1332.1,
   "San Jos\u00e9 State": 1329.2,
   "Bowling Green": 1322.0,
-  "Kent State": 1319.6,
   "Temple": 1313.4,
   "Rice": 1304.9,
-  "Ball State": 1290.2,
+  "Kent State": 1301.7,
+  "Ball State": 1283.9,
   "Charlotte": 1283.4,
   "Massachusetts": 1280.5,
   "Akron": 1279.9,
@@ -834,45 +834,6 @@
   ]
  },
  "games": [
-  {
-   "id": 401866465,
-   "game_date": "2026-11-17",
-   "kickoff_utc": "2026-11-17T23:00:00.000Z",
-   "week": 12,
-   "season_type": "regular",
-   "away": "Eastern Michigan",
-   "home": "Western Michigan",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.8946,
-   "pick": "Western Michigan"
-  },
-  {
-   "id": 401866464,
-   "game_date": "2026-11-17",
-   "kickoff_utc": "2026-11-18T00:00:00.000Z",
-   "week": 12,
-   "season_type": "regular",
-   "away": "Ball State",
-   "home": "Ohio",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.9181,
-   "pick": "Ohio"
-  },
-  {
-   "id": 401866466,
-   "game_date": "2026-11-17",
-   "kickoff_utc": "2026-11-18T00:00:00.000Z",
-   "week": 12,
-   "season_type": "regular",
-   "away": "Miami (OH)",
-   "home": "Kent State",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.2378,
-   "pick": "Miami (OH)"
-  },
   {
    "id": 401866467,
    "game_date": "2026-11-18",
@@ -1754,7 +1715,7 @@
    "home": "Eastern Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.6665,
+   "p_home": 0.686,
    "pick": "Eastern Michigan"
   },
   {
@@ -1767,7 +1728,7 @@
    "home": "Western Michigan",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.727,
+   "p_home": 0.7089,
    "pick": "Western Michigan"
   },
   {
@@ -1845,7 +1806,7 @@
    "home": "Ohio",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.4422,
+   "p_home": 0.4406,
    "pick": "Toledo"
   },
   {
@@ -2170,7 +2131,7 @@
    "home": "Ball State",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.2688,
+   "p_home": 0.2701,
    "pick": "Central Michigan"
   },
   {
