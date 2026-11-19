@@ -754,3 +754,5 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-17,2026,12,regular,Miami (OH),Kent State,Miami (OH),0.3062,0.6938,20,3,Miami (OH),True,True,False,Miami (OH),0.7258,True
 2026-11-17,2026,12,regular,Ball State,Ohio,Ohio,0.9215,0.9215,28,35,Ohio,True,True,False,Ohio,0.7659,True
 2026-11-17,2026,12,regular,Eastern Michigan,Western Michigan,Western Michigan,0.8795,0.8795,27,34,Western Michigan,True,True,False,Western Michigan,0.8271,True
+2026-11-18,2026,12,regular,Central Michigan,Buffalo,Buffalo,0.5613,0.5613,21,40,Buffalo,True,True,False,Buffalo,0.5325,True
+2026-11-18,2026,12,regular,Akron,Massachusetts,Massachusetts,0.7155,0.7155,34,33,Akron,False,True,False,Massachusetts,0.5635,False

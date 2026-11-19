@@ -454,7 +454,9 @@
     "fbs_both": false,
     "neutral": false,
     "p_home": 0.9921,
-    "pick": "Ole Miss"
+    "pick": "Ole Miss",
+    "fav": "Ole Miss",
+    "fav_prob": 0.9998
   },
   {
     "id": 401856752,
@@ -605,7 +607,9 @@
     "fbs_both": false,
     "neutral": false,
     "p_home": 0.9471,
-    "pick": "Mississippi State"
+    "pick": "Mississippi State",
+    "fav": "Mississippi State",
+    "fav_prob": 0.9944
   },
   {
     "id": 401871080,
@@ -637,7 +641,9 @@
     "fbs_both": false,
     "neutral": false,
     "p_home": 0.9965,
-    "pick": "Alabama"
+    "pick": "Alabama",
+    "fav": "Alabama",
+    "fav_prob": 0.9998
   },
   {
     "id": 401862832,
@@ -805,7 +811,9 @@
     "fbs_both": false,
     "neutral": false,
     "p_home": 0.977,
-    "pick": "Auburn"
+    "pick": "Auburn",
+    "fav": "Auburn",
+    "fav_prob": 0.9997
   },
   {
     "id": 401856754,
