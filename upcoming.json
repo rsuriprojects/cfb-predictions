@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-19T19:31:40.904762+00:00",
+ "generated_at_utc": "2026-11-20T19:09:47.502981+00:00",
  "season": 2026,
  "elo": {
   "Georgia": 1903.3,
@@ -125,9 +125,9 @@
   "Missouri State": 1332.1,
   "San Jos\u00e9 State": 1329.2,
   "Bowling Green": 1322.0,
-  "Temple": 1313.4,
-  "Rice": 1304.9,
+  "Rice": 1319.6,
   "Kent State": 1301.7,
+  "Temple": 1298.7,
   "Akron": 1286.0,
   "Ball State": 1283.9,
   "Charlotte": 1283.4,
@@ -834,19 +834,6 @@
   ]
  },
  "games": [
-  {
-   "id": 401862830,
-   "game_date": "2026-11-19",
-   "kickoff_utc": "2026-11-20T00:30:00.000Z",
-   "week": 12,
-   "season_type": "regular",
-   "away": "Rice",
-   "home": "Temple",
-   "fbs_both": true,
-   "neutral": false,
-   "p_home": 0.6026,
-   "pick": "Temple"
-  },
   {
    "id": 401856869,
    "game_date": "2026-11-20",
@@ -1819,7 +1806,7 @@
    "home": "Memphis",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.9349,
+   "p_home": 0.9409,
    "pick": "Memphis"
   },
   {
@@ -2222,7 +2209,7 @@
    "home": "Rice",
    "fbs_both": true,
    "neutral": false,
-   "p_home": 0.3663,
+   "p_home": 0.3908,
    "pick": "Army"
   },
   {
