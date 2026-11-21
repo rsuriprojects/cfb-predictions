@@ -757,3 +757,9 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-18,2026,12,regular,Central Michigan,Buffalo,Buffalo,0.5613,0.5613,21,40,Buffalo,True,True,False,Buffalo,0.5325,True
 2026-11-18,2026,12,regular,Akron,Massachusetts,Massachusetts,0.7155,0.7155,34,33,Akron,False,True,False,Massachusetts,0.5635,False
 2026-11-19,2026,12,regular,Rice,Temple,Temple,0.6586,0.6586,31,27,Rice,False,True,False,Temple,0.6038,False
+2026-11-20,2026,12,regular,UTEP,Air Force,Air Force,0.9246,0.9246,3,52,Air Force,True,True,False,Air Force,0.9197,True
+2026-11-20,2026,12,regular,Clemson,Duke,Duke,0.712,0.712,20,10,Clemson,False,True,False,Duke,0.7335,False
+2026-11-20,2026,12,regular,Oregon,Michigan State,Oregon,0.11,0.89,45,7,Oregon,True,True,False,Oregon,0.8,True
+2026-11-20,2026,12,regular,Bowling Green,Toledo,Toledo,0.9357,0.9357,0,19,Toledo,True,True,False,Toledo,0.84,True
+2026-11-20,2026,12,regular,Iowa State,UCF,UCF,0.5625,0.5625,17,48,UCF,True,True,False,UCF,0.5043,True
+2026-11-20,2026,12,regular,New Mexico,Wyoming,New Mexico,0.253,0.747,24,17,New Mexico,True,True,False,New Mexico,0.7819,True
