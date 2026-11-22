@@ -12,7 +12,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6665,
-    "pick": "Eastern Michigan"
+    "pick": "Eastern Michigan",
+    "fav": "Eastern Michigan",
+    "fav_prob": 0.6575
   },
   {
     "id": 401866471,
@@ -27,7 +29,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.727,
-    "pick": "Western Michigan"
+    "pick": "Western Michigan",
+    "fav": "Western Michigan",
+    "fav_prob": 0.6958
   },
   {
     "id": 401856879,
@@ -93,7 +97,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6478,
-    "pick": "UTSA"
+    "pick": "UTSA",
+    "fav": "UTSA",
+    "fav_prob": 0.5514
   },
   {
     "id": 401866472,
@@ -108,7 +114,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.2049,
-    "pick": "Buffalo"
+    "pick": "Buffalo",
+    "fav": "Buffalo",
+    "fav_prob": 0.7409
   },
   {
     "id": 401866473,
@@ -123,7 +131,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.4406,
-    "pick": "Toledo"
+    "pick": "Toledo",
+    "fav": "Toledo",
+    "fav_prob": 0.6309
   },
   {
     "id": 401869930,
@@ -138,7 +148,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6217,
-    "pick": "South Alabama"
+    "pick": "South Alabama",
+    "fav": "South Alabama",
+    "fav_prob": 0.5514
   },
   {
     "id": 401856759,
@@ -170,7 +182,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.9409,
-    "pick": "Memphis"
+    "pick": "Memphis",
+    "fav": "Memphis",
+    "fav_prob": 0.8579
   },
   {
     "id": 401864549,
@@ -185,7 +199,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.186,
-    "pick": "North Dakota State"
+    "pick": "North Dakota State",
+    "fav": "North Dakota State",
+    "fav_prob": 0.8223
   },
   {
     "id": 401864546,
@@ -200,7 +216,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.7681,
-    "pick": "New Mexico"
+    "pick": "New Mexico",
+    "fav": "New Mexico",
+    "fav_prob": 0.675
   },
   {
     "id": 401856756,
@@ -232,7 +250,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6467,
-    "pick": "Wisconsin"
+    "pick": "Wisconsin",
+    "fav": "Wisconsin",
+    "fav_prob": 0.6908
   },
   {
     "id": 401856880,
@@ -247,7 +267,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.963,
-    "pick": "Utah"
+    "pick": "Utah",
+    "fav": "Utah",
+    "fav_prob": 0.8989
   },
   {
     "id": 401856757,
@@ -279,7 +301,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.1629,
-    "pick": "LSU"
+    "pick": "LSU",
+    "fav": "LSU",
+    "fav_prob": 0.8271
   },
   {
     "id": 401856760,
@@ -294,7 +318,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.9846,
-    "pick": "Georgia"
+    "pick": "Georgia",
+    "fav": "Georgia",
+    "fav_prob": 0.9761
   },
   {
     "id": 401856761,
@@ -377,7 +403,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.3347,
-    "pick": "SMU"
+    "pick": "SMU",
+    "fav": "SMU",
+    "fav_prob": 0.718
   },
   {
     "id": 401858538,
@@ -392,7 +420,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.9695,
-    "pick": "Indiana"
+    "pick": "Indiana",
+    "fav": "Indiana",
+    "fav_prob": 0.9124
   },
   {
     "id": 401858541,
@@ -424,7 +454,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.9772,
-    "pick": "Miami"
+    "pick": "Miami",
+    "fav": "Miami",
+    "fav_prob": 0.9396
   },
   {
     "id": 401858313,
@@ -490,7 +522,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.4656,
-    "pick": "UConn"
+    "pick": "UConn",
+    "fav": "UConn",
+    "fav_prob": 0.5635
   },
   {
     "id": 401862842,
@@ -505,7 +539,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.3216,
-    "pick": "Navy"
+    "pick": "Navy",
+    "fav": "Navy",
+    "fav_prob": 0.8525
   },
   {
     "id": 401866474,
@@ -520,7 +556,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.3445,
-    "pick": "Central Michigan"
+    "pick": "Central Michigan",
+    "fav": "Central Michigan",
+    "fav_prob": 0.6369
   },
   {
     "id": 401869954,
@@ -535,7 +573,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.4617,
-    "pick": "Louisiana Tech"
+    "pick": "Louisiana Tech",
+    "fav": "Georgia Southern",
+    "fav_prob": 0.5514
   },
   {
     "id": 401858537,
@@ -567,7 +607,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6714,
-    "pick": "East Carolina"
+    "pick": "East Carolina",
+    "fav": "East Carolina",
+    "fav_prob": 0.5427
   },
   {
     "id": 401870804,
@@ -582,7 +624,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6559,
-    "pick": "Western Kentucky"
+    "pick": "Western Kentucky",
+    "fav": "Kennesaw State",
+    "fav_prob": 0.5174
   },
   {
     "id": 401871102,
@@ -597,7 +641,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.3069,
-    "pick": "Marshall"
+    "pick": "Marshall",
+    "fav": "Marshall",
+    "fav_prob": 0.6092
   },
   {
     "id": 401871103,
@@ -612,7 +658,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.7071,
-    "pick": "Old Dominion"
+    "pick": "Old Dominion",
+    "fav": "Old Dominion",
+    "fav_prob": 0.6164
   },
   {
     "id": 401856875,
@@ -627,7 +675,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6081,
-    "pick": "Colorado"
+    "pick": "Colorado",
+    "fav": "Colorado",
+    "fav_prob": 0.5108
   },
   {
     "id": 401856878,
@@ -642,7 +692,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.7258,
-    "pick": "Iowa State"
+    "pick": "Iowa State",
+    "fav": "Iowa State",
+    "fav_prob": 0.6092
   },
   {
     "id": 401862841,
@@ -657,7 +709,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.3908,
-    "pick": "Army"
+    "pick": "Army",
+    "fav": "Army",
+    "fav_prob": 0.669
   },
   {
     "id": 401869947,
@@ -672,7 +726,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.8714,
-    "pick": "James Madison"
+    "pick": "James Madison",
+    "fav": "James Madison",
+    "fav_prob": 0.8579
   },
   {
     "id": 401869959,
@@ -687,7 +743,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.3405,
-    "pick": "Louisiana"
+    "pick": "Louisiana",
+    "fav": "Louisiana",
+    "fav_prob": 0.6447
   },
   {
     "id": 401871063,
@@ -702,7 +760,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.105,
-    "pick": "Liberty"
+    "pick": "Liberty",
+    "fav": "Liberty",
+    "fav_prob": 0.8173
   },
   {
     "id": 401871082,
@@ -717,7 +777,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.8087,
-    "pick": "Florida International"
+    "pick": "Florida International",
+    "fav": "Florida International",
+    "fav_prob": 0.7958
   },
   {
     "id": 401871083,
@@ -732,7 +794,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.7432,
-    "pick": "Middle Tennessee"
+    "pick": "Middle Tennessee",
+    "fav": "Middle Tennessee",
+    "fav_prob": 0.583
   },
   {
     "id": 401858317,
@@ -764,7 +828,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6325,
-    "pick": "Arkansas State"
+    "pick": "Arkansas State",
+    "fav": "Arkansas State",
+    "fav_prob": 0.5934
   },
   {
     "id": 401856876,
@@ -779,7 +845,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.9229,
-    "pick": "BYU"
+    "pick": "BYU",
+    "fav": "BYU",
+    "fav_prob": 0.8173
   },
   {
     "id": 401858539,
@@ -794,7 +862,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.2804,
-    "pick": "Penn State"
+    "pick": "Penn State",
+    "fav": "Penn State",
+    "fav_prob": 0.7136
   },
   {
     "id": 401858543,
@@ -826,7 +896,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.7282,
-    "pick": "South Florida"
+    "pick": "South Florida",
+    "fav": "South Florida",
+    "fav_prob": 0.6854
   },
   {
     "id": 401864550,
@@ -841,7 +913,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.562,
-    "pick": "Northern Illinois"
+    "pick": "Northern Illinois",
+    "fav": "Northern Illinois",
+    "fav_prob": 0.6092
   },
   {
     "id": 401866475,
@@ -856,7 +930,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6159,
-    "pick": "Bowling Green"
+    "pick": "Bowling Green",
+    "fav": "Bowling Green",
+    "fav_prob": 0.5174
   },
   {
     "id": 401871062,
@@ -871,7 +947,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.5733,
-    "pick": "Delaware"
+    "pick": "Delaware",
+    "fav": "Delaware",
+    "fav_prob": 0.5325
   },
   {
     "id": 401862843,
@@ -886,7 +964,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6916,
-    "pick": "North Texas"
+    "pick": "North Texas",
+    "fav": "North Texas",
+    "fav_prob": 0.6164
   },
   {
     "id": 401856763,
@@ -918,7 +998,24 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.3758,
-    "pick": "Michigan State"
+    "pick": "Michigan State",
+    "fav": "Michigan State",
+    "fav_prob": 0.5635
+  },
+  {
+    "id": 401860926,
+    "logged_at_utc": "2026-11-22T18:34:37.555702+00:00",
+    "game_date": "2026-11-28",
+    "kickoff_utc": "2026-11-28T23:00:00.000Z",
+    "season": 2026,
+    "week": 13,
+    "season_type": "regular",
+    "away": "Boise State",
+    "home": "Colorado State",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.0589,
+    "pick": "Boise State"
   },
   {
     "id": 401856877,
@@ -933,7 +1030,24 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.6778,
-    "pick": "Oklahoma State"
+    "pick": "Oklahoma State",
+    "fav": "Oklahoma State",
+    "fav_prob": 0.6636
+  },
+  {
+    "id": 401860929,
+    "logged_at_utc": "2026-11-22T18:34:37.555702+00:00",
+    "game_date": "2026-11-28",
+    "kickoff_utc": "2026-11-28T23:30:00.000Z",
+    "season": 2026,
+    "week": 13,
+    "season_type": "regular",
+    "away": "San Diego State",
+    "home": "Washington State",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.3795,
+    "pick": "San Diego State"
   },
   {
     "id": 401858315,
@@ -948,7 +1062,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.1631,
-    "pick": "Pittsburgh"
+    "pick": "Pittsburgh",
+    "fav": "Pittsburgh",
+    "fav_prob": 0.718
   },
   {
     "id": 401856873,
@@ -980,7 +1096,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.75,
-    "pick": "UNLV"
+    "pick": "UNLV",
+    "fav": "UNLV",
+    "fav_prob": 0.6164
   },
   {
     "id": 401856874,
@@ -995,7 +1113,39 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.5846,
-    "pick": "Houston"
+    "pick": "Houston",
+    "fav": "Houston",
+    "fav_prob": 0.6225
+  },
+  {
+    "id": 401860928,
+    "logged_at_utc": "2026-11-22T18:34:37.555702+00:00",
+    "game_date": "2026-11-28",
+    "kickoff_utc": "2026-11-29T02:30:00.000Z",
+    "season": 2026,
+    "week": 13,
+    "season_type": "regular",
+    "away": "Texas State",
+    "home": "Utah State",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.2167,
+    "pick": "Texas State"
+  },
+  {
+    "id": 401860927,
+    "logged_at_utc": "2026-11-22T18:34:37.555702+00:00",
+    "game_date": "2026-11-28",
+    "kickoff_utc": "2026-11-29T03:00:00.000Z",
+    "season": 2026,
+    "week": 13,
+    "season_type": "regular",
+    "away": "Oregon State",
+    "home": "Fresno State",
+    "fbs_both": true,
+    "neutral": false,
+    "p_home": 0.5967,
+    "pick": "Fresno State"
   },
   {
     "id": 401864547,
@@ -1010,6 +1160,8 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.8213,
-    "pick": "Hawai'i"
+    "pick": "Hawai'i",
+    "fav": "Hawai'i",
+    "fav_prob": 0.8
   }
 ]
