@@ -1015,7 +1015,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.0589,
-    "pick": "Boise State"
+    "pick": "Boise State",
+    "fav": "Boise State",
+    "fav_prob": 0.9082
   },
   {
     "id": 401856877,
@@ -1047,7 +1049,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.3795,
-    "pick": "San Diego State"
+    "pick": "San Diego State",
+    "fav": "Washington State",
+    "fav_prob": 0.5339
   },
   {
     "id": 401858315,
@@ -1130,7 +1134,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.2167,
-    "pick": "Texas State"
+    "pick": "Texas State",
+    "fav": "Texas State",
+    "fav_prob": 0.707
   },
   {
     "id": 401860927,
@@ -1145,7 +1151,9 @@
     "fbs_both": true,
     "neutral": false,
     "p_home": 0.5967,
-    "pick": "Fresno State"
+    "pick": "Fresno State",
+    "fav": "Fresno State",
+    "fav_prob": 0.584
   },
   {
     "id": 401864547,
