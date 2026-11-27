@@ -823,3 +823,5 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-21,2026,12,regular,Houston,West Virginia,Houston,0.2369,0.7631,34,31,Houston,True,True,False,Houston,0.669,True
 2026-11-24,2026,13,regular,Kent State,Eastern Michigan,Eastern Michigan,0.6665,0.6665,12,17,Eastern Michigan,True,True,False,Eastern Michigan,0.6575,True
 2026-11-24,2026,13,regular,Miami (OH),Western Michigan,Western Michigan,0.727,0.727,28,24,Miami (OH),False,True,False,Western Michigan,0.6958,False
+2026-11-26,2026,13,regular,TCU,Texas Tech,Texas Tech,0.8494,0.8494,27,48,Texas Tech,True,True,False,Texas Tech,0.7508,True
+2026-11-27,2026,13,regular,Buffalo,Akron,Buffalo,0.2049,0.7951,17,9,Buffalo,True,True,False,Buffalo,0.7409,True
