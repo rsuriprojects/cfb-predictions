@@ -825,3 +825,15 @@ game_date,season,week,season_type,away,home,pick,p_home,conf,away_pts,home_pts,w
 2026-11-24,2026,13,regular,Miami (OH),Western Michigan,Western Michigan,0.727,0.727,28,24,Miami (OH),False,True,False,Western Michigan,0.6958,False
 2026-11-26,2026,13,regular,TCU,Texas Tech,Texas Tech,0.8494,0.8494,27,48,Texas Tech,True,True,False,Texas Tech,0.7508,True
 2026-11-27,2026,13,regular,Buffalo,Akron,Buffalo,0.2049,0.7951,17,9,Buffalo,True,True,False,Buffalo,0.7409,True
+2026-11-27,2026,13,regular,Florida,Florida State,Florida,0.4753,0.5247,26,10,Florida,True,True,False,Florida,0.6447,True
+2026-11-27,2026,13,regular,Nebraska,Iowa,Iowa,0.7571,0.7571,7,31,Iowa,True,True,False,Iowa,0.669,True
+2026-11-27,2026,13,regular,Temple,Memphis,Memphis,0.9409,0.9409,35,31,Temple,False,True,False,Memphis,0.8579,False
+2026-11-27,2026,13,regular,Air Force,New Mexico,New Mexico,0.7681,0.7681,19,42,New Mexico,True,True,False,New Mexico,0.675,True
+2026-11-27,2026,13,regular,Toledo,Ohio,Toledo,0.4406,0.5594,34,31,Toledo,True,True,False,Toledo,0.6309,True
+2026-11-27,2026,13,regular,Mississippi State,Ole Miss,Ole Miss,0.8835,0.8835,17,41,Ole Miss,True,True,False,Ole Miss,0.8223,True
+2026-11-27,2026,13,regular,North Dakota State,San José State,North Dakota State,0.186,0.814,38,31,North Dakota State,True,True,False,North Dakota State,0.8223,True
+2026-11-27,2026,13,regular,App State,South Alabama,South Alabama,0.6217,0.6217,13,20,South Alabama,True,True,False,South Alabama,0.5514,True
+2026-11-27,2026,13,regular,Texas,Texas A&M,Texas,0.2552,0.7448,16,6,Texas,True,True,False,Texas,0.7258,True
+2026-11-27,2026,13,regular,Tulsa,UTSA,UTSA,0.6478,0.6478,22,28,UTSA,True,True,False,UTSA,0.5514,True
+2026-11-27,2026,13,regular,West Virginia,Utah,Utah,0.963,0.963,28,52,Utah,True,True,False,Utah,0.8989,True
+2026-11-27,2026,13,regular,Minnesota,Wisconsin,Wisconsin,0.6467,0.6467,5,28,Wisconsin,True,True,False,Wisconsin,0.6908,True
